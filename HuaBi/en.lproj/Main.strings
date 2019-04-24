@@ -1,0 +1,577 @@
+
+/*
+ Localizable.strings
+ YJOTC
+ 
+ Created by 周勇 on 2017/12/22.
+ Copyright © 2017年 前海数交平台运营. All rights reserved.
+ */
+
+"MJRefreshHeaderIdleText" = "Pull down to refresh";
+"MJRefreshHeaderPullingText" = "Release to refresh";
+"MJRefreshHeaderRefreshingText" = "Loading...";
+
+"MJRefreshAutoFooterIdleText" = "Tap or pull up to load more";
+"MJRefreshAutoFooterRefreshingText" = "Loading...";
+"MJRefreshAutoFooterNoMoreDataText" = "No more data";
+
+"MJRefreshBackFooterIdleText" = "Pull up to load more";
+"MJRefreshBackFooterPullingText" = "Release to load more.";
+"MJRefreshBackFooterRefreshingText" = "Loading...";
+"MJRefreshBackFooterNoMoreDataText" = "No more data";
+
+"MJRefreshHeaderLastTimeText" = "Last updated: ";
+"MJRefreshHeaderDateTodayText" = "Today";
+"MJRefreshHeaderNoneLastDateText" = "No record";
+
+"load" = "Loading...";
+"wailt" = "Please wailt be patient.";
+
+"empty_msg" = "There is no data on this page.";
+
+"empty_refre" = "Refresh try";
+
+"net_alert_load_title" = "Network alert";
+"net_alert_load_message" = "Asia Pacific International disconnects. Please go to set up network.";
+"net_alert_load_message_cancel" = "cancel";
+"net_alert_load_message_sure" = "OK";
+
+"net_alert_load_page" = "Seems to be disconnected from the network.";
+"net_alert_load_refresh" = "Try to refresh";
+
+"main" = "Home";
+"news" = "News";
+"account" = "Account";
+"discover" = "Discover";
+"hangqing" = "Quotation";
+"trade" = "Trading";
+
+
+
+"Dis_Circle" = "Circles";
+"Dis_Chats" = "Chats";
+"Dis_Friends" = "Friends";
+"Dis_GroupChat" = "Group Chat";
+
+"Dis_PostVideo" = "Post Video";
+"Dis_Search" = "Search";
+"Dis_Postpic" = "Post Text";
+"Dis_AddGroupChat" = "Add GroupChat";
+"Dis_AddFriend" = "Add Friend";
+
+"Dis_AddAttention" = "+Follow";
+"Dis_AttentionEd" = "Following";
+"Dis_Follow" = "Follower";
+"Dis_SaySomeThing" = "Please say something~";
+"Dis_AllComments" = "All Comments";
+"Dis_Comments" = "Comments";
+"Dis_VistsCount" = "Visits";
+
+"Dis_Mine" = "Mine";
+"Dis_Post" = "Post";
+"Dis_Delete" = "Delete";
+"Dis_ViewAllComment" = "View all Comments>";
+"Dis_PersonalSpace" = "Personal Space";
+"Dis_DeleteThisComment" = "Delete this Comment";
+
+"Dis_NewFriend" = "New Friends";
+"Dis_Agreed" = "Agreed";
+"Dis_Agree" = "Agree";
+"Dis_DeleteFriendTips" = "Are you sure to delete this friend?";
+"Dis_ChooseContacts" = "Choose Contacts";
+"Dis_Done" = "Done";
+"Dis_GroupName" = "Group Name";
+"Dis_GroupAvatar" = "Group Head Portrait";
+"Dis_DeleteChatRecord" = "Delete Chat Record";
+"Dis_ViewProfile" = "View Profile";
+"Dis_DeleteAndLeave" = "Delete And Leave";
+"Dis_DissolveTheGroup" = "Dissolve the Group";
+"Dis_LeaveGroup" = "No prompt for other members and no group messages after you quit this group";
+
+
+"Confirm" = "OK";
+
+"Cancel" = "Cancel";
+
+
+"Tips_Login" = "Please Login";
+
+"Dis_PostTips" = "What's on your mind?";
+"Dis_PostDistrite" = "Post Dynamic";
+"Dis_TakePhoto" = "Take Photo";
+"Dis_ChooseFromAlbum" = "Choose from Album";
+"Dis_PostSuccess" = "Post Success";
+"Dis_RecordVideo" = "Record Video";
+
+
+//登錄注冊
+
+"LUserLogin" = "User Login";
+"LUserRegister" = "User Register";
+"LEnterUserName" = "Enter your user name";
+"LEnterVerificationCode" = "Enter verification code";
+"LGetVerificationCode" = "Get code ";
+"LEnterPWD" = "Enter password";
+"LEnterPWDAgain" = "Repeat password";
+"LEnterTransactionPWD" = "Enter transaction password";
+"LEnterTransactionPWDAgain" = "Repeat transaction password";
+"LEnterEamil" = "Enter your Email(Non mandatory)";
+"LEnterInvatationCode" = "Enter a invatation code(Mandatory)";
+"LRegister" = "Register";
+"LLogin" = "Login";
+"LUserName/email" = "User Name/Phone Number/Email";
+"LPassword" = "Password";
+"LForgetPWD" = "Forget password?";
+"LEnterPhoneNumber" = "Enter your phone Number";
+"LResend" = "Resend";
+"LCodeSendSuccess" = "Verification code has been sended";
+"LRegisterSuccess" = "Register Success";
+"LLoginSuccess" = "Login Success";
+"LPayPWDNotSame" = "The transaction passwords aren't same";
+"LLoginPWDNotSame" = "The login passwords aren't same";
+"LPWDLengthLessThan6" = "The length of password is less than six";
+"LAccoutLocked" = "Your account is locked and disable logon";
+
+"LUserNameError" = "User name or password is wrong";
+"LLoginFail" = "Login Fail";
+"LEmailError" = "Incorrect mailbox format";
+"LUserNameExist" = "User name has already existed";
+"LPhoneError" = "Incorrect phone number format";
+"LCodeError" = "Verification code is wrong";
+"LPhoneExist" = "Phone number name has already existed";
+"LServersIsBusy" = "The server is busy, please try again later";
+
+
+
+//查找好友
+"EFindFriend" = "Find Friend";
+"EUserName" = "Enter user Name";
+"ESearchResult" = "Search Result";
+"EFriendAdded" = "Added";
+"EAddFriend" = "Add";
+"ESayHello" = "Hello!";
+"EFriendRequestSendSuccess" = "Friend application succeed";
+"EFriendRequestSendFail" = "Friend application Failed";
+"ECantFindTheUser" = "Can't find the user";
+"EFindYourself" = "Find yourself";
+
+"ENotJoinGroup" = "You have not yet join group chat";
+"EDeleteMember" = "Delete Members";
+"EWelcomeToGroupChat" = "Welcome to Group chat~";
+"EToDeleteMember" = "Are you sure to delete the checked members?";
+"EChatInfo" = "Chat Info";
+"EMyAlbum" = "My Album";
+"ENoFriendapplicationRecord" = "There is no firend application Record";
+"EPhoneNumber" = "Phone Number";
+"EReceiveRequest" = "Receive Friend Application!";
+
+"EInputNewMessage" = "Input a new message";
+
+
+"Tip_LoginAtOtherDevice" = "Your account is logged in other device, please login again!";
+"Tip_YouHaveNewMessage" = "You have a new message";
+
+
+
+"T_MomentAgo" = "a moment ago";
+"T_MinsAgo" = "min ago";
+"T_HoursAgo" = "hour ago";
+"T_DayAgo" = "day ago";
+"T_WeeksAgo" = "week ago";
+
+"R_AgreeTip" = "I've agreed and read《Registration Protocol》";
+//"R_AgreeTip" = "I've agreed and read《Gather OTC Registration Protocol》";
+"C_NoMoreThan140" = "The length of the content is more than 140";
+"C_SearchHistory" = "Search history";
+"C_Dynamic" = "Dynamic";
+"C_NoSuchCOntent" = "No search for relevant content";
+"C_reply" = " reply ";
+"C_NoDynamic" = "No Dynamic";
+"C_Tip" = "Tips";
+"C_TipDetail" = "You'll delete this content and it's unrecoverable";
+"C_DeleteSuccess" = "Delete Success";
+"E_LocationTitle" = "Location Info";
+"E_LocationSend" = "Send";
+
+"R_PullDown" = "Pull down to refresh";
+"R_Loading" = "Loading ...";
+"R_Release" = "Release to refresh";
+"R_NoMoreData" = "No more data";
+
+"K_Scan" = "Scan";
+"K_ScanTips" = "Put the QR Code into the frame, and it can be automatically scanned";
+"k_Attention" = "Following";
+"R_nationality" = "nationality";
+"R_PhoneRegister" = "Mobile phone registration";
+"R_EmailRegister" = "Mailbox registration";
+"R_EnterEmail" = "Enter your Email";
+"R_NOCount?" = "Register";
+"R_HaveCount?" = "Have account?Please login";
+"R_ChooseNa" = "Please choose your nationality";
+"R_EMailOrPhone" = "Email or Phone Number";
+"R_NOCount?" = "NO account?Plseae register";
+"R_ChangeCoinCircle" = "Switch coin";
+"R_Message" = "Message";
+"R_Popularity" = "Popularity";
+"R_All" = "All";
+"R_HotCoinCircle" = "Hot coin circle";
+"R_SWitch" = "Switch";
+"R_China" = "China";
+
+"R_NoNetWork" = "network connection failure";
+"R_ConnectFail" = "request failure, please try again later";
+"k_ConfirmLoginout" = "Are you sure to login out?";
+"k_Retry" = "Retry";
+"k_NewVersion" = "Find new version,update please";
+
+"k_PicSaved" = "Save Success";
+"k_PicSaveFail" = "Save failed";
+"k_PleaseEnerInviiteCode" = "Please enter invite code";
+"k_PayLoginPWDSame" = "Login password and transaction password cannot be the same";
+
+"k_meViewcontroler_title" = "User Center";
+
+"k_meViewcontroler_s1_1" = "Essential information";
+
+"k_meViewcontroler_s1_2" = "My assets";
+
+"k_meViewcontroler_s1_3" = "Financial log";
+
+"k_meViewcontroler_s1_4" = "Security setting";
+
+"k_meViewcontroler_s1_5" = "Mine is mine";
+
+"k_meViewcontroler_s1_6" = "My bonus";
+
+"k_meViewcontroler_s1_7" = "My recommendation";
+
+"k_meViewcontroler_s2_1" = "Real name authentication";
+
+"k_meViewcontroler_s2_2" = "C2C transaction";
+
+"k_meViewcontroler_s2_3" = "My invitation";
+
+"k_meViewcontroler_s2_4" = "Help center";
+
+"k_meViewcontroler_s2_5" = "On us";
+
+"k_meViewcontroler_s2_6" = "Contact us";
+
+"k_meViewcontroler_s2_7" = "Generalized QR code";
+
+"k_meViewcontroler_loginout" = "Are you sure you want to log out?";
+
+"k_meViewcontroler_loginout_sure" = "Determine";
+
+"k_meViewcontroler_loginout_cancel" = "cancel";
+
+"k_meViewcontroler_loginout_set" = "Need to set";
+
+
+"k_meViewcontroler_loginAndLoginOut" = "Login  | Registration";
+
+"k_meViewcontroler_laccountDes" = "Account number";
+
+"k_meViewcontroler_nameDes" = "Name";
+
+"k_userinfoViewcontroler_title" = "User Profile";
+
+"k_meViewcontroler_name" = "Name:";
+
+"k_userinfoViewcontroler_email" = "User Email:";
+
+"k_userinfoViewcontroler_phone" = "Telephone:";
+
+"k_userinfoViewcontroler_type" = "Type of ID:";
+
+"k_userinfoViewcontroler_number" = "ID Number:";
+
+"k_userinfoViewcontroler_time" = "Certification Time:";
+
+"k_IndexViewController_f" = "Zh";
+"k_IndexViewController_e" = "Eng";
+"k_IndexViewController_lorr" = "Login / Regist";
+
+"k_IndexViewController_s2" = "Rise list(AT)";
+"k_IndexViewController_s3" = "Novice guidance";
+
+"k_IndexViewController_top_label" = "Today to be distributed income";
+"k_IndexViewController_top_label_1" = "Today  per million TTF cumulative";
+
+"k_QuotationListViewController_top_label_1" = "Main area";
+
+"k_MyinviteViewController_top_label_0" = "My invitation two-dimensional code";
+
+"k_MyinviteViewController_top_label_1" = "Scan code download App";
+
+"k_MyinviteViewController_top_label_2" = "Invit code";
+
+"k_MyinviteViewController_top_label_3" = "Jump to download link";
+
+"k_MyrecommendViewController_top_label_00" = "人数";
+"k_MyrecommendViewController_top_label_01" = "AT数：";
+"k_MyrecommendViewController_top_label_title" = "My recommend";
+"k_MyrecommendViewController_top_label_1" = "My recommend：";
+"k_MyrecommendViewController_top_label_2" = "Date";
+"k_MyrecommendViewController_top_label_3" = "Telephone Or email";
+"k_MyrecommendViewController_top_label_4" = "MemberArea(A/B)";
+"k_MyrecommendViewController_top_label_5" = "members";
+
+"k_MybounsViewController_title" = "My bonus";
+"k_MybounsViewController_top_label_1" = "Cumulative dividends：";
+"k_MybounsViewController_top_label_2" = "Date";
+"k_MybounsViewController_top_label_3" = "type";
+"k_MybounsViewController_top_label_4" = "Number";
+"k_MybounsViewController_top_label_s" = "Start Time";
+"k_MybounsViewController_top_label_e" = "End Time";
+"k_MybounsViewController_top_label_q" = "Query";
+
+//
+"k_MymineViewController_title" = "My Mine";
+"k_MymineViewController_top_label_1" = "Cumulative mining number";
+"k_MymineViewController_top_label_2" = "Date";
+"k_MymineViewController_top_label_3" = "type";
+"k_MymineViewController_top_label_4" = "Number";
+"k_MymineViewController_top_label_s" = "Start Time ▼";
+"k_MymineViewController_top_label_e" = "End Time ▼";
+"k_MymineViewController_top_label_q" = "Query";
+
+"k_MymineViewController_top_label_ss" = "select start time";
+
+"k_MymineViewController_top_label_ee" = "select end time";
+
+"k_MymineViewController_top_label_fq" = "Initiator";
+
+"k_MymineViewController_top_label_hh" = "Partner";
+
+"k_MymineViewController_top_label_hyjt" = "Member static";
+
+"k_MymineViewController_top_label_hyfx" = "Member sharing";
+
+"k_MymineViewController_top_label_fxwk" = "Share a mine";
+
+"k_MymineViewController_top_label_jtwk" = "Static mining";
+
+"k_MymineViewController_top_label_tcdl" = "Login Out";
+
+//k_meViewcontroler_s1_2
+"k_MyassetViewController_tableview_header_title" = "Trading account";
+"k_MyassetViewController_tableview_header_subtitle" = "Net assets equivalent (AT)";
+"k_MyassetViewController_tableview_header_hideButton" = "Currencies with hidden assets of 0";
+"k_MyassetViewController_tableview_list_cell_middle_label" = "available";
+"k_MyassetViewController_tableview_list_cell_right_label" = "Freezing";
+//
+"k_MyassetDetailViewController_tableview_header_middle" = "available";
+"k_MyassetDetailViewController_tableview_header_right" = "Freezing";
+"k_MyassetDetailViewController_tableview_header_left_Button" = "exchange AT";
+"k_MyassetDetailViewController_tableview_header_right_Button" = "exchange record";
+"k_MyassetDetailViewController_tableview_header_label" = "Current entrustment";
+"k_MyassetDetailViewController_tableview_cell_label" = "Entrustment type";
+"k_MyassetDetailViewController_tableview_cell_label0" = "Entrustment price";
+"k_MyassetDetailViewController_tableview_cell_label1" = "Buy in";
+"k_MyassetDetailViewController_tableview_cell_label2" = "Transfer to";
+"k_MyassetDetailViewController_tableview_cell_label3" = "Turn out";
+
+"k_MyassetDetailViewController_alert_lin1" = "quantity";
+"k_MyassetDetailViewController_alert_lin2" = "Exchange ratio column";
+"k_MyassetDetailViewController_alert_lin3" = "The amount of AT changed";
+"k_MyassetDetailViewController_alert_lin3_p" = "Please input quantity";
+"k_MyassetDetailViewController_alert_lin4" = "This conversion of AT consumes";
+"k_MyassetDetailViewController_alert_lin5" = "Transaction password";
+"k_MyassetDetailViewController_alert_lin5_p" = "Please enter the transaction password";
+"k_MyassetDetailViewController_alert_left_btn" = "submit";
+"k_MyassetDetailViewController_alert_middle_btn" = "reset";
+"k_MyassetDetailViewController_alert_right_btn" = "cancel";
+"k_MyassetDetailViewController_wt_price" = "EntrusPrice";
+"k_MyassetDetailViewController_wt_count" = "EntrusNumber";
+//账户--- 我的资产明细
+"k_ExchangeRecordViewController_title" = "Suffy";
+"k_ExchangeRecordViewController_topbar_0" = "whole";
+"k_ExchangeRecordViewController_topbar_1" = "Charge money";
+"k_ExchangeRecordViewController_topbar_2" = "Withdraw money";
+"k_ExchangeRecordViewController_topbar_3" = "Auditing";
+"k_ExchangeRecordViewController_topbar_4" = "Convertibility";
+
+"k_mybcbViewController_cbutton" = "Cpoy wallet address";
+"k_mybcbViewController_zbbutton" = "Book function";
+"k_mybcbViewController_zbdesbutton" = "Every transaction is recorded here.";
+"k_mybcbViewController_zcopy" = "Copy success";
+
+"k_bcbViewController_sellin" = "Sell In";
+"k_bcbViewController_sellout" = "Sell Out";
+"k_bcbViewController_des" = "1. Buyer's and Seller's Passport are all field inspection certification providers, and provide 1 million AT margin, you will freeze each exchange of commercial assets, commercial assets insufficient, can not accept orders, can be converted at ease; n2. Buyer's and Seller's passport are real-name certification providers, and provide a margin, can be converted at ease; n3. If you need to apply for a commercial passport, please email to Mail to aozhou168@outlook.com; \n4. please use my own bank card or Alipay or WeChat for remittance; \n5. merchant processing time 9:00 - 21:00 non processing time order will start in second days, will be completed within 24 hours after the completion of the payment. \n6. can only initiate 10 orders at a single day.";
+
+//账户-- 关于我们
+"k_onusViewController_title" = "on us";
+"k_onusViewController_name" = "Asia Pacific International";
+"k_onusViewController_title_detail_title" = "Asia Pacific International";
+"k_onusViewController_title_detail_des" = "Headquartered in New York, the Asia-Pacific International Digital Trading Platform will have offices in Southeast Asia, Europe, Hong Kong and North America in the future. It plays a very important role in the integration of international economy and trade. The Group has built the world's super digital asset service platform for the block chain industry worldwide, especially on both sides of the Atlantic Ocean, major countries and regions around the Pacific Economic Circle, and emerging economies. The Asia-Pacific International Digital Trading Platform is an international secure and reliable digital asset trading platform. It has received tens of millions of dollars of capital investment from several investment companies. The Asia-Pacific International Digital Trading Platform implements strict wind control and stable operation. In the future, the Asia-Pacific International Digital Trading Platform will mainly focus on the economies serving the R&D of block chain technology and the dissemination of authoritative application information, providing more digital asset trading services for the mainstream digital currency.";
+"k_contactViewController_title" = "contact with us";
+
+//实名认证
+
+"k_AuthViewController_title" = "Real name authentication";
+"k_AuthViewController_name" = "name";
+"k_AuthViewController_placehoder" = "Please input your name.";
+"k_AuthViewController_pc1" = "Front face of documents";
+"k_AuthViewController_pc2" = "Back of document";
+"k_AuthViewController_pc3" = "Handheld passport photo";
+"k_AuthViewController_comit" = "Submission of audit";
+
+//账户-- 安全设置
+"k_YTsetViewController_s1" = "Transaction password";
+"k_YTsetViewController_s1_det" = "Release advertising, exchange advertising assets, modify security settings when input";
+"k_YTsetViewController_s2" = "Binding mailbox";
+"k_YTsetViewController_s2_det" = "Input for login, currency recovery, and security settings modification.";
+"k_YTsetViewController_s3" = "Binding cell phone";
+"k_YTsetViewController_s3_det" = "To collect, verify, and verify SMS, password and security settings.";
+"k_YTsetViewController_s4" = "Login password";
+"k_YTsetViewController_s4_det" = "Input for login account";
+
+"k_YTsetViewController_bt1" = "modify";
+"k_YTsetViewController_bt2" = "Binding";
+"k_YTsetViewController_bt3" = "Binding";
+"k_YTsetViewController_bt4" = "modify";
+
+"k_ModifysetViewController_t1" = "Please enter the original transaction password";
+"k_ModifysetViewController_t2" = "Please enter a new transaction password.";
+"k_ModifysetViewController_t3" = "Please confirm the new transaction password.";
+"k_ModifysetViewController_b1" = "Save modification";
+
+//账户-- 安全设置 -- 修改邮箱
+"k_BindsetViewController_t1" = "";
+"k_ModifysetViewController_t2" = "Please input your email address.";
+"k_ModifysetViewController_t3" = "Binding mailbox";
+"k_ModifysetViewController_t4" = "complete";
+"k_ModifysetViewController_b1" = "Determine";
+"k_ModifysetViewController_emai" = "Get mail code";
+"LCodeSendSuccess_email" = "Mailbox authentication code sent successfully";
+
+//账户-- 安全设置 -- 修改登录密码
+"k_ModifyLoginsetViewController_t1" = "Please input the original login password.";
+"k_ModifyLoginViewController_t2" = "Please enter a new login password";
+"k_ModifyLoginViewController_t3" = "Please confirm the new login password";
+"k_ModifyLoginViewController_b1" = "Save modification";
+//账户-- 安全设置 -- 修改绑定手机
+"k_BindphonesetViewController_t1" = "Please input the email.";
+"k_BindphoneViewController_t2" = "Please input verification code";
+"k_BindphoneViewController_t3" = "Binding cell phone";
+"k_BindphoneViewController_b0" = "Send verification code";
+"k_BindphoneViewController_t4" = "complete";
+"k_BindphoneViewController_b1" = "Determine";
+"k_Bined" = "binded";
+//账户--- 财务日志
+"k_FinsetViewController_title" = "Financial log";
+"k_FinsetViewController_type" = "Type";
+"k_FinsetViewController_type1" = "Decription";
+"k_FinsetViewController_type2" = "Variable funds";
+"k_FinsetViewController_type3" = "Expenditure / revenue";
+"k_FinsetViewController_type4" = "Integral name";
+"k_FinsetViewController_type5" = "Transaction time";
+
+//C2C-
+"k_PAYViewController_typec" = "card";
+"k_PAYViewController_typea" = "alipay";
+"k_PAYViewController_typew" = "wechat";
+"k_PAYViewController_typed" = "New payment method";
+//pop view
+"k_popview_1" = "Payment method";
+"k_popview_2" = "New payment method";
+"k_popview_3" = "Recent exchange records";
+"k_popview_4" = "Operation description";
+
+"k_popview_list_cat4" = "Recharge type：CNY";
+"k_popview_list_cat5" = "Sub branch: Announcement";
+"k_popview_list_cat6" = "delete bank card";
+//添加微信银行卡
+"k_popview_list_countname" = "counter";
+"k_popview_list_placehoder" = "Tip: add only my account number.";
+"k_popview_list_qr" = "Receipt two-dimensional code";
+"k_popview_list_sureto_add" = "Determine the addition of";
+"k_popview_list_sureto_tips" = "Please input your account name.";
+"k_popview_list_sureto_commit" = "Please upload the WeChat payment code.";
+//添加银行卡
+"k_bank_popview_list_countname" = "countterID";
+"k_bank_popview_list_countname_place" = "Tip: add only my bank card to my name.";
+"k_bank_popview_list_countname_kaihu" = "Account opening bank";
+"k_bank_popview_list_countname_kaihu_place" = "RMB withdrawals only support banks in the list";
+"k_bank_popview_list_szd" = "Location";
+"k_bank_popview_list_khzh" = "Account opening branch";
+"k_bank_popview_list_yhk" = "Bank card";
+"k_bank_popview_list_countname_repeat" = "Repeat card number";
+
+"k_TradeViewController_title" = "Trade";
+"k_TradeViewController_seg01" = "Purchase";
+"k_TradeViewController_seg02" = "Sell";
+"k_TradeViewController_seg03" = "Cancellations";
+"k_TradeViewController_seg04" = "Records";
+
+"k_YTBuyAndSellDetailTableViewController_total_prouct" = "Total Prouct:";
+"k_YTBuyAndSellDetailTableViewController_integral_amount" = "Integral amount:";
+"k_YTBuyAndSellDetailTableViewController_integral_freezing" = "Integral freezing:";
+"k_YTBuyAndSellDetailTableViewController_latest_deal" = "Latest deal";
+"k_YTBuyAndSellDetailTableViewController_buyPriceCannotBeEmpty" = "Buy price can't be empty";
+"k_YTBuyAndSellDetailTableViewController_sellPriceCannotBeEmpty" = "Sell price can't be empty";
+"k_YTBuyAndSellDetailTableViewController_TheNumberOfBuyingCannotBeEmpty" = "The Number Of Buying can't be empty";
+"k_YTBuyAndSellDetailTableViewController_TheNumberOfSellingCannotBeEmpty" = "The Number Of Selling can't be empty";
+"k_YTBuyAndSellDetailTableViewController_TransactionCannotBeEmpty" = "Transaction password can't be empty";
+"sell" = "Sell";
+"buy" = "Buy";
+"sell_2" = "Sell";
+"buy_2" = "Buy";
+
+"Price" = "Price";
+"Buy_price" = "Price";
+"Sell_price" = "Price";
+"Entrust" = "Entrust";
+"Number" = "Number";
+"Trade_code" = "Trade code";
+"Buy_immediately" = "Buy immediately";
+"Sell_immediately" = "Sell immediately";
+
+"Time" = "Time";
+"Type" = "Type";
+"Trade_price" = "Price";
+"Trade_volume" = "Volume";
+"Total" = "Total";
+
+"Entrustment_type" = "Entrustment type";
+"Entrust_price" = "Entrust";
+"Quantity_entrusted" = "Quantity entrusted";
+
+"Quotation" = "Quotation";
+"Option" = "Option";
+
+
+//账户-- 帮助中心
+
+"k_HBHelpCenteriewController_title" = "Help center";
+"k_HBHelpCenteriewController_normal" = "";
+"k_HBHelpCenteriewController_about" = "Common problems";
+"k_HBHelpCenteriewController_notice" = "Information Bulletin";
+"k_HBHelpCenteriewController_version" = "veision";
+//常见问题
+"k_HBcommonQuestioniewController_titile" = "How can I manage to withdraw cash?";
+//账户
+"HBAccountTableViewController_isexpire" = "Click To login";
+"HBMemberViewController_info" = "Essential information";
+"HBMemberViewController_authdes" = "Identity authentication";
+"HBMemberViewController_authstat0" = "Uncertified";
+"HBMemberViewController_authstat1" = "Audit";
+"HBMemberViewController_authstat2" = "Certified";
+"HBMemberViewController_name" = "name";
+"HBMemberViewController_acctounter" = "accounter";
+"HBMemberViewController_country" = "country";
+"HBMemberViewController_carid" = "ID:";
+"HBMemberViewController_time" = "Authentication time:";
+"HBMemberViewController_loginOut" = "Exit";
+//我的资产
+"HBAsetViewController_header" = "My assets";
+"HBAsetViewController_s1" = "Account assets";
+"HBAsetViewController_s2" = "Financial log";
+//返傭獎勵
+"HBRewardViewController_header" = "Reward for maid";
+"HBRewardViewController_s1" = "My recommendation";
+"HBRewardViewController_s2" = "Mining reward";
+"HBRewardViewController_s3" = "Bonus bonus";
+"HBRewardViewController_s4" = "Invite two dimensional code";

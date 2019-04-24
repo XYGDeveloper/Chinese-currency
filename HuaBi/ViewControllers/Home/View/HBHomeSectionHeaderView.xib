@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="HBHomeSectionHeaderView">
+            <rect key="frame" x="0.0" y="0.0" width="367" height="50"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="F52-MF-0PA">
+                    <rect key="frame" x="0.0" y="4" width="367" height="45"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="最新資訊" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CVu-Rf-Dz4">
+                            <rect key="frame" x="16" y="12" width="69.5" height="21"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                            <color key="textColor" red="0.87058823529999996" green="0.8980392157" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dengduo_icon" translatesAutoresizingMaskIntoConstraints="NO" id="Fwd-v2-3gi">
+                            <rect key="frame" x="347" y="16" width="8" height="13"/>
+                        </imageView>
+                    </subviews>
+                    <color key="backgroundColor" red="0.043137254899999998" green="0.074509803920000006" blue="0.1647058824" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstItem="CVu-Rf-Dz4" firstAttribute="centerY" secondItem="F52-MF-0PA" secondAttribute="centerY" id="DFM-Zd-AgU"/>
+                        <constraint firstItem="CVu-Rf-Dz4" firstAttribute="centerY" secondItem="F52-MF-0PA" secondAttribute="centerY" id="Fb2-hn-KCr"/>
+                        <constraint firstAttribute="trailing" secondItem="Fwd-v2-3gi" secondAttribute="trailing" constant="12" id="N1e-Oo-oX9"/>
+                        <constraint firstItem="CVu-Rf-Dz4" firstAttribute="leading" secondItem="F52-MF-0PA" secondAttribute="leading" constant="16" id="afA-JV-9Hp"/>
+                        <constraint firstItem="Fwd-v2-3gi" firstAttribute="centerY" secondItem="F52-MF-0PA" secondAttribute="centerY" id="eTe-8s-9sO"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="F52-MF-0PA" secondAttribute="bottom" constant="1" id="K1l-8I-rp5"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="F52-MF-0PA" secondAttribute="trailing" id="daZ-cm-pjm"/>
+                <constraint firstItem="F52-MF-0PA" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="4" id="lwb-Zr-eNt"/>
+                <constraint firstItem="F52-MF-0PA" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="nNj-VF-DeW"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="containerView" destination="F52-MF-0PA" id="YPm-qi-wrr"/>
+                <outlet property="titleLabel" destination="CVu-Rf-Dz4" id="49X-ok-2un"/>
+            </connections>
+            <point key="canvasLocation" x="47.200000000000003" y="-231.18440779610197"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="dengduo_icon" width="8" height="13.5"/>
+    </resources>
+</document>

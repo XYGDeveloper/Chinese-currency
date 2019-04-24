@@ -1,0 +1,1487 @@
+
+"K_Langage_fan" = "中文";
+"K_Langag_en" = "English";
+"K_Langag_th" = "บทความภาษาไทย";
+"K_Langag_ko" = "한글";
+"K_Langag_japen" = "日本語";
+
+"MJRefreshHeaderIdleText" = "끌어 내릴 수 있습니다.";
+"MJRefreshHeaderPullingText" = "즉시 새로 고침 해제";
+"MJRefreshHeaderRefreshingText" = "데이터 새로 고침 중 ...";
+
+"MJRefreshAutoFooterIdleText" = "더 많이로드하려면 누르거나 당깁니다";
+"MJRefreshAutoFooterRefreshingText" = "더 많은 데이터로드 중 ...";
+"MJRefreshAutoFooterNoMoreDataText" = "이미 모두로드";
+
+"MJRefreshBackFooterIdleText" = " '업로드가 더로드 될 수 있습니다.'";
+"MJRefreshBackFooterPullingText" = "더 많은 하중을 풀어 라";
+"MJRefreshBackFooterRefreshingText" = "더 많은 데이터로드 중 ...";
+"MJRefreshBackFooterNoMoreDataText" = "이미 모두로드";
+
+"MJRefreshHeaderLastTimeText" = "마지막 업데이트 :";
+"MJRefreshHeaderDateTodayText" = "오늘";
+"MJRefreshHeaderNoneLastDateText" = "기록 없음";
+
+"load" = "로드 중 ...";
+"wailt" = "인내심을 가져라.";
+"empty_msg" = "아직 데이터가 없습니다";
+"empty_refre" = "새로 고침 시도";
+
+"net_alert_load_title" = "네트워크 프롬프트";
+"net_alert_load_message" = "화 코인가 네트워크에서 연결이 끊어졌습니다. 네트워크를 설정하십시오.";
+"net_alert_load_message_cancel" = "취소";
+"net_alert_load_message_sure" = "OK";
+
+"net_alert_load_page" = "네트워크에서 연결이 끊어진 것 같습니다.";
+"net_alert_load_refresh" = "새로 고침";
+
+"main" = "홈";
+"news" = "정보";
+"hangqing" = "시장";
+"account" = "계정";
+"discover" = "발견";
+"trade" = "거래";
+
+
+
+"Dis_Circle" = "원";
+"Dis_Chats" = "채팅";
+"Dis_Friends" = "친구";
+"Dis_GroupChat" = "대화방";
+
+"Dis_PostVideo" = "비디오 보내기";
+"Dis_Search" = "검색";
+"Dis_Postpic" = "텍스트";
+"Dis_AddGroupChat" = "그룹 채팅 시작";
+"Dis_AddFriend" = "친구 추가";
+
+"Dis_AddAttention" = "주목";
+"Dis_AttentionEd" = "우려하고있다";
+"Dis_Follow" = "팬들";
+"Dis_SaySomeThing" = "뭔가 말해봐?";
+"Dis_AllComments" = "모든 의견";
+"Dis_Comments" = "의견";
+"Dis_VistsCount" = "방문";
+
+"Dis_Mine" = "내";
+"Dis_Post" = "석방";
+"Dis_Delete" = "삭제";
+"Dis_ViewAllComment" = "모든 의견보기>";
+"Dis_PersonalSpace" = "개인 공간";
+"Dis_DeleteThisComment" = "이 댓글 삭제";
+
+"Dis_NewFriend" = "새로운 친구";
+"Dis_Agreed" = "이미 동의했다";
+"Dis_Agree" = "동의한다";
+"Dis_DeleteFriendTips" = "이 친구를 삭제 하시겠습니까?";
+"Dis_ChooseContacts" = "연락처 선택";
+"Dis_Done" = "완료";
+"Dis_GroupName" = "그룹 채팅 이름";
+"Dis_GroupAvatar" = "그룹 아바타";
+"Dis_DeleteChatRecord" = "채팅 기록 비우기";
+"Dis_ViewProfile" = "정보보기";
+"Dis_DeleteAndLeave" = "삭제하고 종료하십시오";
+"Dis_DissolveTheGroup" = "이 그룹을 해체하라";
+"Dis_LeaveGroup" = "그룹 채팅의 다른 회원은 로그 아웃 한 후 알림을받지 않습니다. 더 이상이 그룹 채팅 메시지를 수락하지 않습니다. ";
+
+
+"Confirm" = "결정";
+
+"Cancel" = "취소";
+"History" = "역사";
+"Tips_Login" = "먼저 로그인하십시오.";
+
+"Dis_PostTips" = "이 순간의 생각";
+"Dis_PostDistrite" = "릴리스 역학";
+"Dis_TakePhoto" = "사진";
+"Dis_ChooseFromAlbum" = "휴대폰 앨범에서 선택";
+"Dis_PostSuccess" = "성공적으로 릴리스 됨";
+"Dis_RecordVideo" = "비디오 녹화";
+
+
+
+"LUserLogin" = "사용자 로그인";
+"LUserRegister" = "사용자 등록";
+"LEnterUserName" = "사용자 이름을 입력하십시오";
+"LEnterVerificationCode" = "인증 코드를 입력하십시오.";
+"LGetVerificationCode" = "인증 코드 가져 오기";
+"LEnterPWD" = "로그인 비밀번호를 입력하십시오.";
+"LEnterPWDAgain" = "다시 로그인 비밀번호를 입력하십시오";
+"LEnterTransactionPWD" = "거래 비밀번호를 입력하십시오.";
+"LEnterTransactionPWDAgain" = "거래 비밀번호를 다시 입력하십시오.";
+"LEnterEamil" = "귀하의 이메일 주소를 입력하십시오";
+"LEnterInvatationCode" = "초대 코드를 입력하십시오 (필수)";
+"LRegister" = "등록";
+"LLogin" = "로그인";
+"LUserName/email" = "계좌 번호 / 전화 번호 / 사서함";
+"LPassword" = "비밀번호";
+"LForgetPWD" = "비밀번호를 분실하셨습니까?";
+"LEnterPhoneNumber" = "귀하의 휴대폰 번호를 입력하십시오";
+"LResend" = "재전송";
+"LCodeSendSuccess" = "인증 코드가 성공적으로 전송되었습니다";
+"LCodeSendSuccess_email" = "사서함 확인 코드가 성공적으로 전송되었습니다.";
+"LRegisterSuccess" = "성공적으로 등록";
+"LLoginSuccess" = "로그인 성공";
+"LPayPWDNotSame" = "두 번 입력 한 지불 비밀번호가 의미하는 것은 아닙니다.";
+"LLoginPWDNotSame" = "두 번 입력 한 로그인 비밀번호가 의미하는 것은 아닙니다.";
+"LPWDLengthLessThan6" = "비밀번호는 최소 6 자 이상이어야합니다.";
+"LAccoutLocked" = "계정이 잠겨 있습니다. 로그인하지 않았습니다.";
+
+"LUserNameError" = "사용자 이름 또는 비밀번호가 잘못되었습니다.";
+"LLoginFail" = "로그인 실패";
+"LEmailError" = "편지함 형식이 잘못되었습니다.";
+"LUserNameExist" = "영어 이름은 이미 존재합니다";
+"LPhoneError" = "전화 번호 형식이 잘못되었습니다.";
+"LCodeError" = "전화 인증 코드가 잘못되었습니다.";
+"LPhoneExist" = "휴대 전화 번호가 이미 있습니다.";
+"LServersIsBusy" = "서버가 사용 중이므로 나중에 다시 시도하십시오.";
+
+
+
+"EFindFriend" = "친구 찾기";
+"EUserName" = "사용자 이름을 입력하십시오";
+"ESearchResult" = "검색 결과";
+"EFriendAdded" = "추가됨";
+"EAddFriend" = "";
+"ESayHello" = "오, 좋다!";
+"EFriendRequestSendSuccess" = "친구 신청서가 성공적으로 전송되었습니다";
+"EFriendRequestSendFail" = "친구 요청을 보내지 못했습니다.";
+"ECantFindTheUser" = "사용자를 찾을 수 없습니다";
+"EFindYourself" = "너 자신을 찾아라";
+
+"ENotJoinGroup" = "아직 그룹에 가입하지 않았습니다";
+"EDeleteMember" = "회원 삭제";
+"EWelcomeToGroupChat" = "그룹 채팅에 오신 것을 환영합니다 ~";
+"EToDeleteMember" = "선택한 회원을 삭제 하시겠습니까?";
+"EChatInfo" = "채팅 정보";
+"EMyAlbum" = "내 앨범";
+"ENoFriendapplicationRecord" = "친구는 기록을 신청하지 않습니다";
+"EPhoneNumber" = "휴대 전화 번호";
+"EReceiveRequest" = "친구를 받아 신청하십시오!";
+
+"EInputNewMessage" = "새 메시지를 입력하십시오";
+
+
+"Tip_LoginAtOtherDevice" = "귀하의 계정은 다른 곳에서 로그인되었습니다. 다시 로그인하십시오!";
+"Tip_YouHaveNewMessage" = "새로운 소식이 있으니 클릭하여 보시오.";
+
+
+"T_MomentAgo" = "그냥";
+"T_MinsAgo" = "분전에";
+"T_HoursAgo" = "시간 전";
+"T_DayAgo" = "일 전";
+"T_WeeksAgo" = "주 이전에";
+
+
+"R_AgreeTip" = "등록은 화 코인 등록 계약과 일치하는 것으로 간주됩니다";
+"C_NoMoreThan140" = "최대 140 자까지 입력";
+"C_SearchHistory" = "역사적인 검색";
+"C_Dynamic" = "동적";
+"C_NoSuchCOntent" = "관련 내용 없음";
+"C_reply" = "Reply";
+"C_NoDynamic" = "동적 없음";
+"C_Tip" = "따뜻한 알림";
+"C_TipDetail" = "리소스 정보를 삭제합니다. 삭제 후에는 복원 할 수 없습니다.";
+"C_NoDynamic" = "동적 없음";
+"C_Tip" = "따뜻한 알림";
+"C_TipDetail" = "리소스 정보를 삭제합니다. 삭제 후에는 복원 할 수 없습니다.";
+"C_DeleteSuccess" = "성공적으로 삭제";
+"E_LocationTitle" = "위치 정보";
+"E_LocationSend" = "보내기";
+
+"R_PullDown" = "끌어 내릴 수 있습니다.";
+"R_Loading" = "데이터 새로 고침";
+"R_Release" = "즉시 새로 고침 해제";
+"R_NoMoreData" = "데이터 없음";
+
+"K_Scan" = "빗자루 청소";
+"K_ScanTips" = "상자에 QR 코드 넣기. 자동 스캔";
+"k_Attention" = "관심";
+"R_nationality" = "국적";
+"R_PhoneRegister" = "모바일 등록";
+"R_EmailRegister" = "사서함 등록";
+"R_NOCount?" = "계정이 없으십니까?";
+"R_ChooseNa" = "국적을 선택하십시오";
+"R_EnterEmail" = "귀하의 이메일 주소를 입력하십시오";
+"R_HaveCount?" = "계정이 있습니까? 로그인하십시오.";
+"R_EMailOrPhone" = "우편 또는 휴대 전화 번호";
+"R_NOCount?" = "계정이 없으십니까?";
+"R_ChangeCoinCircle" = "통화 원 전환";
+"R_Message" = "정보";
+"R_Popularity" = "인기";
+"R_HotCoinCircle" = "톱 통화 원";
+"R_SWitch" = "스위치";
+"R_China" = "중국";
+"R_NoNetWork" = "네트워크 연결 실패";
+"R_ConnectFail" = "요청이 실패했습니다. 나중에 다시 시도하십시오.";
+"k_ConfirmLoginout" = "로그 아웃 하시겠습니까?";
+"k_Retry" = "재시도";
+"k_NewVersion" = "새 버전을 찾았습니다. 업그레이드로 가십시오.";
+
+"k_PicSaved" = "이미지가 성공적으로 저장되었습니다.";
+"k_PicSaveFail" = "이미지를 저장하지 못했습니다";
+"k_PleaseEnerInviiteCode" = "초대 코드를 입력하십시오.";
+"k_PayLoginPWDSame" = "로그인 비밀번호와 거래 비밀번호가 같을 수 없습니다";
+"k_meViewcontroler_title" = "사용자 센터";
+"k_meViewcontroler_s1_1" = "기본 정보";
+
+"k_meViewcontroler_s1_2" = "나의 자산";
+
+"k_meViewcontroler_s1_3" = "재무 기록";
+
+"k_meViewcontroler_s1_4" = "보안 설정";
+
+"k_meViewcontroler_s1_5" = "내 채광";
+
+"k_meViewcontroler_s1_6" = "내 배당금";
+
+"k_meViewcontroler_s1_7" = "내 추천";
+
+"k_meViewcontroler_s2_1" = "실명 인증";
+
+"k_meViewcontroler_s2_2" = "C2C 거래";
+
+"k_meViewcontroler_s2_3" = "내 초대장";
+
+"k_meViewcontroler_s2_4" = "도움말 센터";
+
+"k_meViewcontroler_s2_5" = "우리 소개";
+
+"k_meViewcontroler_s2_6" = "연락처";
+
+"k_meViewcontroler_s2_7" = "QR 코드 홍보";
+"k_meViewcontroler_loginout" = "로그 아웃 하시겠습니까?";
+"k_meViewcontroler_loginout_sure" = "결정";
+"k_meViewcontroler_loginout_cancel" = "취소";
+
+"k_meViewcontroler_loginout_set" = "아직 설정되지 않았습니다";
+
+"k_meViewcontroler_loginAndLoginOut" = "로그인 | 등록";
+"k_meViewcontroler_laccountDes" = "계정";
+"k_meViewcontroler_nameDes" = "이름";
+"k_userinfoViewcontroler_title" = "사용자 정보";
+
+"k_meViewcontroler_name" = "이름 :";
+
+"k_userinfoViewcontroler_email" = "";
+
+"k_userinfoViewcontroler_phone" = "전화 번호:";
+
+"k_userinfoViewcontroler_type" = "문서 유형 :";
+
+"k_userinfoViewcontroler_number" = "문서 번호 :";
+
+"k_userinfoViewcontroler_time" = "인증 시간 :";
+"k_IndexViewController_f" = "繁 繁";
+"k_IndexViewController_e" = "英";
+"k_IndexViewController_lorr" = "로그인 / 등록";
+"k_IndexViewController_s2" = "추세 표(AT)";
+"k_IndexViewController_s3" = "초심자 안내";
+"k_IndexViewController_top_label" = "오늘 분배 될 소득의 총 분배";
+"k_IndexViewController_top_label_1" = "오늘 TTF 당 총 수익";
+
+"k_QuotationListViewController_top_label_1" = "주요 지역";
+
+
+"k_MyinviteViewController_top_label_0" = "나의 초대 QR 코드";
+
+"k_MyinviteViewController_top_label_1" = "브라우저에서 화 코인 APP를 다운로드하려면 코드를 스캔하십시오.";
+"k_MyinviteViewController_top_label_number" = " 나는 25646666. 화 코인의 No. 563478 회원";
+"k_MyinviteViewController_top_label_wailt" = "나는 중국 통화로 당신을 기다리고 있습니다, 나는 그것을 볼 수 없습니다";
+"k_MyinviteViewController_top_label_paste_btn" = "복사 링크";
+
+
+"k_MyinviteViewController_top_label_2" = "귀너의 초대 코드";
+
+"k_MyinviteViewController_top_label_3" = "다운로드 링크로 이동";
+"k_MyinviteViewController_top_label_3_1" = "1000KOKcy를 받기 위해 등록하십시오";
+"k_MyinviteViewController_text_field_msg" = "1000KOKcy를 받기 위해 등록하십시오.무료 현금 인출, 상환, 배당.다음 잉어가 되어라.귀하의 독점적 인 링크 : ";
+"k_MyinviteViewController_i_am" = "나는있다";
+"k_MyinviteViewController_hua_bi_hui_yuan" = "화 코인의 No.";
+"k_MyinviteViewController_hua_bi_hui_yuan_num" = "명 회원";
+"k_MyrecommendViewController_top_label_00" = "회원 수량";
+"k_MyrecommendViewController_top_label_01" = "AT 수 :";
+
+
+"k_MyrecommendViewController_top_label_title" = "내 추천";
+"k_MyrecommendViewController_top_label_1" = "내 추천 :";
+"k_MyrecommendViewController_top_label_2" = "등록일";
+"k_MyrecommendViewController_top_label_3" = "휴대 전화 번호 또는 사서함";
+"k_MyrecommendViewController_top_label_4" = "회원 수준";
+
+"k_MyrecommendViewController_top_label_5" = "회원";
+
+
+"k_MybounsViewController_title" = "나의 배당금";
+"k_MybounsViewController_top_label_1" = "누적 배당금 :";
+"k_MybounsViewController_top_label_2" = "출시일";
+"k_MybounsViewController_top_label_3" = "발행 유형";
+"k_MybounsViewController_top_label_4" = "배당 수량";
+"k_MybounsViewController_top_label_s" = "시작 시간";
+"k_MybounsViewController_top_label_e" = "종료 시간";
+"k_MybounsViewController_top_label_q" = "query";
+
+
+"k_MymineViewController_tradeMine" = "거래 마이닝 지침";
+"k_MymineViewController_tradeMine_detail" = "다시 현금의 일정 비율 (이하 10,000 이상의 개인 KOK 총) 청구 거래 수수료, 제목 규칙 보상 거래 수수료 조정 구역에 더 많은 보상 거래 플랫폼 권한, 플랫폼 발표에주의하십시오 변경 ...";
+"k_MymineViewController_inviteMine" = "초대 광업 지침";
+"k_MymineViewController_inviteMine_detail" = "심판에 대한 보상의 일정 비율 청구하는 거래 수수료, 필요가 더 초대 KOK을 들고 개인의 수를 평가하기 위해, 더욱 더 보람 거래. 규칙 보상 준비금을 조절 할 수있는 권리 플랫폼에 대한 거래 수수료, 주제는 플랫폼 발표에주의하십시오 변경 ";
+"k_MymineViewController_teamMine" = "팀 보상 설명";
+"k_MymineViewController_teamMine_detail" = "직접 올리기 평가 팀 수를 보상 할 필요가 거래 금액의 조건은, 팀은 KOK 총 자산을 보유, 추천의 더 많은 수, 더 많은 거래, 더 보상. 거래 수수료 보상 규칙 조정 구역에 마우스 오른쪽 플랫폼 변경 될 수 있습니다, 제발 플랫폼 발표에주의하십시오. ";
+
+
+
+"k_MymineViewController_title" = "나의 채광";
+"k_MymineViewController_top_label_1" = "누적 광산 번호 :";
+"k_MymineViewController_top_label_2" = "출시일";
+"k_MymineViewController_top_label_3" = "발행 유형";
+"k_MymineViewController_top_label_4" = "채광 수량";
+"k_MymineViewController_top_label_s" = "시작 시간 ▼";
+"k_MymineViewController_top_label_e" = "종료 시간 ▼";
+"k_MymineViewController_top_label_q" = "쿼리";
+
+"k_MymineViewController_top_label_ss" = "시작 시간을 선택하십시오";
+
+"k_MymineViewController_top_label_ee" = "종료 시간을 선택하십시오";
+
+"k_MymineViewController_top_label_fq" = "개시 자";
+
+"k_MymineViewController_top_label_hh" = "파트너";
+
+"k_MymineViewController_top_label_hyjt" = "정적 멤버";
+
+"k_MymineViewController_top_label_hyfx" = "회원 공유";
+
+"k_MymineViewController_top_label_fxwk" = "공유 마이닝";
+
+"k_MymineViewController_top_label_jtwk" = "정적 광업";
+
+"k_MymineViewController_top_label_tcdl" = "로그 아웃";
+
+"k_HomeViewController_tableview_header_title" = "최신 정보";
+"k_HomeViewController_tableview_header_quo" = "추세 표";
+"Invite" = "초대장";
+
+"k_MyassetViewController_tableview_header_title" = "거래 계좌";
+"k_MyassetViewController_tableview_header_subtitle" = "총 자산 전환 (KOK)";
+"k_MyassetViewController_tableview_header_hideButton" = "숨겨진 자산은 0 통화입니다.";
+"k_MyassetViewController_tableview_list_cell_middle_label" = "이용 가능";
+"k_MyassetViewController_tableview_list_cell_right_label" = "동결";
+
+"k_MyassetDetailViewController_tableview_header_middle" = "이용 가능";
+"k_MyassetDetailViewController_tableview_header_right" = "동결";
+"k_MyassetDetailViewController_tableview_header_left_Button" = "AT로 교환";
+"k_MyassetDetailViewController_tableview_header_right_Button" = "교환 기록";
+"k_MyassetDetailViewController_tableview_header_label" = "현재 수수료";
+"k_MyassetDetailViewController_tableview_header_selectBtn" = "심사";
+
+"k_MyassetDetailViewController_tableview_cell_label" = "신뢰 유형";
+"k_MyassetDetailViewController_tableview_all" = "모두";
+"k_MyassetDetailViewController_tableview_pankou" = "핸디캡";
+
+"k_MyassetDetailViewController_tableview_cell_label0" = "신뢰 가격";
+"k_MyassetDetailViewController_tableview_cell_label1" = "사다";
+"k_MyassetDetailViewController_tableview_cell_label2" = "이전";
+"k_MyassetDetailViewController_tableview_cell_label3" = "끈다";
+
+"k_MyassetDetailViewController_alert_lin1" = "수량";
+"k_MyassetDetailViewController_alert_lin2" = "환율 비율";
+"k_MyassetDetailViewController_alert_lin3" = "AT의 금액을 변환 할 이번";
+"k_MyassetDetailViewController_alert_lin3_p" = "수량을 입력하십시오";
+"k_MyassetDetailViewController_alert_lin4" = "AT 소비를위한이 교환";
+"k_MyassetDetailViewController_alert_lin5" = "거래 비밀 번호";
+"k_MyassetDetailViewController_alert_lin5_p" = "거래 비밀번호를 입력하십시오.";
+"k_MyassetDetailViewController_alert_left_btn" = "제출";
+"k_MyassetDetailViewController_alert_middle_btn" = "재설정";
+"k_MyassetDetailViewController_alert_right_btn" = "취소";
+"k_MyassetDetailViewController_wt_price" = "신뢰 가격";
+"k_MyassetDetailViewController_wt_count" = "위원회 수량";
+
+"k_MyassetDetailViewController_wt_mr" = "사다";
+"k_MyassetDetailViewController_wt_mc" = "판매";
+"k_MyassetDetailViewController_wt_ing" = "위원회에서";
+"k_MyassetDetailViewController_wt_time" = "시간";
+"k_MyassetDetailViewController_wt_wtj" = "수수료 가격";
+"k_MyassetDetailViewController_wt_wtl" = "수수료 금액";
+"k_MyassetDetailViewController_wt_wtze" = "총 매출액";
+"k_MyassetDetailViewController_wt_cjjj" = "평균 가격";
+"k_MyassetDetailViewController_wt_cjl" = "볼륨";
+
+
+"k_ExchangeRecordViewController_title" = "세부 사항";
+"k_ExchangeRecordViewController_topbar_0" = "모두";
+"k_ExchangeRecordViewController_topbar_1" = "재충전";
+"k_ExchangeRecordViewController_topbar_2" = "탈퇴";
+"k_ExchangeRecordViewController_topbar_3" = "검토 중";
+"k_ExchangeRecordViewController_topbar_4" = "구속";
+
+"k_mybcbViewController_cbutton" = "월렛 주소 복사";
+"k_mybcbViewController_zbbutton" = "도서 기능";
+"k_mybcbViewController_zbdesbutton" = "모든 거래가 여기에 기록됩니다";
+"k_mybcbViewController_zcopy" = "복사 성공";
+
+
+
+
+"k_bcbViewController_sellin" = "사다";
+"k_bcbViewController_sellout" = "팔다";
+"k_bcbViewController_des" = "비즈니스 자산을 보호하는 것은 충분하지,하지 주문 동안 1. 상인 개호 제공, 당신은 당신의 서비스 제공자가 자산을 동결 구속마다 현장 방문을 인증하고, 마진 AT 백만을 제공하는, 안심하실 수 있습니다 태환 \ N2 상인. 간호 제공자는 실제 이름 인증, 그리고 보안, 태환의 용이성을 제공한다 \ n3의는 공급 업체 내 은행 카드를 사용하거나 지불 N4 결합 \ aozhou168@outlook.com .에게 이메일을 보호하기 위해 이메일을 보내 주시기 바랍니다하게 적용 할 수 있습니다. 또는 마이크로 채널 송금 . 9시 \ N5 상인 처리 시간 - 21시 주문 비 처리 시간은 9시 다음날 처리를 시작합니다은, 놀이는 하나 같은 주문 \ N6 후 24 시간 이내에 완료되어야한다 .. 단 하루 만에 최대 10 개의 판매 주문을 시작할 수 있습니다. ";
+
+
+"k_onusViewController_title" = "우리 소개";
+"k_onusViewController_name" = "화 코인";
+"k_onusViewController_title_detail_title" = "아시아 태평양 국제";
+"k_onusViewController_title_detail_des" = " 뉴욕에 본사를 둔 '중국 디지털 통화 거래 플랫폼은 미래가 각각 아시아, 유럽, 홍콩에 사무소를 설정합니다 북미 국제 경제와 무역 프로세스의 한 몸. Shifenzhongyao 역할. 그룹은 내부에 글로벌 스코프가 특히 대서양을 건너, 주요 국가와 지역, 신흥 경제의 환 태평양 경제 원은 슈퍼 디지털 자산 서비스 플랫폼 디지털 중국 통화 거래 플랫폼은 국제 안보 디지털 자산 거래 플랫폼 신뢰성이 세계에서 레이아웃 블록 체인 산업을 만들 수 있습니다 블록 체인 기술의 미래에 개발 경제를 주요 중점을 디지털 서비스의 중국 통화 거래 플랫폼을 엄격한 위험 관리 관리의 디지털 구현, 안정적인 동작을위한 통화 거래 플랫폼과 권위 게시 -., 투자 회사의 번호를 자본 투자, 중국의 수백만 달러의 라운드를 받았다 응용 정보 정보, 주류 디지털 통화를 제공하는 더 많은 디지털 자산 거래 서비스.";
+
+
+
+"k_contactViewController_title" = "연락처";
+
+
+"k_AuthViewController_uploadScuess" = "성공적으로 업로드 됨";
+"k_AuthViewController_title" = "실명 인증";
+"k_AuthViewController_name" = "이름";
+"k_AuthViewController_placehoder" = "당신의 이름을 입력하십시오";
+"k_AuthViewController_pc1" = "문서의 앞 사진";
+"k_AuthViewController_pc2" = "문서 뒷면의 사진";
+"k_AuthViewController_pc3" = "핸드 헬드 사진";
+"k_AuthViewController_comit" = "리뷰 제출";
+
+"k_YTsetViewController_s1_title" = "보안 설정";
+"k_YTsetViewController_s1" = "거래 비밀 번호";
+"k_YTsetViewController_s1_det" = "광고를 할 때 입력하고, 광고 자산을 사용하고, 보안 설정을 수정하십시오";
+"k_YTsetViewController_s2" = "바인딩 사서함";
+"k_YTsetViewController_s2_det" = "로그인,탈퇴,보안 설정을 수정할 때 입력하십시오.";
+"k_YTsetViewController_s3" = "전화 걸기";
+"k_YTsetViewController_s3_det" = "확인 SMS 수신을위한 비밀번호 및 보안 설정 수신";
+"k_YTsetViewController_s4" = "로그인 비밀번호";
+"k_YTsetViewController_s4_det" = "계정에 로그인 할 때 입력하십시오";
+
+"k_YTsetViewController_bt1" = "수정 된";
+"k_YTsetViewController_bt2" = "바인딩";
+"k_YTsetViewController_bt3" = "바인딩";
+"k_YTsetViewController_bt4" = "수정 된";
+
+
+"k_ModifysetViewController_title" = "거래 비밀번호 수정";
+"k_ModifysetViewController_t1" = "원래 거래 비밀번호를 입력하십시오";
+"k_ModifysetViewController_t2" = "새로운 거래 비밀번호를 입력하십시오";
+"k_ModifysetViewController_t3" = "새로운 거래 비밀번호를 확인하십시오";
+"k_ModifysetViewController_b1" = "변경 사항 저장";
+"k_ModifysetViewController_emai" = "사서함 확인 코드 가져 오기";
+
+
+
+"k_BindsetViewController_title" = "바인딩 사서함";
+"k_BindsetViewController_t1" = "귀하의 이메일 주소를 입력하십시오";
+"k_BindsetViewController_t2" = "인증 코드를 입력하십시오";
+"k_BindsetViewController_t3" = "바인딩 사서함";
+"k_BindsetViewController_t4" = "완료";
+"k_BindsetViewController_b1" = "OK";
+
+"k_ModifyLoginsetViewController_title" = "로그인 비밀번호 수정";
+"k_ModifyLoginsetViewController_t1" = "원래 로그인 비밀번호를 입력하십시오";
+"k_ModifyLoginViewController_t2" = "새 로그인 비밀번호를 입력하십시오.";
+"k_ModifyLoginViewController_t3" = "새 로그인 비밀번호를 확인하십시오";
+"k_ModifyLoginViewController_b1" = "변경 사항 저장";
+
+
+"k_BindphonesetViewController_title" = "전화 걸기";
+"k_BindphonesetViewController_t1" = "귀하의 휴대 전화 주소를 입력하십시오";
+"k_BindphoneViewController_t2" = "인증 코드를 입력하십시오";
+"k_BindphoneViewController_t3" = "전화 걸기";
+"k_BindphoneViewController_b0" = "인증 코드 전송";
+"k_BindphoneViewController_t4" = "완료";
+"k_BindphoneViewController_b1" = "OK";
+"k_Bined" = "묶다";
+
+"k_line_max" = "높다";
+"k_line_min" = "낮음";
+"k_line_amout" = "24H 금액";
+"k_line_minh" = "시간 공유";
+"k_line_minutes15" = "15 분";
+"k_line_hours1" = "1 시간";
+"k_line_hours4" = "4 시간";
+"k_line_days" = "1 일";
+"k_line_More" = "더";
+"k_line_index" = "지표";
+
+"k_line_1m" = "1 분";
+"k_line_5m" = "5 분";
+"k_line_30m" = "30 분";
+"k_line_1w" = "1 주";
+"k_line_1mon" = "1 월";
+
+
+
+
+"k_MyassetViewController_tableview_header_title" = "거래 계좌";
+"k_MyassetViewController_tableview_header_subtitle" = "총 자산 전환 (KOK)";
+"k_MyassetViewController_tableview_header_hideButton" = "숨겨진 자산은 0 통화입니다.";
+"k_MyassetViewController_tableview_list_cell_middle_avali" = "이용 가능";
+"k_MyassetViewController_tableview_list_cell_middle_label" = "총 금액";
+"k_MyassetViewController_tableview_list_cell_right_label" = "동결";
+"k_MyassetViewController_tableview_list_cell_right_label1" = "쇄창";
+"k_MyassetViewController_tableview_list_cell_right_jye" = "거래 금액";
+"Award" = "선물";
+
+
+
+"k_FinsetViewController_title" = "재무 기록";
+"k_FinsetViewController_type" = "유형";
+"k_FinsetViewController_type1" = "설명";
+"k_FinsetViewController_type2" = "변경 유형 :";
+"k_FinsetViewController_type2_1" = "설명 :";
+"k_FinsetViewController_type2_2" = "변경 수량 :";
+"k_FinsetViewController_type2_3" = "수입 및 지출 유형 :";
+"k_FinsetViewController_type2_4" = "상태 :";
+"k_FinsetViewController_type2_5" = "거래 시간 :";
+
+"k_FinsetViewController_type3" = "지출 / 수입";
+"k_FinsetViewController_type4" = "포인트 이름";
+"k_FinsetViewController_type5" = "판매 시점";
+"k_FinsetViewController_type6" = "수입";
+"k_FinsetViewController_type7" = "지출";
+
+
+"k_PAYViewController_typec" = "은행 카드";
+"k_PAYViewController_typea" = "Alipay";
+"k_PAYViewController_typew" = "WeChat";
+"k_PAYViewController_typed" = "새 지불 방법 추가";
+
+"k_popview_1" = "지불 방법";
+"k_popview_2" = "새 지불 방법 추가";
+"k_popview_3" = "거래 기록";
+"k_popview_4" = "사용 설명서";
+"k_popview_list_cat4" = "충전 유형 : CNY";
+"k_popview_list_cat5" = "지점 은행 : 발표";
+"k_popview_list_cat6" = "은행 카드 삭제";
+
+"k_popview_list_uploadDes" = "영수증 QR 코드 업로드";
+
+"k_popview_list_countname" = "이름";
+"k_popview_list_aliycounter" = "Alipay 계정";
+"k_popview_list_counter" = "거래 비밀 번호";
+"k_popview_list_counter_placehoder" = "계좌 번호를 입력하십시오.";
+"k_popview_list_counter_pwd_placehoder" = "거래 비밀번호를 입력하십시오.";
+"k_popview_list_counter_emptyData" = "지불 방법을 추가하십시오";
+"k_popview_list_counter_confirmOrder" = "주문 확인";
+
+"k_popview_select_paymode" = "수익 및 지출 방법 선택";
+"k_popview_select_paybank" = "은행 카드";
+"k_popview_select_payalipay" = "Alipay";
+"k_popview_select_paywechat" = "WeChat";
+"k_popview_select_paywechat_mode" = "지불 방법";
+"k_popview_select_paywechat_add" = "추가";
+"k_popview_select_paywechat_finish" = "완료";
+"k_popview_select_paywechat_addwechat" = "WeChat 추가";
+"k_popview_select_paywechat_addalipay" = "Alipay 추가";
+"k_popview_select_paywechat_editwechat" = "WeChat 편집";
+"k_popview_select_paywechat_editalipay" = "편집 Alipay";
+"k_popview_select_paywechat_rececode" = "영수증 코드";
+"k_popview_select_paywechat_name_placehoder" = "이름을 입력하십시오.";
+"k_popview_select_paywechat_bankname_placehoder" = "은행 카드의 이름을 입력하십시오";
+"k_popview_select_paywechat_kaihubankname_placehoder" = "은행 주소를 입력하십시오";
+"k_popview_select_paywechat_kaihubankcarnumber_placehoder" = "은행 카드 번호를 입력하십시오";
+"k_popview_select_paywechat_2kaihubankcarnumber_placehoder" = "은행 카드 번호를 다시 입력하십시오";
+
+
+"k_popview_select_paywechat_accounter_placehoder" = "계좌 번호를 입력하십시오.";
+"k_popview_select_paywechat_pwd_placehoder" = "거래 비밀번호를 입력하십시오.";
+"k_popview_select_paywechat_edit_action" = "편집";
+"k_popview_select_paywechat_edit_unbind" = "바인딩 해제";
+"k_popview_select_paywechat_edit_cancel" = "취소";
+"k_popview_select_paywechat_edit_sure" = "OK";
+"k_popview_select_paywechat_edit_scuess" = "작업이 성공했습니다";
+"k_popview_select_paywechat_accounter" = "WeChat 계정";
+"k_popview_select_paywechat_rece_accoun" = "영수증 계정";
+"k_popview_select_paywechat_add_bank" = "은행 카드 추가";
+"k_popview_select_paywechat_edit_bank" = "은행 카드 편집";
+"k_popview_select_paywechat_pop_select" = "은행을 선택하십시오";
+"k_popview_select_paywechat_address_select" = "주소 선택";
+"k_popview_select_paywechat_confirm_notsame" = "두 번 입력 한 은행 카드 번호가 의미하는 것은 아닙니다.";
+"k_popview_input_name" = "이름";
+"k_popview_input_bank" = "은행 이름";
+"k_popview_input_branchbank" = "지점 은행";
+"k_popview_input_branchbank_carnumber" = "은행 카드 번호";
+"k_popview_input_branchbank_confirm__concarnumber" = "카드 번호 확인";
+"k_popview_input_branchbank_confirm_carnumber" = "송금 법안";
+"k_popview_input_branchbank_confirm_noadd" = "당신은 지불을 추가, 아직 결제 수단을 추가?";
+
+
+
+"k_popview_input_branchbank_confirm_Tips01" = "1. 판매자에게 지불하라는 메시지를 따르십시오.";
+"k_popview_input_branchbank_confirm_Tips02" = "2. 판매자는 상인이 보장 지불을 쉴 수있는 인증을 받았으며,";
+"k_popview_input_branchbank_confirm_Tips03" = "3. 송금시 비고란에 기입하십시오";
+"k_popview_input_branchbank_confirm_Tips04" = "판매자 후 4. 자동 재충전 KOK 24 시간 이상이 돈을받지 못한, 같은 피드백 고객 서비스를 해결하시기 바랍니다 지불의 영수증을 확인,";
+"k_popview_input_branchbank_confirm_Tips05" = "발사 일이 10 개 펜 주문을 판매 할 수 있습니다";
+
+"k_popview_input_branchbank_confirm_order" = "양 전액";
+"k_popview_input_branchbank_confirm_ordernote" = "송금시주의 사항";
+"k_popview_input_branchbank_confirm_orderstatus" = "계정 유형";
+"k_popview_input_branchbank_confirm_wailttopay" = "지불 할";
+"k_popview_input_branchbank_confirm_wailtips" = "구매 범위";
+"k_popview_input_branchbank_confirm_wailtips_sell" = "판매 범위";
+"k_in_c2c_tips" = "실명 인증을 먼저하십시오";
+"k_in_c2c_tips_range" = "모든 매수와 매도 범위가 있습니다.";
+"k_in_c2c_tips_beizhu02" = "(반드시 기입하십시오)";
+"k_in_c2c_tips_beizhu01" = "송금시 유의 사항 :";
+"k_in_c2c_tips_payinfo" = "지불 정보";
+"k_in_c2c_tips_saveinfo" = "전화에 저장";
+
+
+"k_in_c2c_operation_dis_doc" = "1. 모국 통화를 사는 방법? 어머니 통화 판매? 웹 사이트의 게시 가격으로 구매 정보를 게시하십시오. 시스템은 판매자와 자동으로 일치하며, 안내에 따라 24 시간 이내에 계좌로 지불을 완료하십시오. 결제 영수증을 확인한 후, 통화는 2 시간 이내에 계좌 주소로 전송됩니다. \ n2 거래의 모든 동전을 상단 막대의 탭으로 표시 \ n3, 부모 통화의 가격을 결정하는 방법? 모 통화의 일일 가격은 일정하며 (약간 조정할 수 있음) 판매자는 지정된 가격으로 주문을합니다. \ n4, 구입할 때 어떤 정보를 제공해야합니까? 이름 / 전화 번호 / 충전 주소 / 사용자 이름 \ n5, 한계가 있습니까? 예, 배경이 최소값과 최대 값을 설정합니다. 이 시스템은 단일 구매에서 판매 된 동전의 양을 할당량만큼 조절합니다. \ n6, 재충전까지 얼마나 걸립니까? 보통 30 분, 하지만 때로는 속도가 느려지는데, 약 3-5 시간, 개별 사용자는 느려질 수 있으며, 블록 체인 네트워크의 특정 상황은 변경 될 수 있습니다. \ n7, 매번 수수료가 있습니까? 플랫폼은 무료입니다. 수수료는 없지만 보증금이 필요합니다. \ n8, 주문 유효 기간은 얼마입니까? 주문은 24 시간 동안 유효합니다. 24 시간 이내에 일치하는 항목을 찾을 수없는 경우 주문이 취소됩니다. \ n9, C2C 거래 프로세스가 어떻게 처리해야합니까? 처리 기능이 분쟁을 가지고, C2C에서 거래, 모두는 실제 이름으로 인증 된 사용자입니다. 거래 프로세스에 분쟁이있는 경우, 관련 지불을 제공하십시오, 통화 기록, 플랫폼 이후의 중재는 거래의 성공 또는 실패를 확인하고, 양 당사자의 이익을 보장하십시오. \ n10, 실명 인증은 무엇입니까? 네, 사용자는 실명 인증을 가져야합니다.";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"k_popview_list_placehoder" = "힌트 : 귀하의 이름으로 만 계정을 추가 할 수 있습니다";
+"k_popview_list_qr" = "영수증 QR 코드";
+"k_popview_list_sureto_add" = "결정 추가";
+"k_popview_list_sureto_tips" = "계정 이름을 입력하십시오.";
+"k_popview_list_sureto_commit" = "WeChat 콜렉션 코드를 업로드하십시오.";
+
+"k_bank_popview_list_countname" = "계정 이름";
+"k_bank_popview_list_countname_place" = "힌트 : 귀하의 이름으로 은행 카드를 추가 할 수 있습니다";
+"k_bank_popview_list_countname_kaihu" = "은행 이름";
+"k_bank_popview_list_countname_kaihu_place" = "인민폐 인출은 목록에있는 은행 만 지원합니다";
+"k_bank_popview_list_szd" = "위치";
+"k_bank_popview_list_khzh" = "지점 은행";
+"k_bank_popview_list_yhk" = "은행 카드";
+"k_bank_popview_list_countname_repeat" = "카드 번호 반복";
+"k_bank_add_01" = "계정 이름을 입력하십시오.";
+"k_bank_add_02" = "은행 계좌 개설을 선택하십시오";
+"k_bank_add_03" = "주소를 선택하십시오";
+"k_bank_add_04" = "지점 은행에 기입하십시오";
+"k_bank_add_05" = "은행 카드 번호를 기입하십시오";
+"k_bank_add_06" = "확인 은행 카드 번호를 기입하십시오.";
+
+"k_bcbViewController_sellin" = "사다";
+"k_bcbViewController_sellout" = "팔다";
+"k_bcbViewController_dd" = "완료";
+"k_c2c_buyp" = "구매 가격 (¥)";
+"k_c2c_sellp" = "판매 가격 (¥)";
+"k_c2c_buycount" = "구매 금액";
+"k_c2c_buy_buycount_placehoder" = "최소 구입량 100, 최대 10,000";
+"k_c2c_sell_buycount_placehoder" = "구매 수량을 입력하십시오";
+
+"k_c2c_sellcount" = "판매량";
+"k_c2c_needt" = "지불하다";
+"k_c2c_acquire" = "이용 가능";
+"k_c2c_now_startbuy" = "지금 구입";
+"k_c2c_now_startsell" = "즉시 판매";
+"k_c2c_now_trade" = "거래";
+"k_c2c_now_trade01" = "사업 보호";
+"k_c2c_now_trade02" = "거래 수량";
+"k_c2c_now_trade03" = "유형";
+"k_c2c_now_trade04" = "상태";
+
+"k_c2c_now_default" = "기본값으로 설정";
+
+"k_c2c_now_sel_pay" = "지불 / 수금 방법을 선택하십시오";
+
+"k_c2c_now_sel_add" = "결제 수단을 추가하십시오";
+
+"k_c2c_input_equal" = "실버 카드 번호와 확인 카드 번호가 입력되지 않았습니다";
+
+
+"k_bcbViewController_des" = "1. 구매자와 판매자 모두 현장 검사 및 인증. 그리고 1 백만 AT 입금을 제공하십시오. 귀하가 신청할 때마다 귀하는 사업 자산을 동결시킬 것입니다. 사업 자산이 충분하지 않은 경우. 주문을받을 수 없습니다. 신뢰할 수있는. \n2 구매자와 판매자는 실명 인증을 받았습니다. 그리고 보증금을 제공하십시오. 신뢰할 수있는. \n3. 비즈니스 보호를 신청해야하는 경우 aozhou168@outlook.com으로 전자 메일을. 보내주십시오. \ n4ㄡ. 내 은행 카드 또는 Alipay 또는 WeChat을 사용하여 송금하십시오. \n5. 상인 처리 시간 9:00 - 21:00 비 처리 시간 주문. 다음날 9시에 처리를 시작합니다. 주문 접수 후 24 시간 이내에 지불이 완료됩니다. \n6. 하루에 최대 10 개의 판매 주문 만 시작할 수 있습니다.";
+
+
+"k_HBTradeJLViewController_time" = "시간";
+"k_HBTradeJLViewController_type" = "category";
+"k_HBTradeJLViewController_number" = "러닝 워터 번호";
+"k_HBTradeJLViewController_count" = "수량";
+"k_HBTradeJLViewController_price" = "단가";
+"k_HBTradeJLViewController_sumprice" = "총 가격";
+"k_HBTradeJLViewController_status" = "상태";
+"k_HBTradeJLViewController_operation" = "운영";
+
+
+"k_TradeViewController_title" = "거래";
+"k_TradeViewController_seg01" = "사다";
+"k_TradeViewController_seg02" = "팔다";
+"k_TradeViewController_seg03" = "철수";
+"k_TradeViewController_seg04" = "역사";
+"k_YTBuyAndSellDetailTableViewController_total_prouct" = "총 금액 :";
+"k_YTBuyAndSellDetailTableViewController_integral_amount" = "사용 가능한 금액 :";
+"k_YTBuyAndSellDetailTableViewController_integral_freezing" = "얼는 양 :";
+"k_YTBuyAndSellDetailTableViewController_latest_deal" = "최신 거래";
+"Insufficient balance" = "불충분 한 균형";
+"k_TradeViewController_Limit price" = "최고 제한 가격 :";
+"k_TradeViewController_Stop price" = "중지 가격 :";
+"k_TradeViewController_Deal time" = "최저 한계 가격 :";
+
+"k_YTBuyAndSellDetailTableViewController_buyPriceCannotBeEmpty" = "구매 가격은 비워 둘 수 없습니다";
+"k_YTBuyAndSellDetailTableViewController_sellPriceCannotBeEmpty" = "판매 가격은 비어있을 수 없습니다";
+"k_YTBuyAndSellDetailTableViewController_TheNumberOfBuyingCannotBeEmpty" = "구매 수량는 비어있을 수 없습니다";
+"k_YTBuyAndSellDetailTableViewController_TheNumberOfSellingCannotBeEmpty" = "판매량은 비어있을 수 없습니다";
+"k_YTBuyAndSellDetailTableViewController_TransactionCannotBeEmpty" = "거래 비밀번호는 비워 둘 수 없습니다";
+
+
+"HBCurrentEntrustViewController.AlertTitle" = "위임을 취소하라";
+"HBCurrentEntrustViewController.AlertMessage" = "위원회의 철수 결정?";
+
+"sell" = "팔다";
+"buy" = "사다";
+"sell_2" = "팔다";
+"buy_2" = "사다";
+"limit_price" = "제한 가격";
+"market_price" = "시장 가격";
+
+"Buy_price" = "가격 매수";
+"Sell_price" = "판매 가격";
+"Price" = "가격";
+"Entrust" = "수수료 금액";
+"Number" = "수량";
+"Trade_code" = "거래 비밀 번호";
+"Buy_immediately" = "지금 구입";
+"Sell_immediately" = "즉시 판매";
+
+"Time" = "시간";
+"Type" = "방향";
+"Trade_price" = "거래 가격";
+"Trade_volume" = "볼륨";
+"Total" = "총";
+"Deal" = "거래하다";
+
+
+"Entrustment_type" = "위임 유형 :";
+"Entrust_price" = "위탁 가격 :";
+"Quantity_entrusted" = "주문 수 :";
+
+
+"Quotation" = "시장";
+
+"Option" = "선택적";
+
+"k_line_max" = "높다";
+"k_line_min" = "낮음";
+"k_line_amout" = "24H 금액";
+"k_line_minh" = "시간 공유";
+"k_line_minutes15" = "15 분";
+"k_line_hours1" = "1 시간";
+"k_line_hours4" = "4 시간";
+"k_line_days" = "1 일";
+"k_line_More" = "더";
+"k_line_index" = "지표";
+
+"k_line_1m" = "1 분";
+"k_line_5m" = "5 분";
+"k_line_30m" = "30 분";
+"k_line_1w" = "1 주";
+"k_line_1mon" = "1 월";
+"kcurrentuantity_labl0" = "통화 정보 :";
+"kcurrentuantity_labl1" = "영어 이름";
+"kcurrentuantity_labl2" = "출시일";
+"kcurrentuantity_labl3" = "총 발행 금액";
+"kcurrentuantity_labl4" = "블록 속도";
+"kcurrentuantity_labl5" = "핵심 알고리즘";
+"kcurrentuantity_labl6" = "증명 방법";
+"kcurrentuantity_labl7" = "주요 기능";
+
+
+"k_HBAssetDetailiewController_kok" = "내 콕";
+"k_HBAssetDetailiewController_kokcy" = "내 KOKcy";
+"k_HBHelpCenteriewController_title" = "도움말 센터";
+"k_HBHelpCenteriewController_normal" = "자주 묻는 질문";
+"k_HBHelpCenteriewController_about" = "우리 소개";
+"k_HBHelpCenteriewController_notice" = "정보 게시판";
+"k_HBHelpCenteriewController_version" = "버전";
+"Subscription" = "구독";
+
+"k_HBcommonQuestioniewController_titile" = "내가 도착하지 않으면 어떻게해야합니까?";
+
+"HBAccountTableViewController_isexpire" = "클릭하여 로그인";
+
+"k_contactViewController_empty" = "아직 설정되지 않았습니다";
+"HBMemberViewController_info" = "기본 정보";
+"HBMemberViewController_authdes" = "신원 인증";
+
+"HBMemberViewController_authstat0" = "인증 안됨";
+"HBMemberViewController_authstat1" = "통과하지 못했습니다";
+"HBMemberViewController_authstat2" = "인증";
+"HBMemberViewController_authstat3" = "검토 중";
+"HBMemberViewController_authfailure" = "인증에 실패했습니다.";
+"HBMemberViewController_authscuess" = "인증";
+
+"HBMemberViewController_name" = "이름";
+"HBMemberViewController_nickname" = "닉네임";
+"HBMemberViewController_setting" = "설정";
+"HBMemberViewController_set_nickname" = "닉네임 설정";
+"HBMemberViewController_acctounter" = "계정";
+"HBMemberViewController_country" = "국가 영역";
+"HBMemberViewController_carid" = "문서 번호 :";
+"HBMemberViewController_time" = "인증 시간 :";
+"HBMemberViewController_loginOut" = "안전한 출구";
+
+"HBAsetViewController_header" = "나의 자산";
+"HBAsetViewController_s1" = "계정 자산";
+"HBAsetViewController_s2" = "재무 기록";
+
+"HBRewardViewController_header" = "리베이트 보상";
+"HBRewardViewController_s1" = "내 추천";
+"HBRewardViewController_s2" = "거래 마이닝";
+"HBRewardViewController_s3" = "초대 광업";
+"HBRewardViewController_s3_1" = "팀 보상";
+"HBRewardViewController_s3_1_1" = "팀 보상 총액";
+"HBRewardViewController_s3_1_0" = "광업 총량 초대";
+"HBRewardViewController_s3_0" = "거래 마이닝 합계";
+
+
+
+"HBRewardViewController_s4" = "나의 초대 QR 코드";
+
+"modifyLoginPassword_ori" = "원래 로그인 비밀번호를 입력하십시오";
+"modifyLoginPassword_new" = "새 로그인 비밀번호를 설정하십시오.";
+"modifyLoginPassword_connew" = "확인 새 로그인 비밀번호를 입력하십시오.";
+"modifyLoginPassword_scuess" = "성공적으로 수정 됨";
+"modifyPassword_ori" = "원래 비밀번호를 입력하십시오";
+"modifyPassword_new" = "새 비밀번호를 입력하십시오.";
+"modifyPassword_connew" = "확인 비밀번호를 입력하십시오";
+"modifyPassword_same" = "새 비밀번호가 설정되고 비밀번호가 확인되었습니다.";
+"modifyPassword_wailt" = "수정 된 트랜잭션 비밀번호가 제출되었습니다. 검토 중.";
+"bindemail_tip" = "귀하의 이메일 주소를 입력하십시오";
+"bindemail_tip1" = "이메일 인증 코드를 입력하십시오";
+"bindemail_scuess" = "사서함을 성공적으로 바인딩";
+"bindemail_send_1" = "인증 코드 전송";
+"bindemail_send_2" = "재 취득하다";
+
+
+"fun_wailt_developer" = "앞으로 기대해주십시오.";
+"photo_lib_photoLib" = "앨범에서 선택";
+"photo_lib_camara" = "사진";
+
+
+
+"HBLoginTableViewController_hi" = "안녕,";
+"HBLoginTableViewController_des" = "화 코인 로그인";
+"HBLoginTableViewController_phone_placehoder" = "전화 번호:";
+"HBLoginTableViewController_password_placehoder" = "비밀번호";
+"HBLoginTableViewController_password_login" = "로그인";
+"HBLoginTableViewController_password_forgetpwd" = "비밀번호를 분실했습니다";
+"HBLoginTableViewController_password_regisDes" = "아직 화 코인 계좌가 있습니까?";
+"HBLoginTableViewController_password_regis" = "등록";
+
+"HBForgetPasswordTableViewController_forgetDes" = "비밀번호를 분실했습니다";
+"HBForgetPasswordTableViewController_forgetPhone_placehoder" = "귀하의 휴대폰 번호를 입력하십시오";
+"HBForgetPasswordTableViewController_forgetEmail_placehoder" = "귀하의 이메일 주소를 입력하십시오";
+"HBForgetPasswordTableViewController_valcode_placehoder" = "인증 코드를 입력하십시오";
+"HBForgetPasswordTableViewController_valcode_get" = "인증 코드 가져 오기";
+"HBForgetPasswordTableViewController_findPwd" = "비밀번호 검색";
+
+"HBResetPasswordTableViewController_resetDes" = "비밀번호 재설정";
+"HBResetPasswordTableViewController_ori_placehoder" = "새 로그인 비밀번호를 입력하십시오.";
+"HBResetPasswordTableViewController_new_placehoder" = "새 로그인 비밀번호를 다시 입력하십시오.";
+"HBResetPasswordTableViewController_commit" = "제출";
+
+"HBRegisterTableViewController_registerdes" = "화 코인 계좌가 있습니까?";
+"HBRegisterTableViewController_read" = "읽고 동의했다";
+"HBRegisterTableViewController_agree" = "화 코인 디지털 자산 교환소 등록 계약";
+
+"HBRegisterTableViewController_invitecode" = "초대 코드를 입력하십시오 (선택 사항)";
+"HBRegisterTableViewController_1tradepwd" = "거래 비밀번호를 입력하십시오.";
+"HBRegisterTableViewController_2tradepwd" = "거래 비밀번호를 다시 입력하십시오.";
+"HBRegisterTableViewController_1loginpwd" = "로그인 비밀번호를 입력하십시오.";
+"HBRegisterTableViewController_2loginpwd" = "다시 로그인 비밀번호를 입력하십시오";
+"HBRegisterTableViewController_valcode" = "인증 코드를 입력하십시오";
+"HBRegisterTableViewController_getvalcode" = "인증 코드 가져 오기";
+
+"HBRegisterTableViewController_defaultCountry" = "중국";
+"HBRegisterTableViewController_defaultdes" = "국제 SMS 등록 지원";
+"Phone" = "휴대 전화";
+"eMail" = "사서함";
+"HBRegisterTableViewController_encouraging" = "1000KOKcy를 보내기 위해 등록, 초대장도 보내집니다";
+
+
+"Intro" = "소개";
+"Issue date" = "릴리스 타임";
+"Total circulation" = "총 발행 금액";
+"Total turnover" = "전체 순환";
+"Website" = "공식 웹 사이트";
+"Raise price" = "크라우드 펀딩 가격";
+"White paper" = "백서";
+"Block query" = "블록 쿼리";
+
+
+
+"OTC_Max" = "최대";
+"OTC_Min" = "최소";
+"OTC_Seller" = "판매자";
+"OTC_Buyer" = "구매자";
+"OTC_main_buy" = "구매";
+"OTC_main_sell" = "판매";
+"OTC_main_postad" = "광고 게시";
+"OTC_main_myad" = "내 광고";
+"OTC_main_order" = "거래 주문";
+"OTC_main_payway" = "영수증 방법";
+"OTC_main_hide" = "숨겨진";
+"OTC_qr_savefail" = "사진을 저장하지 못했습니다";
+"OTC_qr_savesuccess" = "사진이 시스템 앨범에 저장되었습니다.";
+"OTC_qr_savetophone" = "전화에 저장";
+"OTC_profile_dealcount" = "거래 수";
+"OTC_profile_finishrate" = "완료율";
+"OTC_profile_avatime" = "평균 출시 (분)";
+"OTC_profile_identi" = "실명 인증";
+"OTC_profile_phoneiden" = "휴대폰 인증";
+"OTC_buyDetail_buydetail" = "구매 세부 사항";
+"OTC_buyDetail_chat" = "채팅";
+"OTC_buyDetail_canceldeal" = "거래 취소";
+"OTC_buyDetail_topay" = "지불하러 가라";
+"OTC_buyDetail_paydelay" = "주문 지불 시간 초과";
+"OTC_buy" = "사다";
+"OTC_sell" = "팔다";
+"OTC_copySuccess" = "복사 성공";
+"OTC_copySuccess_copy" = "복사";
+"OTC_buyDetail_choosepayway" = "지불 방법을 선택하십시오";
+"OTC_buyDetail_reachmaxcount" = "취소 횟수가 오늘 한도에 도달했습니다";
+"OTC_buyDetail_orderhasbeencancel" = "주문이 취소되었습니다";
+"OTC_buyDetail_maxcounttips" = "취소하면 곧 온라인 상태가됩니다. 취소를 확인하면 오늘 구매할 수 없습니다.";
+"OTC_buyDetail_notyetpay" = "아직 상대방에게 돈을 지불하지 않았 음을 확인합니다.";
+"OTC_buyDetail_notyetpay2" = "나는 아직 상대방에게 돈을 지불하지 않았 음을 확인합니다. 본인은 자금 손실에 대해 자발적으로 책임을집니다.";
+"OTC_left" = "남은";
+"OTC_minute" = "분";
+"OTC_second" = "초";
+"OTC_ordersum" = "주문 금액";
+"OTC_sinleprice" = "단가";
+"OTC_ordernumber" = "주문 번호";
+"OTC_payreference" = "참조 번호";
+"OTC_ordertime" = "주문 시간";
+"OTC_seller" = "판매자";
+"OTC_notPay" = "지불하지 않았다";
+"OTC_buy_hasPaied" = " '결제 완료'";
+"OTC_buyconfirm_tips" = "나는 이미 알고 있습니다 : 지불이 성공하면 아래 버튼을 클릭해야합니다. (악의적 인 카드는 동결됩니다.)";
+"OTC_buyconfirm_payconfirm" = "지불 확인";
+"OTC_buyconfirm_paytimeisover" = "지불 시간이 만료되었습니다";
+"OTC_buyconfirm_plseasein" = "제발";
+"OTC_buyconfirm_payup" = "내부 지불 방법";
+"OTC_buyconfirm_paytips" = "구매자에게 비용을 지불했는지 확인하십시오. 악의적 인 클릭으로 계정이 직접 정지됩니다！";
+"OTC_toallow" = "풀려날";
+"OTC_buylist_noorder" = "주문 없음";
+"OTC_buylist_inputmoney" = "거래 금액을 입력하십시오";
+"OTC_buylist_inputvolume" = "구매 수량을 입력하십시오";
+"OTC_buylist_moneytoobig" = "귀하가 설정 한 금액이 상대방이 설정 한 최대 거래 금액보다 큽니다.";
+"OTC_buylist_volumesmall" = "구매 수량은 0.0001보다 작을 수 없습니다.";
+"OTC_buylist_codeerror" = "인증 코드 오류";
+"OTC_post_next" = "다음";
+"OTC_post_postad" = "광고 게시";
+"OTC_post_priceshouldbigthan0" = "가격은 0원 커야합니다";
+"OTC_post_volumeshouldbigthan0" = "수량는 0보다 커야합니다";
+"OTC_post_inputremark" = "자산 메시지를 입력하십시오.";
+"OTC_post_pricesmall" = "가격은 최저 한계 가격 보다 작 없습니다";
+"OTC_post_pricebig" = "가격은 최고 한계 가격 보다 큼 없습니다.";
+"OTC_post_sumbig" = "최소 거래 금액은 설정된 거래 금액보다 클 수 없습니다";
+"OTC_post_sumshouldbigthan0" = "최대 거래 금액은 0보다 커야합니다";
+"OTC_post_postleft" = "나머지는 풀어 라";
+"OTC_post_own" = "이용 가능";
+"OTC_post_upperprice" = "최고 제한 가격";
+"OTC_post_lowerprice" = "최저 한계 가격";
+"OTC_post_waitresult" = "검증 결과";
+"OTC_post_postsuccess" = "성공적으로 릴리스 됨";
+"OTC_post_tips1" = "고객을 클릭 할 때 피드백을 줄 것입니다.";
+"OTC_post_tips2" = "응용 프로그램이 제출되어 플랫폼이 처리되기를 기다리고 있습니다.";
+"OTC_post_wait" = "처리 대기 중";
+"OTC_post_postbuyad" = " '구매 광고 게시'";
+"OTC_post_postsellad" = "판매 광고 게시";
+"OTC_post_confirmthemesg" = "다음 정보를 확인하십시오";
+"OTC_post_haverad" = "읽기 및 읽기";
+"OTC_post_userpro" = "사용자 계약";
+"OTC_post_postad" = "광고 게시";
+"OTC_post_back" = "return";
+"OTC_post_setpayway" = "먼저 결제 수단을 설정하거나여십시오.";
+"OTC_post_directpayfee" = "즉각적인 공제";
+"OTC_post_Settlement_deduction" = "정산 공제";
+"OTC_post_setpayway1" = "결제 수단 설정";
+"OTC_post_setgetway" = "지불 방법 설정";
+"OTC_post_atleaset1payway" = "적어도 지불 방법을 설정하고여십시오.";
+"OTC_post_currency" = "통화 :";
+"OTC_post_limitprice" = "제한 가격 :";
+"OTC_post_volume" = "수량";
+"OTC_post_sum" = "거래 금액 :";
+"OTC_post_maxsum" = "최대 거래 금액 :";
+"OTC_post_minsum" = "최소 거래 금액 :";
+"OTC_post_feerate" = "처리율 :";
+"OTC_post_fee" = "취급 수수료 :";
+"OTC_post_payway" = "공제 방법 :";
+"OTC_post_realvolume" = "실제 판매 수량 :";
+"OTC_post_realvolume_buy" = "실제 구매 수량 :";
+"OTC_post_ihaveknow" = "나는 배웠다";
+"OTC_post_posttips" = "1. 광고 공개 후. 시스템이 귀하의 ＊＊＊＊＊코인를 고정시킵니다. \n2. 출시 후 5 시간 이내에 광고 취소. 시스템에서 xxx %의 수수료를 부과합니다. \n3. 5 시간 후에 광고가 취소 된 경우. 시스템에서 수수료를 청구하지 않습니다. \n4. 광고를 취소 한 후. 채워지지 않은 나머지 자산은 계정으로 반환됩니다.";
+"OTC_post_posttips_buy" = "릴리스광고 후. 시간 내에 거래를 완료하려면 거래 주문을 확인하십시오. 평판에 영향을 미치지 않도록. 하루에 세 번 광고가 취소되었습니다. 당일 광고 권리의 구입을 제한 할 것입니다.";
+"OTC_post_attention" = "관심";
+"OTC_post_pleaseacceptpro" = "사용자 계약에 동의하십시오";
+"OTC_order_norecord" = "기록 없음";
+"OTC_order_orderdetail" = "주문 세부 정보";
+"OTC_order_paysuccess" = "지불 성공";
+"OTC_order_afterminutetoappeal" = "잠시 후 호소 할 수 있습니다.";
+"OTC_order_otcwillgetfee" = "* OTC 거래는 구매 및 판매시 부과됩니다.";
+"OTC_order__fee" = "취급 수수료";
+"OTC_order_nochoose" = "선택되지 않음";
+"OTC_order_ordercancel" = "주문이 취소되었으며 주문 정보를 볼 수 없습니다";
+"OTC_order_orderpaid" = "명령이 지불되었습니다";
+"OTC_order_ordernotpay" = "지불하지 않은 주문";
+"OTC_order_orderdone" = "주문이 완료되었습니다";
+"OTC_order_orderappleal" = "주문 호소";
+"OTC_order_topay" = "지불하러 가라";
+"OTC_order_cancelorder" = "주문 취소";
+"OTC_order_discharged" = "석방";
+"OTC_order_appleal" = "항소";
+"OTC_order_seller" = "판매 파티";
+"OTC_order_buyer" = "구매 파티";
+"OTC_order_currency" = "통화";
+"OTC_order_dealvolume" = "거래 수량";
+
+"OTC_order_price" = "거래 단가";
+"OTC_order_payment" = "지불 방법";
+"OTC_order_contact" = "서로 연락하기";
+"OTC_order_Actual_arrival" = "실제로 도착했다";
+"OTC_order_Actual_deduct" = "실제 공제액";
+"OTC_order_I_have_paid" = "나는 돈을 지불했다";
+
+"OTC_order_deal_total_money" = "총 거래";
+"OTC_order_deal_fiat_price" = "프랑스 화폐 가치 평가";
+"OTC_order_deal_number_of_buy" = "구매 수량";
+"OTC_fee" = "수수료";
+"OTC_order_realcost" = "실제 공제액";
+"OTC_order_youneedtowait" = "당신은 여전히 ";
+"OTC_order_all" = "모두";
+"OTC_order_notpay" = "지불하지 않았다";
+"OTC_order_todischarge" = "풀려날";
+"OTC_order_cancel" = "취소됨";
+"OTC_order_done" = "완료";
+"OTC_order_applealing" = "항소";
+"OTC_order_paid" = "지불";
+
+"OTC_appleal" = "항소";
+"OTC_order_applealtips1" = "자산은 불만 제기 후 동결됩니다. 감독관이이 거래에 개입합니다. 이의 제기가 끝날 때까지 악의적 인 호소는 플랫폼의 정상적인 작동을 방해하는 행위입니다. 심각한 음모가 계좌를 동결시킬 것입니다.";
+"OTC_order_applealtips2" = "자산은 불만 제기 후 동결됩니다. 감독관이이 거래에 개입합니다. 이의 제기가 끝날 때까지 악의적 인 호소는 플랫폼의 정상적인 작동을 방해하는 행위입니다. 심각한 음모가 계좌를 동결시킬 것입니다.";
+"OTC_order_applealtype" = "호소의 유형";
+"OTC_order_othernotdischarge" = "상대방은 석방하지 않았다";
+"OTC_order_othernotpay" = "상대방은 돈을 ";
+"OTC_order_othercheat" = "상대방은 사기성 행위를합니다";
+"OTC_order_other" = "기타";
+"OTC_order_inputapplealreason" = "항의 이유를 기입하십시오 (100 단어 이내)";
+"OTC_order_confirmappleal" = "불만 사항을 확인하십시오";
+"OTC_order_reasontoolong" = "항소 이유는 100 단어를 초과 할 수 없습니다.";
+"OTC_order_commitsuccess" = "귀하의 불만 사항이 제출되었습니다. 기다려주십시오.";
+"OTC_ad_cancel_warning" = "광고 취소를 확인 하시겠습니까?";
+"OTC_ad_canceltips1" = "1. 광고 실행을 취소하면 완료 상태로 바로 전환됩니다. \n2. 게시 후 5 시간 이내에 광고를 취소하십시오. 시스템에서 1 %의 수수료를 청구합니다. \n3. 광고가 5 시간 후에 취소되면, 시스템에서 수수료를 청구하지 않습니다. \n4. 광고를 취소 한 후, 채워지지 않은 나머지 자산은 계정으로 반환됩니다. \n 해지해도 괜찮습니까?";
+"OTC_ad_currentad" = "현재 광고";
+"OTC_ad_history" = "역사 광고";
+"OTC_ad_addetail" = "광고 세부 정보";
+"OTC_ad_newmsg" = "새로운 뉴스";
+
+"OTC_view_havecashdeposit" = "상인이 1BTC 보증금을 지불했습니다";
+"OTC_view_buyall" = "모두 삽니다";
+"OTC_view_sellall" = "모두 팔았다";
+
+"OTC_view_needpayin15min" = "이 명령은 15 분 이내에 지불해야합니다.";
+"OTC_view_sellerremark" = "비고";
+"OTC_view_placeorder" = "주문";
+"OTC_view_needpayin15min1" = "이 명령은 당신이되기를 요구합니다";
+"OTC_view_needpayin15min2" = "분 이내에 지불";
+"OTC_view_limtesum" = "제한";
+"OTC_view_maxsell" = "최대 판매";
+"OTC_view_maxbuy" = "최대 구매 가능";
+"OTC_view_dealrate" = "판매율";
+"OTC_view_dealing" = "거래 중";
+"OTC_view_selfcancel" = "활성 취소";
+"OTC_view_sellover" = "매진";
+"OTC_view_adnumber" = "광고 번호";
+"OTC_view_cancelAd" = "광고 취소";
+
+"OTC_view_exchangevolume" = "사용 수량";
+"OTC_view_sum" = "금액";
+"OTC_view_exvolume" = "이미 변환 됨 수량";
+"OTC_view_exsum" = "이미 변환 됨 금액";
+"OTC_view_leftvolume" = "남은 수량";
+"OTC_view_leftsum" = "남은 금액";
+"OTC_view_necessary" = "필수 (100 단어 이내)";
+"OTC_Within 100 words" = "100 단어 이내";
+"OTC_view_moneyremark" = "자산 메시지 :";
+"OTC_view_limitelowsum" = "최소 거래 금액 제한";
+"OTC_view_limitehighsum" = "최대 거래 금액 제한";
+"OTC_buy_skr" = "수취인 이름";
+"OTC_post_highsumlessthanlowsum" = "최대 거래 금액은 최소 거래 금액보다 작을 수 없습니다";
+
+"noRecord" = "기록 없음";
+
+"OTC_pro_registertime" = "등록 시간";
+"OTC_pro_time" = "보조";
+"OTC_pro_30" = "하나에 30 일";
+"OTC_pro_sum" = "조립 목록";
+"OTC_pro_success" = "사건을 승리";
+"OTC_pro_avati" = "평균 석방";
+"OTC_pro_email" = "사서함 인증";
+"OTC_pro_sellonline" = "온라인 판매";
+"OTC_pro_buyonline" = "온라인 구매";
+"OTC_pro_minute" = "분";
+"OTC_pro_main" = "사업자의 개인 페이지";
+"OTC_post_maxshouldsmallthansum" = "최대 거래 금액은 총 거래 금액보다 클 수 없습니다";
+"OTC_empty_tips" = "다시 시도하십시오";
+"OTC_payway_enteraccount" = "계좌 번호를 입력하십시오.";
+"oOTC_payway_choosepic" = "QR 코드를 선택하십시오";
+
+"OTC.myADCell.number" = "판매 수량";
+"OTC.myADCell.buy_number" = "구매 수량";
+"OTC.myADCell.AD_No" = "광고 번호 :";
+"OTC.myADCell.price" = "단가";
+"OTC.myADCell.tradeMoney" = "거래 금액";
+"OTC.myADCell.time" = "릴리스 타임";
+"OTC.myADCell.showDetail" = "세부 정보보기";
+"OTC.myADCell.sell" = "판매";
+"OTC.myADCell.buy" = "구매";
+"OTC.myADCell.limit" = "제한";
+"OTC.myADCell.soldMoney" = "판매 된 금액";
+"OTC.myADCell.soldNumber" = "판매 된 수량";
+"OTC.myADCell.boughtMoney" = "구매 한 금액";
+"OTC.myADCell.boughtNumber" = "구매 수량";
+"OTC.myADCell.remindMoney" = "잔액";
+"OTC.myADCell.remindNumber" = "남은 수량";
+"OTC.myADCell.cancelAD" = "광고 취소";
+
+"OTC.HBOTCOrderDetailAlertView.confirmPass" = "릴리스 확인";
+"OTC.HBOTCOrderDetailAlertView.tips" = "나는 수금 계정에 로그인하여 지불이 정확한지 확인합니다.";
+
+"OTC.TPOTCPostDetailController.title" = "확인 정보";
+"OTC.HBOTCPostDetailGotoSetupPayWayView.tips" = "결제 수단을 추가하지 않으셨습니까?";
+"OTC.HBOTCPostDetailGotoSetupPayWayView.add" = "추가";
+
+"TPOTCPayWayBankController.tips" = "*현재 직불 카드 만 지원됩니다. 신용 카드와 같은 다른 종류의 은행 카드를 추가하지 마십시오!";
+
+"OTC.HBOTCTradeInfoDetailTableViewController.buyAlertMessage" = "이미 판매자에게 지불 한 경우. 오른쪽 하단 모서리에있는 지불했습니다버튼을 클릭하십시오. 그렇지 않으면 재정적 손실이 발생할 수 있습니다.";
+"OTC.HBOTCTradeInfoDetailTableViewController.sellAlertMessage" = "수금 계좌에 로그인하여 계좌 세부 사항을 확인하십시오. 잘못된 클릭 및 릴리스로 인한 재산 피해 방지.";
+"OTC.HBOTCTradeInfoDetailTableViewController.buyTips" = "1.송금은 판매자 계정으로 직접 이동합니다. 거래 중에 판매자가 판매 한 디지털 자산은 플랫폼 보관으로 보호됩니다. \n2지정된 시간 내에 결제를 완료하십시오. 클릭해야합니다 \"나는 지불했다\". 판매자가 지불을 확인한 후. 시스템에서 디지털 자산을 계정으로 이전합니다. \n3구매자가 같은 날 3 회 주문을 취소 한 경우. 오늘의 구매 기능으로 제한됩니다.”";
+"OTC.HBOTCTradeInfoDetailTableViewController.sellTips" = "1. 판매하는 디지털 자산. 호스팅 플랫폼에 제출되었습니다. 상대방으로부터 지불을받은 후 확인하십시오. 디지털 자산을 지원하려면 \"릴리스\"를 클릭하십시오. \n2 동전을 촉구하는 이유를 믿지 마십시오. 디지털 자산을 공개하기 전에 금액 수령을 확인하십시오. 손실을 피하십시오. \n3, SMS 메시지 수신 후. 온라인 은행이나 휴대 전화에서 계정 정보를 확인하십시오.";
+"OTC.HBOTCTradeInfoDetailTableViewController.confirm_payment" = "지불 확인";
+"OTC.HBOTCTradeInfoDetailTableViewController.Bank_card_No" = "은행 카드 번호";
+"OTC.HBOTCTradeInfoDetailTableViewController.Pay_account_No" = "계정";
+"OTC.HBOTCTradeInfoDetailTableViewController.Bank_Info" = "은행 정보";
+"OTC.HBOTCTradeInfoDetailTableViewController.Receip_QR_code" = "영수증 2 차원 코드";
+"OTC.HBOTCTradeInfoDetailTableViewController.Switch" = "전환 방법";
+
+"Assert_detail_exchange" = "상호 이전";
+"Assert_detail_dealtime" = "거래 시간";
+"Assert_detail_release" = "쇄창 릴리스";
+"Assert_detail_release_action_button_title" = "릴리스 확인";
+"Assert_detail_presetation_release_menu" = "선물 릴리스";
+"Assert_detail_presetation_release" = "선물 릴리스";
+"Assert_detail_presetation_balance" = "선물 잔액";
+"Assert_detail_releaserecord" = "릴리스 기록";
+"Assert_detail_releaserule" = "“릴리스 규칙: 정책에 따라 매일 출시됩니다. 수동 릴리스 필요. 그렇지 않으면 쇄창 유지하다. 자물쇠 균형이 0.001안 미만일 때. 해제 할 수 없음”";
+"Assert_detail_currencyname" = "자산 이름";
+"Assert_detail_releaseaction" = "해제 작업";
+"Assert_detail_lockvolume" = "쇄창 수량";
+
+"Assert_detail_releaseVolume" = "릴리스 수량";
+"Assert_detail_releasetips" = "오늘 릴리스 완료되었습니다. 내일 다시 오세요. ";
+"Assert_detail_releaseSuccess" = "릴리스 성공";
+"Assert_detail_changeintoid" = "ID로 전송";
+"Assert_detail_name" = "사용자 이름";
+"Assert_detail_exchangedetail" = "상호 이전 세부 사항";
+"Assert_detail_100" = "100의 배수를 입력하십시오.";
+"Assert_detail_enteruserID" = "전송 ID를 입력하십시오.";
+"Assert_detail_sureexchange" = "OK";
+"Assert_detail_to" = " 줘";
+"Assert_detail_noidentify" = "이 사용자에게는 실명 인증이 없습니다.";
+"Assert_detail_charge" = "재충전";
+"Assert_detail_tibi" = "탈퇴";
+
+"Trade_Done" = "판매되었습니다";
+"Part_Done" = "부분 거래";
+"Pending_order" = "대기중인 주문";
+"Trade_price2" = "거래 가격";
+"ConsumptionOfCard" = "포인트 카드 소비";
+"Trade_Details" = "거래 내역";
+"Canceled" = "철회";
+"Copied" = "복사 됨";
+"Sorry" = "죄송합니다";
+
+"Has_been_suspended_in_take" = "탈퇴 중단하다 .";
+"Has_been_suspended_in_recharge" = "재충전 중단하다.";
+"Has_been_suspended_in_release" = "일시 중지 해제.";
+"Has_been_suspended_in_exchange" = "일시 중지 및 전송.";
+"Has_been_suspended_in_release_award" = "선물 석방을 중지하십시오.";
+
+"Exchange" = "구속";
+"To_Lock" = "하나 고정";
+"To_Lock_Records" = "쇄창 기록";
+"Exchange_Records" = "교환 기록";
+
+
+"Asset_name_" = "저작물 이름 :";
+"Available_Number" = "유효한 수량 :";
+"Transfer_Number" = "양도 :";
+"Transaction_password_" = "전환 쇄창 수술 :";
+"Turn_lock_operation" = "전송 잠금 작업";
+"HBToLockTableViewController_Tips" = "쇄창 주식 설명 : KOK를 쇄창에게 전환. 플랫폼은 동일한 금액의 KOK 보상을 수여합니다.";
+"Turn_lock_records" = "쇄창 기록";
+"Enter_the_Transfer_Number" = "전송 수량 입력하십시오";
+"Enter_the_Transaction_password_" = "거래 비밀번호를 입력하십시오.";
+"Number_of_locks" = "쇄창 수량";
+"Locked_successfully" = "쇄창 성공";
+"Presented_successfully" = "선물 성공";
+"Confirm_transfer" = "전입 결정";
+"Operation guide" = "운영 가이드";
+"HBToLockTableViewController_msg1" = "전송 횟수는 100 미만이어야합니다.";
+
+
+"Subscription price" = "구독료";
+"Minimum quantity" = "최소 수량";
+"Subscription Goal" = "구독 대상";
+"Subscription Progress" = "진보했다";
+"Subscription Number of people" = "이미 투표 한 사람들의 수";
+"Subscription Subscribe" = "빠른 가입";
+"Subscription End" = "구독 종료";
+"Subscription Cancel" = "구독 취소";
+"Subscription Coming soon" = "앞으로 기대해주십시오.";
+"Subscription Records" = "구독 기록";
+
+
+"Subscription Records title" = "구독 기록";
+"Subscription Number" = "구독 수량";
+"Subscription Payment" = "실제 지불";
+"Subscription Time" = "거래 시간";
+"Subscription Number of locks" = "쇄창 수량";
+"Subscription release" = "릴리스 클릭하여";
+"Subscription release records" = "릴리스 기록";
+
+
+"Relase records" = "릴리스 기록";
+"Relase Number" = "릴리스 수량";
+"Relase Status" = "상태";
+"Relase Time" = "거래 시간";
+
+
+
+"Subscription detail" = "프로젝트 세부 사항";
+"Subscription detail period" = "가입 기간";
+"Subscription detail start time" = "구독 시간";
+"Subscription detail end time" = "종료 시간";
+"Subscription detail Project Introduction" = "프로젝트 소개";
+"Subscription detail Info" = "기본 정보";
+"Subscription detail release time" = "출시 시간 :";
+"Subscription detail total" = "발행 총액 :";
+"Subscription detail website" = "공식 웹 사이트 :";
+"Subscription detail whitepapger" = "백서 :";
+
+
+"Subscription menu price_" = "구독료 :";
+"Subscription menu balance" = "계정 잔액 :";
+"Subscription menu topUp" = "재충전";
+"Subscription menu text field placeholder" = "구매 수량을 입력하십시오.";
+"Subscription menu all" = "모든 구독";
+"Subscription menu payment" = "실제 지불 :";
+"Subscription menu tips" = "구독이 제출 된 후. 자세한 내용은 구독 내역을 확인하십시오.";
+"Subscription menu subscribe" = "구독";
+"Subscription menu cancel" = "취소";
+"Subscription menu number must not be less than" = "구매 수량은 다음보다 작을 수 없습니다.";
+
+
+"Identify Verify title" = "실명 인증";
+"Identify Verify submit" = "리뷰 제출";
+
+"Verifying" = "검토 중";
+"Verifying tips" = "“잠시 기다려주십시오. 우리는\n영업일 기준 1-2 일 이내에 검토 및 피드백 결과.”";
+
+"Identify Verify verifiedMsg" = "신원 정보가 인증되었습니다.";
+"Identify Verify name" = "이름";
+"Identify Verify cardTypeName" = "문서 유형";
+"Identify Verify numberOfCard" = "문서 번호";
+"Identify Verify frontOfCard" = "문서의 앞 사진";
+"Identify Verify backOfCard" = "문서 뒷면의 사진";
+"Identify Verify holdeByHand" = "핸드 헬드 사진";
+"Identify Verify cardtype placehoder" = "문서 유형을 선택하십시오.";
+"Identify Verify ID" = "신분증";
+"Identify Verify Passport" = "여권";
+"Identify Verify Driver Licence" = "운전 면허증";
+"Identify Verify Other" = "기타";
+"Identify Verify name placehoder" = "당신의 이름을 입력하십시오";
+"Identify Verify number placehoder" = "ID 번호를 입력하십시오.";
+
+"Identify Verify please enter front of card" = "문서의 앞부분을 선택하십시오";
+"Identify Verify please enter back of card" = "문서 뒷면의 사진을 선택하십시오";
+"Identify Verify please enter hand-held photo" = "핸드 헬드 ID 사진을 선택하십시오";
+
+
+
+"Identify Verify failure" = "인증에 실패했습니다.";
+"Identify Verify tips" = "“인증에 실패하면 다음 항목을 확인하십시오. \n1인증서의 이름과 사진이 일치하지 않습니다. 재 인증을 확인하십시오. \n2 문서의 사진이 모호하고 명확하지 않습니다. 맑은 신분증 사진을 업로드하십시오. \n3, 문서 유형이 표준화되지 않았습니다. 신분증, 여권, 운전 면허증 및 기타 서류를 사용하십시오. \n표준 ID의 사진을 업로드하십시오.”";
+"Identify Verify try again" = "자격 갱신";
+
+
+"Money Interest title" = "보물 저장";
+"Money Interest advantage" = "제품 기능";
+"Money Interest feature" = "제품 프로파일";
+"Money Interest Join time" = "가입 시간";
+"Money Interest Management period" = "관리 기간";
+"Money Interest End Time" = "종료 시간";
+"Money Interest Currency" = "통화로 이전";
+"Money Interest Months" = "월";
+"Money Interest Transfer button title" = "입금 계좌로 이체";
+"Money Interest Expected annualized income" = "예상 연간 소득";
+"Money Interest Not less than" = "보다 작을 수 없다";
+"Money Interest Not greater than" = "보다 클 수 없다";
+
+
+"Money Interest Menu title" = "예금으로 이전";
+"Money Interest Menu All" = "모두 이전 됨";
+"Money Interest Menu Expected annualized income" = "기대 연간 소득 :";
+"Money Interest Menu Balance" = "계정 잔액 :";
+"Money Interest Menu Currency" = "통화로 이전 :";
+"Money Interest Menu Management period" = "관리 기간 :";
+"Money Interest Menu Transfer button title" = "이전";
+"Money Interest Menu text field placeholder" = "전송 수량를 입력하십시오";
+
+
+
+"Money Interest Deposit title" = "예약 된 기록";
+"Money Interest Deposit Operation direction" = "운영 방향 :";
+"Money Interest Deposit Number" = "전송 수량:";
+"Money Interest Deposit Expire date" = "만료 시간 :";
+"Money Interest Deposit Operation direction out" = "만료 된 전송";
+"Money Interest Deposit Operation direction in" = "지연 전송";
+
+
+
+
+"Money Interest Records title" = "결산 방법";
+"Money Interest Dividend title" = "배당 기록";
+"Money Interest Records select currency" = "통화 선택";
+"Money Interest Records time" = "결제 시간";
+"Money Interest Records Currency" = "통화";
+"Money Interest Records number" = "이자 화해 수량";
+"Money Interest Dividend time" = "배당 시간";
+"Money Interest Dividend number" = "배당 수량";
+
+"Product introduction" = "제품 프로파일";
+
+
+"HBQuotationListHeaderView_name" = "이름";
+"HBQuotationListHeaderView_Latest price" = "최신 가격";
+"HBQuotationListHeaderView_24h change" = "추세";
+
+
+"Customer Service" = "고객 서비스";
+
+
+"Find transaction password" = "거래 비밀 번호를 검색하십시오";
+"Safety verification" = "안전 검증";
+"Forgot the original transaction password" = "원래 거래 비밀번호를 잊어 버렸습니까?";
+"Please set a new transaction password" = "새 거래 비밀번호를 설정하십시오.";
+"New password_6-digit number" = "새로운 비밀번호 여섯 개 순수 디지털";
+"Confirm password_6-digit number" = "디지털 순수 여섯 비밀번호 확인";
+"Find transaction password submit" = "확인";
+
+
+
+"Receive award" = "선물 수집";
+"Receive award number" = "선물 수량";
+"Receive award type" = "통합 유형";
+"Receive award time" = "선물 시간";
+"Receive award receive" = "받는다";
+"Receive award received" = "주도하고있다";
+"Receive award unverified tips" = "기록을받은 후 실제 이름 인증을 참조하십시오";
+
+
+"HBSelectCurrencyTypeTableViewController.title" = "평가 방법";
+"HBSelectCurrencyTypeTableViewController.Renminbi" = "인민폐";
+"HBSelectCurrencyTypeTableViewController.Usd" = "미국 달러";
+
+
+"TPOTCBuyListCellDelegate.tips" = "구매자는 X을 통한 지불 만 지원합니다. 적절한 지불 방법을 추가하고 활성화해야합니다.";
+"TPOTCBuyListCellDelegate.add" = "추가";
+
+
+
+
+//
+"HBTokenWithdrawViewController_select" = "화폐종류를선택하다";
+"HBTokenWithdrawViewController_address" = "지폐주소";
+"HBTokenWithdrawViewController_address_placehoder" = "입력하거나붙여넣기";
+"HBTokenWithdrawViewController_address_note" = "비고 (선택)";
+"HBTokenWithdrawViewController_address_normal" = "상용주소로추가";
+"HBTokenWithdrawViewController_counter" = "화폐수량";
+"HBTokenWithdrawViewController_placehoder_counter" = "화폐수량을입력하십시오";
+"k_MyassetDetailViewController_tableview_all" = "몽땅";
+"HBTokenWithdrawViewController_placehoder_min" = "최소가능";
+"HBTokenWithdrawViewController_placehoder_max" = "최대가능";
+"HBTokenWithdrawViewController_placehoder_shouxu" = "수수료:";
+"HBTokenWithdrawViewController_placehoder_actual" = "실제계산:";
+
+"HBTokenWithdrawViewController_placehoder_notice" = "지폐설명：\n\n•화폐를제시할때최소, 최대제폐제한에주의하십시오.\n\n•제폐는인공심사를진행할것이니, 참을성있게기다려주십시오。\n\n•실제장부수량은플랫폼의상장규칙을받아들이는것을기준으로한다。\n\n•반드시컴퓨터와브라우저안전을확인하여정보가왜곡되거나누출되지않도록방지하십시오。";
+"HBTokenWithdrawViewController_placehoder_chongbi" = "충전설명：\n\n•상술한주소에비BTC자산으로충전하지마십시오. 그렇지않으면자산은찾을수없습니다。\n\n•충전은반드시구덩이확인을거쳐성공한후충전기록에서자세한상황을살펴볼수있다。\n\n•반드시컴퓨터와브라우저안전을확인하여정보가왜곡되거나누출되지않도록방지하십시오。";
+"HBTokenWithdrawViewController_saveqrcode" = "QR코드보존";
+"HBTokenWithdrawViewController_copy" = "주소복사";
+"HBTokenWithdrawViewController_token_reve" = "심사중";
+"HBTokenWithdrawViewController_token_scuess" = "제폐성공";
+"HBTokenWithdrawViewController_token_chongbi" = "충전성공";
+"HBTokenWithdrawViewController_token_resolve" = "철거";
+"HBHomeViewController_address_saveimg_submit" = "제출하다";
+"HBTokenWithdrawViewController_token_type" = "유형：";
+"HBTokenWithdrawViewController_token_number" = "수량：";
+"HBTokenWithdrawViewController_token_sstatus" = "상태：";
+"HBTokenWithdrawViewController_token_address" = "주소：";
+"HBTokenWithdrawViewController_token_txid" = "TXID：";
+"HBTokenWithdrawViewController_token_time" = "시간：";
+"HBTokenWithdrawViewController_token_detail" = "기록이상세하다";
+"HBTokenWithdrawViewController_address" = "지폐주소";
+"HBTokenWithdrawViewController_add_address" = "주소추가";
+"HBTokenWithdrawViewController_edit_address" = "주소편집";
+"HBTokenWithdrawViewController_singleaddress" = "주소";
+"HBTokenWithdrawViewController_huabi" = "화폐";
+"HBTokenWithdrawViewController_changyongdizhi" = "상용주소";
+"HBTokenWithdrawViewController_edit" = "편집";
+"HBTokenWithdrawViewController_del" = "삭제";
+"HBTokenWithdrawViewController_cancel_scuess" = "성공취소";
+"HBTokenWithdrawViewController_cancel_search" = "화폐종류를검색하다";
+"HBTokenWithdrawViewController_address_note_bixu" = "비고 (필수)";
+"HBTokenWithdrawViewController_address_chong_jilu" = "충전기록";
+"HBTokenWithdrawViewController_address_ti_jilu" = "지폐기록";
+"HBHomeViewController_address_saveimg_scuess" = "그림저장성공";
+"HBHomeViewController_address_saveimg_fail" = "그림저장실패";
+
+
+"HBHomeViewController_address_alert_title" = "법정거래";
+"HBHomeViewController_address_alert_detail" = "디지털자산을가볍게구매하다";
+"HBHomeViewController_address_alert_miaodong" = "초알다KOK";
+"HBHomeViewController_address_alert_kefu" = "온라 인지원";
+"HBHomeViewController_address_alert_name" = "이름";
+"HBHomeViewController_address_alert_new" = "최신가격";
+"HBHomeViewController_address_alert_nd" = "하락폭";
+"HBHomeViewController_address_alert_cny" = "24H거래액(CNY)";
+"HBHomeViewController_address_alert_hsl" = "24H교환율";
+
+//商城
+"HBShopViewController_Title" = "몰";
+"HBShopViewController_Default_Content" = "HBDAex 쇼핑몰 충격";
+"HBShopViewController_Coming_Soon" = "계속 지켜봐주십시오.";
+"HBShopViewController_Search_Goods" = "상품 검색";
+"HBShopViewController_Order_management" = "주문 관리";
+"HBShopViewController_shopping cart" = "장바구니";
+"HBShopViewController_Shipping address" = "배송지 주소";
+"HBShopViewController_Merchant" = "상인";
+"HBShopViewController_Expenses record" = "소비 기록";
+"HBShopViewController_Support" = "지원";

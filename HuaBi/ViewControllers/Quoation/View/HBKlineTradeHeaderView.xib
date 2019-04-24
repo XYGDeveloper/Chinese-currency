@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="HBKlineTradeHeaderView">
+            <rect key="frame" x="0.0" y="0.0" width="348" height="45"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="9UT-NI-Lf9" customClass="HMSegmentedControl">
+                    <rect key="frame" x="0.0" y="0.0" width="348" height="44"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="9UT-NI-Lf9" secondAttribute="bottom" constant="1" id="7Ec-2p-oZz"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="9UT-NI-Lf9" secondAttribute="trailing" id="84t-gk-Qza"/>
+                <constraint firstItem="9UT-NI-Lf9" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="FIt-ub-Pge"/>
+                <constraint firstItem="9UT-NI-Lf9" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="kcB-ls-YPE"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="segmentedControl" destination="9UT-NI-Lf9" id="vNA-EO-Qdc"/>
+            </connections>
+            <point key="canvasLocation" x="33.600000000000001" y="-227.13643178410797"/>
+        </view>
+    </objects>
+</document>

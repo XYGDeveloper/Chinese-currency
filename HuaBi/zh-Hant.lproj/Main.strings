@@ -1,0 +1,694 @@
+
+/*
+ Localizable.strings
+ YJOTC
+ 
+ Created by 周勇 on 2017/12/22.
+ Copyright © 2017年 前海数交平台运营. All rights reserved.
+ */
+
+"K_Langage_fan" = "中文";
+"K_Langag_en" = "英文";
+"K_Langag_th" = "泰文";
+"K_Langag_th" = "泰文";
+
+"MJRefreshHeaderIdleText" = "下拉可以刷新";
+"MJRefreshHeaderPullingText" = "鬆開立即刷新";
+"MJRefreshHeaderRefreshingText" = "正在刷新數據中...";
+
+"MJRefreshAutoFooterIdleText" = "點擊或上拉加載更多";
+"MJRefreshAutoFooterRefreshingText" = "正在加載更多的數據...";
+"MJRefreshAutoFooterNoMoreDataText" = "已經全部加載完畢";
+
+"MJRefreshBackFooterIdleText" = "上拉可以加載更多";
+"MJRefreshBackFooterPullingText" = "鬆開立即加載更多";
+"MJRefreshBackFooterRefreshingText" = "正在加載更多的數據...";
+"MJRefreshBackFooterNoMoreDataText" = "已經全部加載完畢";
+
+"MJRefreshHeaderLastTimeText" = "最後更新：";
+"MJRefreshHeaderDateTodayText" = "今天";
+"MJRefreshHeaderNoneLastDateText" = "無記錄";
+
+"load" = "加載中...";
+"wailt" = "請耐心等待";
+"empty_msg" = "暫無數據";
+"empty_refre" = "刷新試試";
+
+"net_alert_load_title" = "网络提示";
+"net_alert_load_message" = "华币断开网络连接，请前往设置网络";
+"net_alert_load_message_cancel" = "取消";
+"net_alert_load_message_sure" = "确定";
+
+"net_alert_load_page" = "似乎與網絡斷開連接";
+"net_alert_load_refresh" = "刷新";
+
+"main" = "首頁";
+"news" = "資訊";
+"hangqing" = "行情";
+"account" = "帳戶";
+"discover" = "發現";
+"trade" = "交易";
+
+
+
+"Dis_Circle" = "圈子";
+"Dis_Chats" = "聊天";
+"Dis_Friends" = "朋友";
+"Dis_GroupChat" = "聊天室";
+
+"Dis_PostVideo" = "發視頻";
+"Dis_Search" = "搜索";
+"Dis_Postpic" = "發圖文";
+"Dis_AddGroupChat" = "發起群聊";
+"Dis_AddFriend" = "添加好友";
+
+"Dis_AddAttention" = "+關注";
+"Dis_AttentionEd" = "已關注";
+"Dis_Follow" = "粉絲";
+"Dis_SaySomeThing" = "說點什麽吧~";
+"Dis_AllComments" = "全部評論";
+"Dis_Comments" = "評論";
+"Dis_VistsCount" = "訪問量";
+
+"Dis_Mine" = "我的";
+"Dis_Post" = "發布";
+"Dis_Delete" = "刪除";
+"Dis_ViewAllComment" = "查看所有評論>";
+"Dis_PersonalSpace" = "個人空間";
+"Dis_DeleteThisComment" = "刪除該評論";
+
+"Dis_NewFriend" = "新的朋友";
+"Dis_Agreed" = "已同意";
+"Dis_Agree" = "同意";
+"Dis_DeleteFriendTips" = "是否確認刪除該好友?";
+"Dis_ChooseContacts" = "選擇聯系人";
+"Dis_Done" = "完成";
+"Dis_GroupName" = "群聊名稱";
+"Dis_GroupAvatar" = "群頭像";
+"Dis_DeleteChatRecord" = "清空聊天記錄";
+"Dis_ViewProfile" = "查看資料";
+"Dis_DeleteAndLeave" = "刪除並退出";
+"Dis_DissolveTheGroup" = "解散本群";
+"Dis_LeaveGroup" = "退出後不會通知群聊中其他成員,且不會再接受此群聊消息";
+
+
+"Confirm" = "確定";
+
+"Cancel" = "取消";
+"Tips_Login" = "請先登錄";
+
+"Dis_PostTips" = "這一刻的想法";
+"Dis_PostDistrite" = "發布動態";
+"Dis_TakePhoto" = "拍照";
+"Dis_ChooseFromAlbum" = "從手機相冊選擇";
+"Dis_PostSuccess" = "發布成功";
+"Dis_RecordVideo" = "錄制視頻";
+
+
+//登錄注冊
+"LUserLogin" = "用戶登錄";
+"LUserRegister" = "用戶注冊";
+"LEnterUserName" = "請輸入用戶名";
+"LEnterVerificationCode" = "請輸入驗證碼";
+"LGetVerificationCode" = "獲取驗證碼";
+"LEnterPWD" = "請輸入登錄密碼";
+"LEnterPWDAgain" = "請再次輸入登錄密碼";
+"LEnterTransactionPWD" = "請輸入交易密碼";
+"LEnterTransactionPWDAgain" = "請再次輸入交易密碼";
+"LEnterEamil" = "請輸入郵箱(非必填)";
+"LEnterInvatationCode" = "請輸入邀請碼(必填)";
+"LRegister" = "注冊";
+"LLogin" = "登錄";
+"LUserName/email" = "用戶名/手機號/郵箱";
+"LPassword" = "密碼";
+"LForgetPWD" = "忘記密碼?";
+"LEnterPhoneNumber" = "請輸入您的手機號碼";
+"LResend" = "重新發送";
+"LCodeSendSuccess" = "驗證碼發送成功";
+"LCodeSendSuccess_email" = "郵箱驗證碼發送成功";
+"LRegisterSuccess" = "註冊成功";
+"LLoginSuccess" = "登錄成功";
+"LPayPWDNotSame" = "兩次輸入的支付密碼不壹致";
+"LLoginPWDNotSame" = "兩次輸入的登錄密碼不壹致";
+"LPWDLengthLessThan6" = "密碼長度最少為6位";
+"LAccoutLocked" = "帳號被鎖定，禁止登陸";
+
+"LUserNameError" = "用戶名或者密碼錯誤";
+"LLoginFail" = "登錄失敗";
+"LEmailError" = "郵箱格式不正確";
+"LUserNameExist" = "英文名已存在";
+"LPhoneError" = "手機號碼格式不正確";
+"LCodeError" = "手機驗證碼不正確";
+"LPhoneExist" = "手機號碼已存在";
+"LServersIsBusy" = "服務器繁忙，請稍後重試";
+
+//查找好友
+"EFindFriend" = "查找好友";
+"EUserName" = "輸入用戶名";
+"ESearchResult" = "搜索結果";
+"EFriendAdded" = "已添加";
+"EAddFriend" = "+添加";
+"ESayHello" = "妳好!";
+"EFriendRequestSendSuccess" = "好友申請發送成功";
+"EFriendRequestSendFail" = "好友申請發送失敗";
+"ECantFindTheUser" = "找不到該用戶";
+"EFindYourself" = "找到自己";
+
+"ENotJoinGroup" = "還沒有加入群組";
+"EDeleteMember" = "刪除成員";
+"EWelcomeToGroupChat" = "歡迎加入群聊~";
+"EToDeleteMember" = "確定要刪除選中的成員?";
+"EChatInfo" = "聊天信息";
+"EMyAlbum" = "我的相冊";
+"ENoFriendapplicationRecord" = "沒有好友申請記錄";
+"EPhoneNumber" = "手機號";
+"EReceiveRequest" = "收到好友申請!";
+
+"EInputNewMessage" = "輸入新消息";
+
+
+"Tip_LoginAtOtherDevice" = "您的賬號在別的地方登錄,請重新登錄!";
+"Tip_YouHaveNewMessage" = "您有新的消息，請點擊查看";
+
+
+"T_MomentAgo" = "剛剛";
+"T_MinsAgo" = "分鐘前";
+"T_HoursAgo" = "小時前";
+"T_DayAgo" = "天前";
+"T_WeeksAgo" = "星期前";
+
+
+"R_AgreeTip" = "註冊即視為同意華幣註冊協議";
+"C_NoMoreThan140" = "最多輸入140個文字";
+"C_SearchHistory" = "歷史搜索";
+"C_Dynamic" = "動態";
+"C_NoSuchCOntent" = "沒有搜索到相關內容";
+"C_reply" = "回復";
+"C_NoDynamic" = "暂无动态";
+"C_Tip" = "温馨提示";
+"C_TipDetail" = "您将删除该资源信息,删除后不得恢复";
+"C_NoDynamic" = "暫無動態";
+"C_Tip" = "溫馨提示";
+"C_TipDetail" = "您將刪除該資源信息,刪除後不得恢復";
+"C_DeleteSuccess" = "刪除成功";
+"E_LocationTitle" = "位置信息";
+"E_LocationSend" = "發送";
+
+"R_PullDown" = "下拉可以刷新";
+"R_Loading" = "數據刷新中";
+"R_Release" = "松開立即刷新";
+"R_NoMoreData" = "沒有數據啦";
+
+"K_Scan" = "掃壹掃";
+"K_ScanTips" = "將二維碼放入框內,即可自動掃描";
+"k_Attention" = "關註";
+"R_nationality" = "國籍";
+"R_PhoneRegister" = "手機註冊";
+"R_EmailRegister" = "郵箱註冊";
+"R_NOCount?" = "沒有賬號?請註冊";
+"R_ChooseNa" = "請選擇國籍";
+"R_EnterEmail" = "請輸入電子郵箱";
+"R_HaveCount?" = "已有賬號?請登錄";
+"R_EMailOrPhone" = "郵箱或手機號碼";
+"R_NOCount?" = "沒有賬號?請註冊";
+"R_ChangeCoinCircle" = "切換幣圈";
+"R_Message" = "信息";
+"R_Popularity" = "人氣";
+"R_All" = "全部";
+"R_HotCoinCircle" = "熱門幣圈";
+"R_SWitch" = "切換";
+"R_China" = "中國";
+"R_NoNetWork" = "網絡連接失敗";
+"R_ConnectFail" = "請求失敗,請稍後重試";
+"k_ConfirmLoginout" = "確定要退出登錄嗎?";
+"k_Retry" = "重試";
+"k_NewVersion" = "發現新版本,請前往升級";
+
+"k_PicSaved" = "圖片已保存成功";
+"k_PicSaveFail" = "圖片保存失敗";
+"k_PleaseEnerInviiteCode" = "請輸入邀請碼";
+"k_PayLoginPWDSame" = "登錄密碼和交易密碼不能壹樣";
+"k_meViewcontroler_title" = "用戶中心";
+"k_meViewcontroler_s1_1" = "基本信息";
+
+"k_meViewcontroler_s1_2" = "我的資產";
+
+"k_meViewcontroler_s1_3" = "財務日誌";
+
+"k_meViewcontroler_s1_4" = "安全設置";
+
+"k_meViewcontroler_s1_5" = "我的挖礦";
+
+"k_meViewcontroler_s1_6" = "我的分紅";
+
+"k_meViewcontroler_s1_7" = "我的推薦";
+
+"k_meViewcontroler_s2_1" = "實名認證";
+
+"k_meViewcontroler_s2_2" = "C2C交易";
+
+"k_meViewcontroler_s2_3" = "我的邀請";
+
+"k_meViewcontroler_s2_4" = "幫助中心";
+
+"k_meViewcontroler_s2_5" = "關於我們";
+
+"k_meViewcontroler_s2_6" = "聯繫我們";
+
+"k_meViewcontroler_s2_7" = "推廣二維碼";
+"k_meViewcontroler_loginout" = "確定要退出登錄嗎？";
+"k_meViewcontroler_loginout_sure" = "確定";
+"k_meViewcontroler_loginout_cancel" = "取消";
+
+"k_meViewcontroler_loginout_set" = "暫未設置";
+
+"k_meViewcontroler_loginAndLoginOut" = "登錄 | 註冊";
+"k_meViewcontroler_laccountDes" = "賬號";
+"k_meViewcontroler_nameDes" = "姓名";
+"k_userinfoViewcontroler_title" = "用户信息";
+
+"k_meViewcontroler_name" = "姓名:";
+
+"k_userinfoViewcontroler_email" = "郵箱:";
+
+"k_userinfoViewcontroler_phone" = "手機號碼:";
+
+"k_userinfoViewcontroler_type" = "證件類型:";
+
+"k_userinfoViewcontroler_number" = "證件號碼:";
+
+"k_userinfoViewcontroler_time" = "認證時間:";
+"k_IndexViewController_f" = "繁";
+"k_IndexViewController_e" = "英";
+"k_IndexViewController_lorr" = "登錄/ 註冊";
+"k_IndexViewController_s2" = "漲幅榜(AT)";
+"k_IndexViewController_s3" = "新手指導";
+"k_IndexViewController_top_label" = "今日待分配收入累計折合";
+"k_IndexViewController_top_label_1" = "今日每百萬份TTF累計收";
+
+"k_QuotationListViewController_top_label_1" = "主區";
+
+
+"k_MyinviteViewController_top_label_0" = "我的邀約二維碼";
+
+"k_MyinviteViewController_top_label_1" = "掃碼下載華幣APP";
+
+"k_MyinviteViewController_top_label_2" = "您的邀請碼";
+
+"k_MyinviteViewController_top_label_3" = "跳轉到下載鏈接";
+
+"k_MyrecommendViewController_top_label_00" = "人数";
+"k_MyrecommendViewController_top_label_01" = "AT数：";
+
+
+"k_MyrecommendViewController_top_label_title" = "我的推薦";
+"k_MyrecommendViewController_top_label_1" = "我的推薦：";
+"k_MyrecommendViewController_top_label_2" = "日期";
+"k_MyrecommendViewController_top_label_3" = "手機號或郵箱";
+"k_MyrecommendViewController_top_label_4" = "會員區域（A/B）";
+
+"k_MyrecommendViewController_top_label_5" = "個會員";
+
+//
+"k_MybounsViewController_title" = "我的分紅";
+"k_MybounsViewController_top_label_1" = "累計分紅數：";
+"k_MybounsViewController_top_label_2" = "發放日期";
+"k_MybounsViewController_top_label_3" = "發放類型";
+"k_MybounsViewController_top_label_4" = "分紅數量";
+"k_MybounsViewController_top_label_s" = "開始時間";
+"k_MybounsViewController_top_label_e" = "結束時間";
+"k_MybounsViewController_top_label_q" = "查詢";
+
+//
+"k_MymineViewController_title" = "我的挖礦";
+"k_MymineViewController_top_label_1" = "累計挖礦數：";
+"k_MymineViewController_top_label_2" = "發放日期";
+"k_MymineViewController_top_label_3" = "發放類型";
+"k_MymineViewController_top_label_4" = "挖礦數量";
+"k_MymineViewController_top_label_s" = "開始時間 ▼";
+"k_MymineViewController_top_label_e" = "結束時間 ▼";
+"k_MymineViewController_top_label_q" = "查詢";
+
+"k_MymineViewController_top_label_ss" = "请选择开始时间";
+
+"k_MymineViewController_top_label_ee" = "请选择结束时间";
+
+"k_MymineViewController_top_label_fq" = "发起人";
+
+"k_MymineViewController_top_label_hh" = "合伙人";
+
+"k_MymineViewController_top_label_hyjt" = "会员静态";
+
+"k_MymineViewController_top_label_hyfx" = "会员分享";
+
+"k_MymineViewController_top_label_fxwk" = "分享挖矿";
+
+"k_MymineViewController_top_label_jtwk" = "静态挖矿";
+
+"k_MymineViewController_top_label_tcdl" = "退出登錄";
+//
+
+
+"k_HomeViewController_tableview_header_title" = "最新資訊";
+"k_HomeViewController_tableview_header_quo" = "行情(KOK)";
+
+
+
+//账户---- 我的资产
+//k_meViewcontroler_s1_2
+"k_MyassetViewController_tableview_header_title" = "交易賬戶";
+"k_MyassetViewController_tableview_header_subtitle" = "淨資產折合（AT）";
+"k_MyassetViewController_tableview_header_hideButton" = "隱藏資產為0的幣種";
+"k_MyassetViewController_tableview_list_cell_middle_label" = "可用";
+"k_MyassetViewController_tableview_list_cell_right_label" = "凍結";
+//账户--- 我的资产详情
+"k_MyassetDetailViewController_tableview_header_middle" = "可用";
+"k_MyassetDetailViewController_tableview_header_right" = "凍結";
+"k_MyassetDetailViewController_tableview_header_left_Button" = "兌換AT";
+"k_MyassetDetailViewController_tableview_header_right_Button" = "兌換記錄";
+"k_MyassetDetailViewController_tableview_header_label" = "當前委託";
+"k_MyassetDetailViewController_tableview_cell_label" = "委託類型";
+"k_MyassetDetailViewController_tableview_cell_label0" = "委託價格";
+"k_MyassetDetailViewController_tableview_cell_label1" = "買入";
+"k_MyassetDetailViewController_tableview_cell_label2" = "轉入";
+"k_MyassetDetailViewController_tableview_cell_label3" = "轉出";
+
+"k_MyassetDetailViewController_alert_lin1" = "量";
+"k_MyassetDetailViewController_alert_lin2" = "兌換比例";
+"k_MyassetDetailViewController_alert_lin3" = "本次兌換AT量";
+"k_MyassetDetailViewController_alert_lin3_p" = "請輸入數量";
+"k_MyassetDetailViewController_alert_lin4" = "本次兌換AT消耗";
+"k_MyassetDetailViewController_alert_lin5" = "交易密碼";
+"k_MyassetDetailViewController_alert_lin5_p" = "請輸入交易密碼";
+"k_MyassetDetailViewController_alert_left_btn" = "提交";
+"k_MyassetDetailViewController_alert_middle_btn" = "重置";
+"k_MyassetDetailViewController_alert_right_btn" = "取消";
+"k_MyassetDetailViewController_wt_price" = "委託價格";
+"k_MyassetDetailViewController_wt_count" = "委託數量";
+//委托记录
+"k_MyassetDetailViewController_wt_mr" = "買入";
+"k_MyassetDetailViewController_wt_mc" = "賣出";
+"k_MyassetDetailViewController_wt_ing" = "委託中";
+"k_MyassetDetailViewController_wt_time" = "時間";
+"k_MyassetDetailViewController_wt_wtj" = "委託價";
+"k_MyassetDetailViewController_wt_wtl" = "委託量";
+"k_MyassetDetailViewController_wt_wtze" = "成交總額";
+"k_MyassetDetailViewController_wt_cjjj" = "成交均價";
+"k_MyassetDetailViewController_wt_cjl" = "成交量";
+
+//账户--- 我的资产明细
+"k_ExchangeRecordViewController_title" = "明細";
+"k_ExchangeRecordViewController_topbar_0" = "全部";
+"k_ExchangeRecordViewController_topbar_1" = "充幣";
+"k_ExchangeRecordViewController_topbar_2" = "提幣";
+"k_ExchangeRecordViewController_topbar_3" = "審核中";
+"k_ExchangeRecordViewController_topbar_4" = "兌換";
+//账户--- 转出
+"k_mybcbViewController_cbutton" = "複製錢包地址";
+"k_mybcbViewController_zbbutton" = "賬本功能";
+"k_mybcbViewController_zbdesbutton" = "每筆交易都記錄在這裡";
+"k_mybcbViewController_zcopy" = "復制成功";
+
+//账户--- 转入
+
+//账户-- bcb
+"k_bcbViewController_sellin" = "買入";
+"k_bcbViewController_sellout" = "賣出";
+"k_bcbViewController_des" = "1.買賣商護均為實地考察認證商護，並提供100萬AT保證金，您每次兌換會凍結商護資產，商護資產不夠時，不能接單，可放心兌換；\n2.買賣商護均為實名認證商護，並提供保證金，可放心兌換；\n3. 如需申請成為商護請發郵件到郵件到aozhou168@outlook.com；\n4. 請使用本人邦定的銀行卡或者支付寶或者微信進行匯款；\n5. 商家處理時間9:00 - 21:00非處理時間的訂單會在第二天9:00開始處理，壹般接單後24小時內會完成打款。\n6. 單天最多只能發起10筆賣出訂單。";
+
+//账户-- 关于我们
+"k_onusViewController_title" = "關於我們";
+"k_onusViewController_name" = "華幣";
+"k_onusViewController_title_detail_title" = "Asia Pacific International";
+"k_onusViewController_title_detail_des" = "華幣數字交易平臺總部設在美國紐約，未來將分別在東南亞，歐洲，香港，北美設辦事處。在國際經濟和貿易壹體化的進程中扮演十分重要的角色。集團已在全球範圍內，特別是大西洋兩岸，環太平洋經濟圈的主要國家和地區，各新興經濟體，布局打造區塊鏈行業的世界超級數字資產服務平臺。華幣數字交易平臺是國際安全可信賴的數字資產交易平臺，獲得多家投資公司A輪千萬美金資本投資，華幣數字交易平臺執行嚴格風控管理，穩定運行。華幣數字交易平臺未來主要偏重於服務於區塊鏈技術研發的經濟體和發布權威應用類資訊信息，更多提供主流數字貨幣的數字資產交易服務。
+";
+
+//账户-- 联系我们
+"k_contactViewController_title" = "聯系我們";
+//账户-- 实名认证
+
+"k_AuthViewController_uploadScuess" = "上傳成功";
+"k_AuthViewController_title" = "實名認證";
+"k_AuthViewController_name" = "姓名";
+"k_AuthViewController_placehoder" = "請輸入您的姓名";
+"k_AuthViewController_pc1" = "證件正面照";
+"k_AuthViewController_pc2" = "證件背面照";
+"k_AuthViewController_pc3" = "手持證件照";
+"k_AuthViewController_comit" = "提交審核";
+//账户-- 安全设置
+"k_YTsetViewController_s1_title" = "安全設置";
+"k_YTsetViewController_s1" = "交易密碼";
+"k_YTsetViewController_s1_det" = "發佈廣告、兌換廣告資產、修改安全設置時輸入";
+"k_YTsetViewController_s2" = "綁定郵箱";
+"k_YTsetViewController_s2_det" = "用於登錄、提幣、修改安全設置時輸入";
+"k_YTsetViewController_s3" = "綁定手機";
+"k_YTsetViewController_s3_det" = "提現、修改密碼、安全設置時用以收取驗證短信";
+"k_YTsetViewController_s4" = "登錄密碼";
+"k_YTsetViewController_s4_det" = "用於登錄賬戶時輸入";
+
+"k_YTsetViewController_bt1" = "修改";
+"k_YTsetViewController_bt2" = "綁定";
+"k_YTsetViewController_bt3" = "綁定";
+"k_YTsetViewController_bt4" = "修改";
+
+//账户-- 安全设置-- 修改密码
+"k_ModifysetViewController_title" = "修改交易密碼";
+"k_ModifysetViewController_t1" = "請輸入原交易密碼";
+"k_ModifysetViewController_t2" = "請輸入新的交易密碼";
+"k_ModifysetViewController_t3" = "請確認新的交易密碼";
+"k_ModifysetViewController_b1" = "保存修改";
+"k_ModifysetViewController_emai" = "獲取郵箱驗證碼";
+
+
+//账户-- 安全设置 -- 修改邮箱
+"k_BindsetViewController_title" = "綁定郵箱";
+"k_BindsetViewController_t1" = "請輸入郵箱地址";
+"k_BindsetViewController_t2" = "請輸入驗證碼";
+"k_BindsetViewController_t3" = "綁定郵箱";
+"k_BindsetViewController_t4" = "完成";
+"k_BindsetViewController_b1" = "確定";
+//账户-- 安全设置 -- 修改登录密码
+"k_ModifyLoginsetViewController_title" = "修改登錄密碼";
+"k_ModifyLoginsetViewController_t1" = "請輸入原登錄密碼";
+"k_ModifyLoginViewController_t2" = "請輸入新的登錄密碼";
+"k_ModifyLoginViewController_t3" = "請確認新的登錄密碼";
+"k_ModifyLoginViewController_b1" = "保存修改";
+
+//账户-- 安全设置 -- 修改绑定手机
+"k_BindphonesetViewController_title" = "綁定手機";
+"k_BindphonesetViewController_t1" = "請輸入手机地址";
+"k_BindphoneViewController_t2" = "請輸入驗證碼";
+"k_BindphoneViewController_t3" = "綁定手机";
+"k_BindphoneViewController_b0" = "發送驗證碼";
+"k_BindphoneViewController_t4" = "完成";
+"k_BindphoneViewController_b1" = "確定";
+"k_Bined" = "已綁定";
+//K-Line
+"k_line_max" = "高";
+"k_line_min" = "低";
+"k_line_amout" = "24H量";
+"k_line_minh" = "分時";
+"k_line_minutes15" = "15分鐘";
+"k_line_hours1" = "1小時";
+"k_line_hours4" = "4小時";
+"k_line_days" = "1天";
+"k_line_More" = "更多";
+"k_line_index" = "指标";
+
+"k_line_1m" = "1分鐘";
+"k_line_5m" = "5分鐘";
+"k_line_30m" = "5分鐘";
+"k_line_1w" = "1周";
+"k_line_1mon" = "1月";
+
+
+//账户---- 我的资产
+//k_meViewcontroler_s1_2
+"k_MyassetViewController_tableview_header_title" = "交易賬戶";
+"k_MyassetViewController_tableview_header_subtitle" = "淨資產折合（AT）";
+"k_MyassetViewController_tableview_header_hideButton" = "隱藏資產為0的幣種";
+"k_MyassetViewController_tableview_list_cell_middle_avali" = "可用";
+"k_MyassetViewController_tableview_list_cell_middle_label" = "總量";
+"k_MyassetViewController_tableview_list_cell_right_label" = "凍結";
+"k_MyassetViewController_tableview_list_cell_right_label1" = "鎖倉";
+//账户--- 财务日志
+"k_FinsetViewController_title" = "财务日志";
+"k_FinsetViewController_type" = "類型";
+"k_FinsetViewController_type1" = "說明";
+"k_FinsetViewController_type2" = "變動資金";
+"k_FinsetViewController_type3" = "支出/收入";
+"k_FinsetViewController_type4" = "積分名";
+"k_FinsetViewController_type5" = "成交時間";
+
+//C2C-
+"k_PAYViewController_typec" = "银行卡";
+"k_PAYViewController_typea" = "支付宝";
+"k_PAYViewController_typew" = "微信";
+"k_PAYViewController_typed" = "新增支付方式";
+//pop view
+"k_popview_1" = "支付方式";
+"k_popview_2" = "新增支付方式";
+"k_popview_3" = "最近兌換記錄";
+"k_popview_4" = "操作說明";
+"k_popview_list_cat4" = "充值種類：CNY";
+"k_popview_list_cat5" = "支行：公告的";
+"k_popview_list_cat6" = "刪除銀行卡";
+//添加微信银行卡
+"k_popview_list_countname" = "賬戶名";
+"k_popview_list_placehoder" = "提示：只可添加本人名下的賬號";
+"k_popview_list_qr" = "收款二維碼";
+"k_popview_list_sureto_add" = "確定添加";
+"k_popview_list_sureto_tips" = "请输入账户名";
+"k_popview_list_sureto_commit" = "请上传微信收款码";
+//添加银行卡
+"k_bank_popview_list_countname" = "賬戶名";
+"k_bank_popview_list_countname_place" = "提示：只可添加本人名下的銀行卡";
+"k_bank_popview_list_countname_kaihu" = "開戶銀行";
+"k_bank_popview_list_countname_kaihu_place" = "人民幣提現僅支持列表中的銀行";
+"k_bank_popview_list_szd" = "所在地";
+"k_bank_popview_list_khzh" = "開戶支行";
+"k_bank_popview_list_yhk" = "銀行卡";
+"k_bank_popview_list_countname_repeat" = "重複卡號";
+"k_bank_add_01" = "请输入开户名";
+"k_bank_add_02" = "请选择开户银行";
+"k_bank_add_03" = "请选择地址";
+"k_bank_add_04" = "请填写商户支行";
+"k_bank_add_05" = "请填写银行卡号";
+"k_bank_add_06" = "请填写确认银行卡号";
+//交易
+"k_TradeViewController_title" = "交易";
+"k_TradeViewController_seg01" = "買入";
+"k_TradeViewController_seg02" = "賣出";
+"k_TradeViewController_seg03" = "撤單";
+"k_TradeViewController_seg04" = "歷史記錄";
+"k_YTBuyAndSellDetailTableViewController_total_prouct" = "總量:";
+"k_YTBuyAndSellDetailTableViewController_integral_amount" = "可用量:";
+"k_YTBuyAndSellDetailTableViewController_integral_freezing" = "凍結量:";
+"k_YTBuyAndSellDetailTableViewController_latest_deal" = "最新成交";
+
+//错误提示信息
+"k_YTBuyAndSellDetailTableViewController_buyPriceCannotBeEmpty" = "買入價格不能為空";
+"k_YTBuyAndSellDetailTableViewController_sellPriceCannotBeEmpty" = "賣出價格不能為空";
+"k_YTBuyAndSellDetailTableViewController_TheNumberOfBuyingCannotBeEmpty" = "買入數量不能為空";
+"k_YTBuyAndSellDetailTableViewController_TheNumberOfSellingCannotBeEmpty" = "賣出數量不能為空";
+"k_YTBuyAndSellDetailTableViewController_TransactionCannotBeEmpty" = "交易密碼不能為空";
+
+
+
+"sell" = "賣";
+"buy" = "買";
+"sell_2" = "賣出";
+"buy_2" = "買入";
+"Buy_price" = "買入價";
+"Sell_price" = "賣出價";
+"Price" = "價格";
+"Entrust" = "委託量";
+"Number" = "數量";
+"Trade_code" = "交易密碼";
+"Buy_immediately" = "立即買入";
+"Sell_immediately" = "立即賣出";
+
+"Time" = "時間";
+"Type" = "類型";
+"Trade_price" = "成交價格";
+"Trade_volume" = "成交量";
+"Total" = "總計";
+
+"Entrustment_type" = "委託類型：";
+"Entrust_price" = "委託價格：";
+"Quantity_entrusted" = "委託數量：";
+
+
+"Quotation" = "行情";
+
+"Option" = "自選";
+
+"k_line_max" = "高";
+"k_line_min" = "低";
+"k_line_amout" = "24H量";
+"k_line_minh" = "分時";
+"k_line_minutes15" = "15分鐘";
+"k_line_hours1" = "1小時";
+"k_line_hours4" = "4小時";
+"k_line_days" = "1天";
+"k_line_More" = "更多";
+"k_line_index" = "指标";
+
+"k_line_1m" = "1分鐘";
+"k_line_5m" = "5分鐘";
+"k_line_30m" = "5分鐘";
+"k_line_1w" = "1周";
+"k_line_1mon" = "1月";
+"kcurrentuantity_labl0" = "币种资料：";
+"kcurrentuantity_labl1" = "英文名";
+"kcurrentuantity_labl2" = "發布日期";
+"kcurrentuantity_labl3" = "發行總量";
+"kcurrentuantity_labl4" = "区块速度";
+"kcurrentuantity_labl5" = "核心算法";
+"kcurrentuantity_labl6" = "證明方式";
+"kcurrentuantity_labl7" = "主要特色";
+
+//账户-- 帮助中心
+
+"k_HBHelpCenteriewController_title" = "幫助中心";
+"k_HBHelpCenteriewController_normal" = "關於我們";
+"k_HBHelpCenteriewController_about" = "常見問題";
+"k_HBHelpCenteriewController_notice" = "信息公告";
+"k_HBHelpCenteriewController_version" = "版本";
+//常见问题
+"k_HBcommonQuestioniewController_titile" = "提现没到账怎么办？";
+//账户
+"HBAccountTableViewController_isexpire" = "點擊登錄";
+//基本信息
+"k_contactViewController_empty" = "暫未設置";
+"HBMemberViewController_info" = "基本信息";
+"HBMemberViewController_authdes" = "身份認證";
+//        verify_state -1未认证 0未通过 1:已认证 2: 审核中
+"HBMemberViewController_authstat0" = "未認證";
+"HBMemberViewController_authstat1" = "未通過";
+"HBMemberViewController_authstat2" = "已認證";
+"HBMemberViewController_authstat3" = "審核中";
+"HBMemberViewController_name" = "姓名";
+"HBMemberViewController_acctounter" = "賬號";
+"HBMemberViewController_country" = "國家地區";
+"HBMemberViewController_carid" = "證件號碼：";
+"HBMemberViewController_time" = "認證時間：";
+"HBMemberViewController_loginOut" = "安全退出";
+//我的资产
+"HBAsetViewController_header" = "我的資產";
+"HBAsetViewController_s1" = "賬戶資產";
+"HBAsetViewController_s2" = "財務日誌";
+//返傭獎勵
+"HBRewardViewController_header" = "返傭獎勵";
+"HBRewardViewController_s1" = "我的推薦";
+"HBRewardViewController_s2" = "挖礦獎勵";
+"HBRewardViewController_s3" = "分紅獎勵";
+"HBRewardViewController_s4" = "邀約二維碼";
+//密码校验和提示信息
+"modifyLoginPassword_ori" = "請輸入原始登錄密碼";
+"modifyLoginPassword_new" = "請設置新登錄密碼";
+"modifyLoginPassword_connew" = "請輸入確認新登錄密碼";
+"modifyLoginPassword_scuess" = "修改成功";
+"modifyPassword_ori" = "請輸入原始密碼";
+"modifyPassword_new" = "請輸入新密碼";
+"modifyPassword_connew" = "請輸入確認密碼";
+"modifyPassword_same" = "新設置密碼和確認密碼不壹致";
+"modifyPassword_wailt" = "修改交易密碼已提交，正在審核中";
+"bindemail_tip" = "請輸入郵箱";
+"bindemail_tip1" = "請輸入郵箱驗證碼";
+"bindemail_scuess" = "綁定郵箱成功";
+"bindemail_send_1" = "发送验证码";
+"bindemail_send_2" = "重新获取";
+
+//
+"fun_wailt_developer" = "敬請期待";
+
+
+
+
+
+
+
+
+
+

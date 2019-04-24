@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="HBQuotationListHeaderView">
+            <rect key="frame" x="0.0" y="0.0" width="344" height="40"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="u67-6z-rrZ">
+                    <rect key="frame" x="12" y="0.0" width="34" height="40"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                    <state key="normal" title="名稱" image="quotation_sort_1">
+                        <color key="titleColor" red="0.45882352939999999" green="0.50980392159999999" blue="0.64313725489999995" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <state key="selected" image="quotation_sort_3"/>
+                    <connections>
+                        <action selector="tapAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="1sP-S5-bmT"/>
+                    </connections>
+                </button>
+                <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="W5n-Ns-Met">
+                    <rect key="frame" x="141" y="0.0" width="46" height="40"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                    <state key="normal" title="最新價" image="quotation_sort_1">
+                        <color key="titleColor" red="0.45882352939999999" green="0.50980392159999999" blue="0.64313725489999995" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <state key="selected" image="quotation_sort_3"/>
+                    <connections>
+                        <action selector="tapAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="rtX-Ul-24b"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="OGx-IA-lNu">
+                    <rect key="frame" x="253" y="0.0" width="81" height="40"/>
+                    <subviews>
+                        <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aU1-sm-xmK">
+                            <rect key="frame" x="0.0" y="12.5" width="46" height="15"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <state key="normal" title="漲跌幅" image="quotation_sort_1">
+                                <color key="titleColor" red="0.45882352939999999" green="0.50980392159999999" blue="0.64313725489999995" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <state key="selected" image="quotation_sort_3"/>
+                            <connections>
+                                <action selector="tapAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="SNK-1Z-b6p"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="aU1-sm-xmK" firstAttribute="centerY" secondItem="OGx-IA-lNu" secondAttribute="centerY" id="TtN-mn-FLk"/>
+                        <constraint firstItem="aU1-sm-xmK" firstAttribute="leading" secondItem="OGx-IA-lNu" secondAttribute="leading" id="Ucc-8Z-xBY"/>
+                        <constraint firstAttribute="width" constant="81" id="d8p-Rj-rmJ"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="OGx-IA-lNu" secondAttribute="bottom" id="A4l-DO-vf1"/>
+                <constraint firstItem="u67-6z-rrZ" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="BLl-XP-dng"/>
+                <constraint firstItem="OGx-IA-lNu" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="NeD-Rp-P0A"/>
+                <constraint firstItem="u67-6z-rrZ" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="12" id="QmW-sj-kZ3"/>
+                <constraint firstItem="W5n-Ns-Met" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="141" id="RPz-oY-yhz"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="u67-6z-rrZ" secondAttribute="bottom" id="Rrs-vN-GIC"/>
+                <constraint firstAttribute="trailing" secondItem="OGx-IA-lNu" secondAttribute="trailing" constant="10" id="SfH-BL-eOR"/>
+                <constraint firstItem="W5n-Ns-Met" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="TMr-qY-XPd"/>
+                <constraint firstItem="u67-6z-rrZ" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="nEh-e4-44q"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="W5n-Ns-Met" secondAttribute="bottom" id="pT6-ST-LAQ"/>
+                <constraint firstItem="W5n-Ns-Met" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="wt4-gw-sWC"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="changeOf24HButton" destination="aU1-sm-xmK" id="erL-da-MQg"/>
+                <outlet property="nameButton" destination="u67-6z-rrZ" id="4w7-gn-hU3"/>
+                <outlet property="priceButton" destination="W5n-Ns-Met" id="GqO-PN-FdE"/>
+                <outlet property="priceLeadingConstraint" destination="RPz-oY-yhz" id="1iD-Go-2xj"/>
+                <outletCollection property="buttons" destination="u67-6z-rrZ" id="nO5-Ow-QEu"/>
+                <outletCollection property="buttons" destination="W5n-Ns-Met" id="UzZ-ZM-vUu"/>
+                <outletCollection property="buttons" destination="aU1-sm-xmK" id="ESr-5t-gGl"/>
+            </connections>
+            <point key="canvasLocation" x="113.59999999999999" y="-127.736131934033"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="quotation_sort_1" width="9" height="11"/>
+        <image name="quotation_sort_3" width="9" height="11"/>
+    </resources>
+</document>

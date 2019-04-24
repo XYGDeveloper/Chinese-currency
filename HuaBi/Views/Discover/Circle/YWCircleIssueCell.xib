@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13174"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="147" id="KGk-i7-Jjw" customClass="YWCircleIssueCell">
+            <rect key="frame" x="0.0" y="0.0" width="372" height="147"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="372" height="146.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="l15-dR-9Jh">
+                        <rect key="frame" x="0.0" y="0.0" width="372" height="0.5"/>
+                        <color key="backgroundColor" red="0.90186256170272827" green="0.90201735496520996" blue="0.90185278654098511" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="0.5" id="K2j-fD-t95"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="sIy-wq-l3j">
+                        <rect key="frame" x="12" y="63.5" width="17" height="20"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="17" id="6gg-Kc-dms"/>
+                            <constraint firstAttribute="height" constant="20" id="MQ4-T8-fJN"/>
+                        </constraints>
+                    </imageView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="favu_sel.png" translatesAutoresizingMaskIntoConstraints="NO" id="MZN-1t-FYP">
+                        <rect key="frame" x="337" y="65" width="10" height="17"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="10" id="3pZ-4G-90o"/>
+                            <constraint firstAttribute="height" constant="17" id="DFy-lH-nZG"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iY6-eq-X0P">
+                        <rect key="frame" x="43" y="63" width="280" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.19997376203536987" green="0.20001503825187683" blue="0.19997116923332214" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="l15-dR-9Jh" secondAttribute="trailing" id="EMa-RU-sL9"/>
+                    <constraint firstItem="sIy-wq-l3j" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="12" id="F0H-jq-Rlg"/>
+                    <constraint firstItem="MZN-1t-FYP" firstAttribute="leading" secondItem="iY6-eq-X0P" secondAttribute="trailing" constant="14" id="HwS-OE-90X"/>
+                    <constraint firstItem="iY6-eq-X0P" firstAttribute="leading" secondItem="sIy-wq-l3j" secondAttribute="trailing" constant="14" id="PdT-vU-P30"/>
+                    <constraint firstItem="l15-dR-9Jh" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="WDZ-tM-kb6"/>
+                    <constraint firstItem="l15-dR-9Jh" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="acv-et-Ywy"/>
+                    <constraint firstItem="MZN-1t-FYP" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="f7W-VV-4Hp"/>
+                    <constraint firstItem="sIy-wq-l3j" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="hc7-A2-Wba"/>
+                    <constraint firstItem="iY6-eq-X0P" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="pSC-TJ-fgg"/>
+                    <constraint firstAttribute="trailing" secondItem="MZN-1t-FYP" secondAttribute="trailing" constant="25" id="ttR-Qr-xYU"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="icon" destination="sIy-wq-l3j" id="ii4-Kg-SbZ"/>
+                <outlet property="infoLabel" destination="iY6-eq-X0P" id="rwx-pY-Zux"/>
+            </connections>
+            <point key="canvasLocation" x="-190" y="44"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="favu_sel.png" width="9" height="17"/>
+    </resources>
+</document>

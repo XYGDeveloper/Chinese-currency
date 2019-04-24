@@ -1,0 +1,1417 @@
+/* 
+  Localizable.strings
+  YJOTC
+
+  Created by 周勇 on 2017/12/22.
+  Copyright © 2017年 前海数交平台运营. All rights reserved.
+*/
+
+
+"K_Langage_fan" = "中文";
+"K_Langag_en" = "English";
+"K_Langag_th" = "บทความภาษาไทย";
+"K_Langag_ko" = "한글";
+"K_Langag_japen" = "日本語";
+
+"MJRefreshHeaderIdleText" = "เมนูแบบเลื่อนลงสามารถรีเฟรช";
+"MJRefreshHeaderPullingText" = "ปล่อยทันทีฟื้นฟู";
+"MJRefreshHeaderRefreshingText" = "กำลังรีเฟรชข้อมูล . . . . . . .";
+
+"MJRefreshAutoFooterIdleText" = "คลิกหรือลากบนโหลดเพิ่มเติม";
+"MJRefreshAutoFooterRefreshingText" = "กำลังโหลดข้อมูลมากขึ้น . . . . . . .";
+"MJRefreshAutoFooterNoMoreDataText" = "ทั้งหมดได้เสร็จสิ้นการโหลด";
+
+"MJRefreshBackFooterIdleText" = "สามารถโหลดเพิ่มเติมได้ดึง";
+"MJRefreshBackFooterPullingText" = "ยกเลิกการโหลดเพิ่มเติมได้ทันที";
+"MJRefreshBackFooterRefreshingText" = "กำลังโหลดข้อมูลมากขึ้น . . . . . . .";
+"MJRefreshBackFooterNoMoreDataText" = "ทั้งหมดได้เสร็จสิ้นการโหลด";
+
+"MJRefreshHeaderLastTimeText" = "แก้ไขล่าสุดเมื่อ :";
+"MJRefreshHeaderDateTodayText" = "วันนี้";
+"MJRefreshHeaderNoneLastDateText" = "ไม่มีบันทึก";
+
+"load" = "ในการโหลด . . . . . . .";
+"wailt" = "โปรดรอสักครู่";
+"empty_msg" = "ไม่มีข้อมูล";
+"empty_refre" = "ลองรีเฟรช";
+
+"net_alert_load_title" = "เตือนเครือข่าย";
+"net_alert_load_message" = "ระหว่างประเทศในภูมิภาคเอเชียแปซฟิกการเชื่อมต่ออินเทอร์เน็ต , โปรดไปที่การตั้งค่าเครือข่าย";
+"net_alert_load_message_cancel" = "การยกเลิก";
+"net_alert_load_message_sure" = "แน่ใจว่า";
+
+"net_alert_load_page" = "ดูเหมือนจะถูกตัดการเชื่อมต่อจากเครือข่าย";
+"net_alert_load_refresh" = "รีเฟรช";
+
+"main" = "ที่หน้าแรก";
+"news" = "ข้อมูล";
+"hangqing" = "ตลาด";
+"account" = "บัญชี";
+"discover" = "พบว่า";
+"trade" = "การซื้อขาย";
+
+"Dis_Circle" = "圈子";
+"Dis_Chats" = "聊天";
+"Dis_Friends" = "朋友";
+"Dis_GroupChat" = "聊天室";
+
+"Dis_PostVideo" = "發視頻";
+"Dis_Search" = "搜索";
+"Dis_Postpic" = "發圖文";
+"Dis_AddGroupChat" = "發起群聊";
+"Dis_AddFriend" = "添加好友";
+
+"Dis_AddAttention" = "+關注";
+"Dis_AttentionEd" = "已關注";
+"Dis_Follow" = "粉絲";
+"Dis_SaySomeThing" = "說點什麽吧~";
+"Dis_AllComments" = "全部評論";
+"Dis_Comments" = "評論";
+"Dis_VistsCount" = "訪問量";
+
+"Dis_Mine" = "我的";
+"Dis_Post" = "發布";
+"Dis_Delete" = "刪除";
+"Dis_ViewAllComment" = "查看所有評論>";
+"Dis_PersonalSpace" = "個人空間";
+"Dis_DeleteThisComment" = "刪除該評論";
+
+"Dis_NewFriend" = "新的朋友";
+"Dis_Agreed" = "已同意";
+"Dis_Agree" = "同意";
+"Dis_DeleteFriendTips" = "是否確認刪除該好友?";
+"Dis_ChooseContacts" = "選擇聯系人";
+"Dis_Done" = "完成";
+"Dis_GroupName" = "群聊名稱";
+"Dis_GroupAvatar" = "群頭像";
+"Dis_DeleteChatRecord" = "清空聊天記錄";
+"Dis_ViewProfile" = "查看資料";
+"Dis_DeleteAndLeave" = "刪除並退出";
+"Dis_DissolveTheGroup" = "解散本群";
+"Dis_LeaveGroup" = "退出後不會通知群聊中其他成員,且不會再接受此群聊消息";
+
+
+"Confirm" = "確定";
+
+"Cancel" = "取消";
+"Tips_Login" = "請先登錄";
+
+"Dis_PostTips" = "這一刻的想法";
+"Dis_PostDistrite" = "發布動態";
+"Dis_TakePhoto" = "拍照";
+"Dis_ChooseFromAlbum" = "從手機相冊選擇";
+"Dis_PostSuccess" = "發布成功";
+"Dis_RecordVideo" = "錄制視頻";
+
+
+//登錄注冊
+"LUserLogin" = "การเข้าสู่ระบบของผู้ใช้";
+"LUserRegister" = "การลงทะเบียนผู้ใช้";
+"LEnterUserName" = "โปรดป้อนชื่อผู้ใช้";
+"LEnterVerificationCode" = "โปรดป้อนรหัสยืนยัน";
+"LGetVerificationCode" = "รับรหัสยืนยัน";
+"LEnterPWD" = "โปรดป้อนรหัสผ่านเข้าสู่ระบบของคุณ";
+"LEnterPWDAgain" = "โปรดป้อนรหัสผ่านเข้าสู่ระบบของคุณอีกครั้ง";
+"LEnterTransactionPWD" = "โปรดป้อนรหัสผ่านของธุรกรรม";
+"LEnterTransactionPWDAgain" = "โปรดป้อนรหัสผ่านของธุรกรรมอีกครั้ง";
+"LEnterEamil" = "โปรดป้อนที่อยู่อีเมลของคุณ";
+"LEnterInvatationCode" = "請輸入邀請碼(必填)";
+"LRegister" = "การลงทะเบียน";
+"LLogin" = "เข้าสู่ระบบ";
+"LUserName/email" = "用戶名/手機號/郵箱";
+"LPassword" = "รหัสผ่าน";
+"LForgetPWD" = "ลืมรหัสผ่าน?";
+"LEnterPhoneNumber" = "โปรดป้อนหมายเลขโทรศัพท์มือถือของคุณ";
+"LResend" = "ส่ง";
+"LCodeSendSuccess" = "ส่งรหัสยืนยันเรียบร้อยแล้ว";
+"LCodeSendSuccess_email" = "ส่งรหัสยืนยันเรียบร้อยแล้ว";
+"LRegisterSuccess" = "ลงทะเบียนสำเร็จ";
+"LLoginSuccess" = "การเข้าสู่ระบบที่ประสบความสำเร็จ";
+"LPayPWDNotSame" = "รหัสผ่านการชำระเงินที่ป้อนสองครั้งไม่ก่อให้เกิด";
+"LLoginPWDNotSame" = "รหัสผ่านเข้าสู่ระบบที่ป้อนสองครั้งไม่ก่อให้เกิด";
+"LPWDLengthLessThan6" = "รหัสผ่านต้องมีความยาวอย่างน้อย 6 หลัก";
+"LAccoutLocked" = "บัญชีถูกล็อคไม่มีการเข้าสู่ระบบ";
+
+"LUserNameError" = "用戶名或者密碼錯誤";
+"LLoginFail" = "登錄失敗";
+"LEmailError" = "郵箱格式不正確";
+"LUserNameExist" = "英文名已存在";
+"LPhoneError" = "手機號碼格式不正確";
+"LCodeError" = "手機驗證碼不正確";
+"LPhoneExist" = "手機號碼已存在";
+"LServersIsBusy" = "服務器繁忙，請稍後重試";
+
+//查找好友
+"EFindFriend" = "查找好友";
+"EUserName" = "輸入用戶名";
+"ESearchResult" = "搜索結果";
+"EFriendAdded" = "已添加";
+"EAddFriend" = "+添加";
+"ESayHello" = "妳好!";
+"EFriendRequestSendSuccess" = "好友申請發送成功";
+"EFriendRequestSendFail" = "好友申請發送失敗";
+"ECantFindTheUser" = "找不到該用戶";
+"EFindYourself" = "找到自己";
+
+"ENotJoinGroup" = "還沒有加入群組";
+"EDeleteMember" = "刪除成員";
+"EWelcomeToGroupChat" = "歡迎加入群聊~";
+"EToDeleteMember" = "確定要刪除選中的成員?";
+"EChatInfo" = "聊天信息";
+"EMyAlbum" = "我的相冊";
+"ENoFriendapplicationRecord" = "沒有好友申請記錄";
+"EPhoneNumber" = "手機號";
+"EReceiveRequest" = "收到好友申請!";
+
+"EInputNewMessage" = "輸入新消息";
+
+
+"Tip_LoginAtOtherDevice" = "您的賬號在別的地方登錄,請重新登錄!";
+"Tip_YouHaveNewMessage" = "您有新的消息，請點擊查看";
+
+
+"T_MomentAgo" = "剛剛";
+"T_MinsAgo" = "分鐘前";
+"T_HoursAgo" = "小時前";
+"T_DayAgo" = "天前";
+"T_WeeksAgo" = "星期前";
+
+
+"R_AgreeTip" = "註冊即視為同意亞太國際註冊協議";
+"C_NoMoreThan140" = "最多輸入140個文字";
+"C_SearchHistory" = "歷史搜索";
+"C_Dynamic" = "動態";
+"C_NoSuchCOntent" = "沒有搜索到相關內容";
+"C_reply" = "回復";
+"C_Tip" = "เคล็ดลับ";
+"C_NoDynamic" = "暫無動態";
+"C_TipDetail" = "คุณจะลบข้อมูลทรัพยากรและไม่สามารถกู้คืนได้หลังจากลบแล้ว";
+"C_DeleteSuccess" = "刪除成功";
+"E_LocationTitle" = "位置信息";
+"E_LocationSend" = "ส่ง";
+
+"R_PullDown" = "下拉可以刷新";
+"R_Loading" = "數據刷新中";
+"R_Release" = "松開立即刷新";
+"R_NoMoreData" = "沒有數據啦";
+
+"K_Scan" = "掃壹掃";
+"K_ScanTips" = "將二維碼放入框內,即可自動掃描";
+"k_Attention" = "關註";
+"R_nationality" = "國籍";
+"R_PhoneRegister" = "手機註冊";
+"R_EmailRegister" = "郵箱註冊";
+"R_NOCount?" = "沒有賬號?請註冊";
+"R_ChooseNa" = "請選擇國籍";
+"R_EnterEmail" = "請輸入電子郵箱";
+"R_HaveCount?" = "已有賬號?請登錄";
+"R_EMailOrPhone" = "email or phone";
+"R_NOCount?" = "沒有賬號?請註冊";
+"R_ChangeCoinCircle" = "切換幣圈";
+"R_Message" = "信息";
+"R_Popularity" = "人氣";
+"R_HotCoinCircle" = "熱門幣圈";
+"R_SWitch" = "切換";
+"R_China" = "中國";
+"R_NoNetWork" = "網絡連接失敗";
+"R_ConnectFail" = "請求失敗,請稍後重試";
+"k_ConfirmLoginout" = "確定要退出登錄嗎?";
+"k_Retry" = "重試";
+"k_NewVersion" = "發現新版本,請前往升級";
+
+"k_PicSaved" = "圖片已保存成功";
+"k_PicSaveFail" = "圖片保存失敗";
+"k_PleaseEnerInviiteCode" = "請輸入邀請碼";
+"k_PayLoginPWDSame" = "登錄密碼和交易密碼不能壹樣";
+"k_meViewcontroler_title" = "用戶中心";
+"k_meViewcontroler_s1_1" = "基本信息";
+
+"k_meViewcontroler_s1_2" = "ทรัพย์สินของฉัน";
+
+"k_meViewcontroler_s1_3" = "財務日誌";
+
+"k_meViewcontroler_s1_4" = "安全設置";
+
+"k_meViewcontroler_s1_5" = "我的挖礦";
+
+"k_meViewcontroler_s1_6" = "我的分紅";
+
+"k_meViewcontroler_s1_7" = "我的推薦";
+
+"k_meViewcontroler_s2_1" = "實名認證";
+
+"k_meViewcontroler_s2_2" = "C2C交易";
+
+"k_meViewcontroler_s2_3" = "我的邀請";
+
+"k_meViewcontroler_s2_4" = "幫助中心";
+
+"k_meViewcontroler_s2_5" = "關於我們";
+
+"k_meViewcontroler_s2_6" = "聯繫我們";
+
+"k_meViewcontroler_s2_7" = "推廣二維碼";
+//"k_meViewcontroler_loginout" = "確定要退出登錄嗎？";
+"k_meViewcontroler_loginout_sure" = "กำหนด";
+"k_meViewcontroler_loginout_cancel" = "ยกเลิก";
+
+"k_meViewcontroler_loginout_set" = "ไม่มีการตั้งค่า";
+
+"k_meViewcontroler_loginAndLoginOut" = "เข้าสู่ระบบลงทะเบียน |";
+"k_meViewcontroler_laccountDes" = "เลขที่บัญชี";
+"k_meViewcontroler_nameDes" = "ชื่อ";
+"k_userinfoViewcontroler_title" = "ข้อมูลผู้ใช้";
+
+"k_meViewcontroler_name" = "ชื่อ:";
+
+"k_userinfoViewcontroler_email" = "กล่องจดหมาย:";
+
+"k_userinfoViewcontroler_phone" = "หมายเลขโทรศัพท์มือถือ:";
+
+"k_userinfoViewcontroler_type" = "ประเภทเอกสาร:";
+
+"k_userinfoViewcontroler_number" = "เอกสารหมายเลข:";
+
+"k_userinfoViewcontroler_time" = "เวลาที่ได้รับการรับรอง:";
+//"k_IndexViewController_f" = "繁";
+//"k_IndexViewController_e" = "英";
+"k_IndexViewController_lorr" = "เข้าสู่ระบบ / ลงทะเบียน";
+"k_IndexViewController_s2" = "หรือรายการ ( at )";
+"k_IndexViewController_s3" = "คำแนะนำสำหรับมือใหม่";
+"k_IndexViewController_top_label" = "วันนี้อยู่ที่การจัดสรรรายได้รวมประจำ";
+"k_IndexViewController_top_label_1" = "วันนี้ต่อล้านส่วน TTF เก็บสะสม";
+
+"k_QuotationListViewController_top_label_1" = "พื้นที่หลัก";
+
+
+"k_MyinviteViewController_top_label_0" = "ฉันเชิญรหัสสองมิติ";
+"k_MyinviteViewController_text_field_msg"= "  ลงทะเบียนเพื่อส่ง 1000KOKcy, อิสระที่จะถอน, ไถ่ถอน, เงินปันผล, กลายเป็น \"Koi\" ต่อไป ลิงก์เฉพาะของคุณ:";
+"k_MyinviteViewController_i_am" = "ฉันเป็น";
+"k_MyinviteViewController_hua_bi_hui_yuan" = "สมาชิกหัวบิท";
+"k_MyinviteViewController_hua_bi_hui_yuan_num" = "";
+"k_MyinviteViewController_top_label_1" = "รหัสดาวน์โหลดจีนกวาดเหรียญAPP";
+"k_MyinviteViewController_top_label_number" = "ผมเป็น \" 25646666\" เหรียญหัวที่563478 สมาชิก";
+"k_MyinviteViewController_top_label_wailt" = "ฉันเจอเหรียญในประเทศจีนเช่นคุณ";
+"k_MyinviteViewController_top_label_paste_btn" = "คัดลอกลิงค์";
+
+"k_MyinviteViewController_top_label_2" = "รหัสคําเชิญของคุณ";
+
+"k_MyinviteViewController_top_label_3" = "กระโดดไปดาวน์โหลดลิงค์";
+
+"k_MyinviteViewController_top_label_3_1" = "ส่งลงทะเบียน 1000KOKcy";
+
+"k_MyrecommendViewController_top_label_00" = "จำนวน";
+"k_MyrecommendViewController_top_label_01" = "ATจำนวนที่โพสต์：";
+
+
+"k_MyrecommendViewController_top_label_title" = "ผมขอแนะนำ";
+"k_MyrecommendViewController_top_label_1" = "ผมขอแนะนำ：";
+"k_MyrecommendViewController_top_label_2" = "วันที่";
+"k_MyrecommendViewController_top_label_3" = "เบอร์มือถือหรืออีเมล์";
+"k_MyrecommendViewController_top_label_4" = "ระดับของสมาชิก";
+
+"k_MyrecommendViewController_top_label_5" = "สมาชิก";
+"k_FinsetViewController_type6" = "รายได้";
+"k_FinsetViewController_type7" = "การใช้จ่าย";
+//
+"k_MybounsViewController_title" = "ฉันจ่ายเงินปันผล";
+"k_MybounsViewController_top_label_1" = "จำนวนเงินปันผลสะสม：";
+"k_MybounsViewController_top_label_2" = "ออกเดท";
+"k_MybounsViewController_top_label_3" = "ประเภทของปัญหา";
+"k_MybounsViewController_top_label_4" = "จำนวนเงินปันผล";
+"k_MybounsViewController_top_label_s" = "เริ่มเวลา";
+"k_MybounsViewController_top_label_e" = "เวลาสิ้นสุด";
+"k_MybounsViewController_top_label_q" = "สอบถาม";
+
+"kcurrentuantity_labl0" = "ไม่มีการตั้งค่า：";
+"kcurrentuantity_labl1" = "ชื่อภาษาอังกฤษ";
+"kcurrentuantity_labl2" = "วันที่ประกาศ";
+"kcurrentuantity_labl3" = "ทั้งหมดออก";
+"kcurrentuantity_labl4" = "บล็อกความเร็ว";
+"kcurrentuantity_labl5" = "หลักคณิตศาสตร์";
+"kcurrentuantity_labl6" = "วิธีพิสูจน์";
+"kcurrentuantity_labl7" = "คุณสมบัติหลัก";
+
+//
+"k_MymineViewController_title" = "ผมขุด";
+"k_MymineViewController_top_label_1" = "สะสมจำนวนเหมืองแร่：";
+"k_MymineViewController_top_label_2" = "ออกเดท";
+"k_MymineViewController_top_label_3" = "ประเภทของปัญหา";
+"k_MymineViewController_top_label_4" = "จำนวนที่ขุด";
+"k_MymineViewController_top_label_s" = "เริ่มเวลา ▼";
+"k_MymineViewController_top_label_e" = "เวลาสิ้นสุด ▼";
+"k_MymineViewController_top_label_q" = "สอบถาม";
+
+"k_MymineViewController_top_label_ss" = "เลือกเวลาเริ่มต้น";
+
+"k_MymineViewController_top_label_ee" = "เลือกเวลาสิ้นสุด";
+
+"k_MymineViewController_top_label_fq" = "โปรโมเตอร์";
+
+"k_MymineViewController_top_label_hh" = "พันธมิตร";
+
+"k_MymineViewController_top_label_hyjt" = "สมาชิกแบบคงที่";
+
+"k_MymineViewController_top_label_hyfx" = "สมาชิกร่วมกัน";
+
+"k_MymineViewController_top_label_fxwk" = "หุ้นเหมืองแร่";
+
+"k_MymineViewController_top_label_jtwk" = "ขุดแบบคงที่";
+
+"k_MymineViewController_top_label_tcdl" = "ออกจากระบบ";
+//账户---- 我的资产
+//k_meViewcontroler_s1_2
+"k_MyassetViewController_tableview_header_title" = "บัญชีซื้อขายหลักทรัพย์";
+"k_MyassetViewController_tableview_header_subtitle" = "ต่อสินทรัพย์สุทธิ ( KOK)";
+"k_MyassetViewController_tableview_header_hideButton" = "สินทรัพย์ที่ซ่อนอยู่ของสกุลเงินที่เป็น 0";
+"k_MyassetViewController_tableview_list_cell_middle_label" = "พร้อมใช้งาน";
+"k_MyassetViewController_tableview_list_cell_right_label" = "แช่แข็ง";
+//账户--- 我的资产详情
+"k_MyassetDetailViewController_tableview_header_middle" = "พร้อมใช้งาน";
+"k_MyassetDetailViewController_tableview_header_right" = "แช่แข็ง";
+"k_MyassetDetailViewController_tableview_header_left_Button" = "การแลกเปลี่ยนที่";
+"k_MyassetDetailViewController_tableview_header_right_Button" = "บันทึกการแลกเปลี่ยน";
+"k_MyassetDetailViewController_tableview_header_label" = "มอบหมายในปัจจุบัน";
+"k_MyassetDetailViewController_tableview_all" = "ทั้งหมด";
+"k_MyassetDetailViewController_tableview_header_selectBtn" = "ตัวกรอง";
+"k_MyassetDetailViewController_tableview_pankou" = "แฮนดิแคป";
+
+"k_MyassetDetailViewController_tableview_cell_label" = "ประเภทตัวแทน";
+"k_MyassetDetailViewController_tableview_cell_label0" = "ราคาของลูกค้า";
+"k_MyassetDetailViewController_tableview_cell_label1" = "การซื้อ";
+"k_MyassetDetailViewController_tableview_cell_label2" = "โอน";
+"k_MyassetDetailViewController_tableview_cell_label3" = "ออก";
+
+"k_MyassetViewController_tableview_list_cell_middle_avali" = "พร้อมใช้งาน";
+"k_MyassetViewController_tableview_list_cell_right_jye" = "ปริมาณการซื้อขาย";
+"Award" = "ของขวัญ";
+"k_in_c2c_tips" = "โปรดตรวจสอบการตรวจสอบชื่อจริง";
+"k_in_c2c_tips_range" = "ในช่วงระหว่างการซื้อและขายในแต่ละ";
+"k_in_c2c_tips_beizhu02" = "ให้แน่ใจว่าได้กรอกข้อมูล";
+"k_in_c2c_tips_beizhu01" = "หมายเหตุ";
+"k_in_c2c_tips_payinfo" = "ข้อมูลการชำระเงิน";
+"k_popview_input_branchbank_confirm_order" = "ยอดเงินโอน";
+"k_popview_input_branchbank_confirm_ordernote" = "หมายเหตุ";
+"k_popview_input_branchbank_confirm_orderstatus" = "ประเภทบัญชี";
+"k_popview_input_branchbank_confirm_wailttopay" = "ต้องจ่าย";
+"k_in_c2c_tips_saveinfo" = "บันทึก";
+
+//操作说明
+"k_in_c2c_operation_dis_doc" = "1 , ซื้อเหรียญแม่คืออะไร？ ขายเหรียญแม่？ ตามราคาที่ซื้อเว็บไซต์ประชาสัมพันธ์เผยแพร่ข้อมูลโดยอัตโนมัติโดยระบบการจับคู่ธุรกิจตามคําแนะนําให้ข้อมูลในการชําระเงินในบัญชีของ 24 ให้ทำให้เสร็จภายในหนึ่งชั่วโมง ยืนยันว่าเมื่อเงินจะอยู่ใน 2 ชั่วโมงส่งเหรียญไปซื้อที่อยู่ในบัญชี2 และนำทั้งหมดที่ซื้อขายเหรียญกับแม่หน้าลงชื่อแสดงบนแถบด้านบนของท่อ3 และมูราคาว่าเหรียญอะไร？ เหรียญแม่ทุกวันราคาคงที่ ( ปรับแต่งเล็กน้อยตามคำสั่งของผู้ขายในราคาที่ระบุไว้ ) ,4 และเวลาซื้อต้องให้ข้อมูลอะไร？ ชื่อ / เบอร์โทรศัพท์ / ที่อยู่ / ชื่อผู้โอนและไม่มีการจำกัดจำนวนเงินที่ 5 ？ มีพื้นหลังที่กำหนดโควต้าขั้นต่ำและสูงสุด โควต้าการควบคุมระบบตามค่าของจำนวนการซื้อและขายเหรียญเดียวนานแค่ไหนที่ 6 , เติมเงินบัญชี？ ปกติชั่วโมงครึ่งแต่บางครั้งช้าประมาณ 3-5 ชั่วโมงของผู้ใช้แต่ละคนอาจจะได้ช้าโดยเฉพาะในสถานการณ์ที่บล็อกเครือข่ายห่วงโซ่เป็นมาตรฐานและทุกครั้งที่มี 7 ค่าธรรมเนียม？ เป็นแพลตฟอร์มที่ไม่คิดค่าธรรมเนียมใดๆที่ไม่ได้เรียกเก็บค่าธรรมเนียมแต่จะเสนอขอบสั่งซื้อและระยะเวลานานแค่ไหน 8 ？ ใบสั่งซื้อมีอายุ 24 24 ชั่วโมงชั่วโมงถ้าไม่ตรงกับความสำเร็จจะยกเลิกการสั่งซื้อ9 ธุรกรรม C2C และกระบวนการจัดการข้อพิพาทอย่างไร？ จะต้องมีการจัดการกับข้อพิพาทในฟังก์ชันการค้า C2C , ทั้งหมดผ่านการตรวจสอบชื่อจริงผู้ใช้เช่นกระบวนการการทำธุรกรรมที่เกี่ยวข้องกับข้อพิพาทที่เกิดขึ้นให้ตีเงินและทำให้เงินที่บันทึกไว้เพื่อยืนยันการทำธุรกรรมโดยแพลตฟอร์มที่ประสบความสําเร็จหรือความล้มเหลวเพื่อให้มั่นใจว่าผลประโยชน์ของทั้งสองฝ่ายในการอนุญาโตตุลาการและถ้าการตรวจสอบชื่อจริง 10 ？ ใช่ , ผู้ใช้จะต้องมีการตรวจสอบชื่อจริงในการทำงาน";
+//"k_MyassetDetailViewController_alert_lin1" = "量";
+//"k_MyassetDetailViewController_alert_lin2" = "兌換比例";
+//"k_MyassetDetailViewController_alert_lin3" = "本次兌換AT量";
+//"k_MyassetDetailViewController_alert_lin3_p" = "請輸入數量";
+//"k_MyassetDetailViewController_alert_lin4" = "本次兌換AT消耗";
+"k_MyassetDetailViewController_alert_lin5" = "รหัสผ่าน";
+"k_MyassetDetailViewController_alert_lin5_p" = "โปรดป้อนรหัสผ่านของธุรกรรม";
+//"k_MyassetDetailViewController_alert_left_btn" = "提交";
+//"k_MyassetDetailViewController_alert_middle_btn" = "重置";
+//"k_MyassetDetailViewController_alert_right_btn" = "取消";
+//"k_MyassetDetailViewController_wt_price" = "委託價格";
+//"k_MyassetDetailViewController_wt_count" = "委託數量";
+
+"k_MymineViewController_tradeMine" = "ซื้อขายคำแนะนำในการทำเหมืองแร่";
+"k_MymineViewController_tradeMine_detail" = "ค่าธรรมเนียมการทำธุรกรรมจะได้รับคืนตามสัดส่วน (จำนวนเงินรวม KOK ส่วนบุคคลไม่น้อยกว่า 1000) และยิ่งได้รับผลตอบแทนมากเท่าใด แพลตฟอร์มขอสงวนสิทธิ์ในการปรับเปลี่ยนกฎการจ่ายค่าธรรมเนียมการทำธุรกรรมหากมีการปรับปรุงใด ๆ โปรดให้ความสำคัญกับการประกาศแพลตฟอร์ม";
+"k_MymineViewController_inviteMine" = "คำแนะนำในการทำเหมืองคำเชิญ";
+"k_MymineViewController_inviteMine_detail" = "ค่าธรรมเนียมการทำธุรกรรมจะได้รับรางวัลให้กับผู้แนะนำในสัดส่วนที่กำหนดซึ่งจำเป็นต้องประเมินจำนวน KOK ที่แต่ละคนถืออยู่คำเชิญมากขึ้นมีรางวัลมากขึ้น แพลตฟอร์มขอสงวนสิทธิ์ในการปรับเปลี่ยนกฎการจ่ายค่าธรรมเนียมการทำธุรกรรมหากมีการปรับปรุงใด ๆ โปรดให้ความสำคัญกับการประกาศแพลตฟอร์ม";
+"k_MymineViewController_teamMine" = "คำอธิบายรางวัลของทีม";
+"k_MymineViewController_teamMine_detail" = "รางวัลของทีมจำเป็นต้องประเมินจำนวนการผลักดันโดยตรงจำนวนเงินในการทำธุรกรรมและสินทรัพย์รวมของทีมที่ถือครอง KOK ยิ่งแนะนำให้ใช้หมายเลขมากยิ่งเท่าไหร่ก็ยิ่งมีรางวัลมากเท่านั้น แพลตฟอร์มขอสงวนสิทธิ์ในการปรับเปลี่ยนกฎการจ่ายค่าธรรมเนียมการทำธุรกรรมหากมีการปรับปรุงใด ๆ โปรดให้ความสำคัญกับการประกาศแพลตฟอร์ม";
+
+//委托记录
+"k_MyassetDetailViewController_wt_mr" = "การซื้อ";
+"k_MyassetDetailViewController_wt_mc" = "ขาย";
+"k_MyassetDetailViewController_wt_ing" = "คณะกรรมการ";
+"k_MyassetDetailViewController_wt_time" = "เวลา";
+"k_MyassetDetailViewController_wt_wtj" = "ราคาของลูกค้า";
+"k_MyassetDetailViewController_wt_wtl" = "ปริมาณของลูกค้า";
+"k_MyassetDetailViewController_wt_wtze" = "ตกลงยอด";
+"k_MyassetDetailViewController_wt_cjjj" = "ราคาเฉลี่ย";
+"k_MyassetDetailViewController_wt_cjl" = "การหมุนเวียน";
+
+//账户--- 我的资产明细
+"k_ExchangeRecordViewController_title" = "รายละเอียด";
+"k_ExchangeRecordViewController_topbar_0" = "ทั้งหมด";
+"k_ExchangeRecordViewController_topbar_1" = "เติมเหรียญ";
+"k_ExchangeRecordViewController_topbar_2" = "เสนอเหรียญ";
+"k_ExchangeRecordViewController_topbar_3" = "ในการตรวจสอบ";
+"k_ExchangeRecordViewController_topbar_4" = "การแลกเปลี่ยน";
+//账户--- 转出
+"k_mybcbViewController_cbutton" = "คัดลอกที่อยู่ในกระเป๋า";
+"k_mybcbViewController_zbbutton" = "การทำงานของหนังสือ";
+"k_mybcbViewController_zbdesbutton" = "แต่ละรายการจะถูกบันทึกไว้ในที่นี้";
+"k_mybcbViewController_zcopy" = "คัดลอกความสำเร็จ";
+
+////账户--- 转入
+"k_bcbViewController_sellin" = "การซื้อ";
+"k_bcbViewController_sellout" = "ขาย";
+"k_bcbViewController_dd" = "เสร็จสมบูรณ์";
+"k_c2c_buyp" = "ราคาซื้อ（￥)";
+"k_c2c_sellp" = "ราคาที่ขาย（￥)";
+"k_c2c_buycount" = "ปริมาณการซื้อ ";
+//"k_c2c_buy_buycount_placehoder" = "ปริมาณการซื้อขั้นต่ำ 100 , ที่ใหญ่ที่สุดใน 10000";
+"k_c2c_sell_buycount_placehoder" = "โปรดใส่จำนวน";
+"k_c2c_sellcount" = "ปริมาณการขาย";
+"k_c2c_needt" = "ต้องการ";
+"k_c2c_acquire" = "ที่มีจำหน่าย";
+"k_c2c_now_startbuy" = "ซื้อทันที";
+"k_c2c_now_startsell" = "ขายได้ทันที";
+"k_c2c_now_trade" = "การซื้อขาย";
+"k_c2c_now_trade01" = "ธุรกิจสนับสนุน";
+"k_c2c_now_trade02" = "รายการหมายเลข";
+"k_c2c_now_trade03" = "ประเภท";
+"k_c2c_now_trade04" = "สถานะ";
+
+"k_c2c_now_default" = "ตั้งเป็นค่าเริ่มต้น";
+
+"k_c2c_now_sel_pay" = "กรุณาเลือกวิธีการชําระเงิน / แคชเชียร์";
+
+"k_c2c_now_sel_add" = "กรุณาไปที่การเพิ่มการชำระเงิน";
+
+"k_c2c_input_equal" = "และยืนยันว่าเงินจำนวนหนึ่งจากจำนวนไม่ระบุ";
+
+
+"k_bcbViewController_des" = "1 สนับสนุนผู้ประกอบการทั้งผู้ผลิตได้รับการรับรองพยาบาลภาคสนามและให้ 1000000 KOK เงินฝากในแต่ละครั้งที่คุณเปลี่ยนผู้ให้บริการสนับสนุนธุรกิจที่สามารถตรึงสินทรัพย์สินทรัพย์ที่ไม่สนับสนุนไม่เพียงพอเมื่อหนึ่งสามารถมั่นใจได้ในการแลกเปลี่ยนสนับสนุนทั้งผู้ค้า 2 ชื่อจริงรับรองธุรกิจพยาบาลและให้ขอบที่สามารถมั่นใจได้ว่าการแลกเปลี่ยนถ้าต้องการสมัครเป็นนักศึกษา 3 ธุรกิจกรุณาส่งเมล์ไปเมล์ไป aozhou168@outlook.comผมเชื่อม 4 โปรดใช้บัตรของธนาคารหรือ PayPal หรือการโอนเงินหนังสือไมโคร5 ธุรกิจรักษาเวลา : 00 : 00 น. - 9 21 ไม่ใช่เวลาการประมวลผลของคำสั่งจะอยู่ในที่สองวัน 9 : 00 เริ่มต้นการประมวลผลใบสั่งซื้อหลังจาก 24 เหมือนหนึ่งชั่วโมงจะเสร็จตีเงิน6 วันเดียวสามารถเปิดใบสั่งขาย 10 ปากกา";
+
+//交易记录
+"k_HBTradeJLViewController_time" = "เวลา";
+"k_HBTradeJLViewController_type" = "ประเภท";
+"k_HBTradeJLViewController_number" = "หมายเลข";
+"k_HBTradeJLViewController_count" = "จํานวน";
+"k_HBTradeJLViewController_price" = "ราคาต่อหน่วย";
+"k_HBTradeJLViewController_sumprice" = "ราคารวม";
+"k_HBTradeJLViewController_status" = "สถานะ";
+"k_HBTradeJLViewController_operation" = "การดำเนินงาน";
+
+
+
+"Confirm" = "แน่ใจว่า";
+"Cancel" = "การยกเลิก";
+"History" = "ประวัติศาสตร์";
+
+//账户-- 联系我们
+"k_contactViewController_title" = "ติดต่อเรา";
+//账户-- 实名认证
+"k_AuthViewController_uploadScuess" = "อัพโหลดเรียบร้อยแล้ว";
+"k_AuthViewController_title" = "การตรวจสอบชื่อจริง";
+"k_AuthViewController_name" = "ชื่อ";
+"k_AuthViewController_placehoder" = "กรุณาใส่ชื่อของคุณ";
+"k_AuthViewController_pc1" = "เอกสารมุมมองด้านหน้า";
+"k_AuthViewController_pc2" = "ด้านหลังของบัตรภาพ";
+"k_AuthViewController_pc3" = "ถือหนังสือเดินทาง";
+"k_AuthViewController_comit" = "ส่งรายการตรวจสอบ";
+//账户-- 安全设置
+"k_YTsetViewController_s1_title" = "การตั้งค่าการรักษาความปลอดภัย";
+"k_YTsetViewController_s1" = "รหัสผ่านการทำธุรกรรม";
+"k_YTsetViewController_s1_det" = "โฆษณา , โฆษณา , การแปลงสินทรัพย์แก้ไขการตั้งค่าการรักษาความปลอดภัยที่ระบุ";
+"k_YTsetViewController_s2" = "ผูกกล่องจดหมาย";
+"k_YTsetViewController_s2_det" = "ที่ใช้ในการเข้าสู่ระบบ , เพิ่มเงิน , แก้ไขการตั้งค่าการรักษาความปลอดภัยที่ระบุ";
+"k_YTsetViewController_s3" = "ผูกโทรศัพท์มือถือ";
+"k_YTsetViewController_s3_det" = "การแก้ไขรหัสผ่านการตั้งค่าการรักษาความปลอดภัยที่ใช้ในการตรวจสอบเพื่อเก็บข้อความ";
+"k_YTsetViewController_s4" = "รหัสผ่านเข้าสู่ระบบ";
+"k_YTsetViewController_s4_det" = "ที่ใช้ในการเข้าสู่ระบบบัญชีที่ระบุ";
+
+"k_YTsetViewController_bt1" = "การแก้ไข";
+"k_YTsetViewController_bt2" = "ผูก";
+"k_YTsetViewController_bt3" = "ผูก";
+"k_YTsetViewController_bt4" = "การแก้ไข";
+
+//账户-- 安全设置-- 修改密码
+"k_ModifysetViewController_title" = "แก้ไขรหัสผ่านการทำธุรกรรม";
+"k_ModifysetViewController_t1" = "กรุณาป้อนรหัสผ่านการทำธุรกรรมเดิม";
+"k_ModifysetViewController_t2" = "โปรดป้อนรหัสผ่านใหม่ของรายการ";
+"k_ModifysetViewController_t3" = "กรุณายืนยันรหัสผ่านใหม่ของรายการ";
+"k_ModifysetViewController_b1" = "บันทึกการเปลี่ยนแปลง";
+"k_ModifysetViewController_emai" = "รับรหัสการตรวจสอบกล่องจดหมาย";
+
+//账户-- 安全设置 -- 修改邮箱
+"k_BindsetViewController_title" = "ผูกกล่องจดหมาย";
+"k_BindsetViewController_t1" = "กรุณาใส่ที่อยู่อีเมล";
+"k_BindsetViewController_t2" = "กรุณาป้อนรหัสยืนยัน";
+"k_BindsetViewController_t3" = "ผูกกล่องจดหมาย";
+"k_BindsetViewController_t4" = "เสร็จสมบูรณ์";
+"k_BindsetViewController_b1" = "แน่ใจว่า";
+//账户-- 安全设置 -- 修改登录密码
+"k_ModifyLoginsetViewController_title" = "เปลี่ยนรหัสผ่านสำหรับการเข้าสู่ระบบ";
+"k_ModifyLoginsetViewController_t1" = "กรุณาใส่รหัสผ่านเดิม";
+"k_ModifyLoginViewController_t2" = "กรุณาป้อนรหัสผ่านเข้าสู่ระบบใหม่";
+"k_ModifyLoginViewController_t3" = "กรุณายืนยันรหัสผ่านเข้าสู่ระบบใหม่";
+"k_ModifyLoginViewController_b1" = "บันทึกการเปลี่ยนแปลง";
+
+//账户-- 安全设置 -- 修改绑定手机
+"k_BindphonesetViewController_title" = "ผูกโทรศัพท์มือถือ";
+"k_BindphonesetViewController_t1" = "กรุณาระบุที่อยู่ของโทรศัพท์มือถือ";
+"k_BindphoneViewController_t2" = "กรุณาป้อนรหัสยืนยัน";
+"k_BindphoneViewController_t3" = "ผูกโทรศัพท์มือถือ";
+"k_BindphoneViewController_b0" = "ส่งรหัสยืนยัน";
+"k_BindphoneViewController_t4" = "เสร็จสมบูรณ์";
+"k_BindphoneViewController_b1" = "แน่ใจว่า";
+"k_Bined" = "ถูกผูกไว้";
+//K-Line
+"k_line_max" = "สูง";
+"k_line_min" = "ต่ำ";
+"k_line_amout" = "24H ฉบับ";
+"k_line_minh" = "เมื่อคะแนน";
+"k_line_minutes15" = "15 นาที";
+"k_line_hours1" = "1 ชั่วโมง";
+"k_line_hours4" = "4 ชั่วโมง";
+"k_line_days" = "1 วัน";
+"k_line_More" = "เพิ่มเติม";
+"k_line_index" = "ตัวชี้วัด";
+
+"k_line_1m" = "1 นาที";
+"k_line_5m" = "5 นาที";
+"k_line_30m" = "30 นาที";
+"k_line_1w" = "สัปดาห์ที่ 1";
+"k_line_1mon" = "มกราคม";
+
+
+"k_HomeViewController_tableview_header_title" = "ข้อมูลล่าสุด";
+"k_HomeViewController_tableview_header_quo" = "รายการที่เพิ่มขึ้น";
+"Invite" = "เสนอ";
+
+//账户---- 我的资产
+//k_meViewcontroler_s1_2
+"k_MyassetViewController_tableview_header_title" = "บัญชีซื้อขายหลักทรัพย์";
+"k_MyassetViewController_tableview_header_subtitle" = "ต่อสินทรัพย์สุทธิ ( KOK )";
+"k_MyassetViewController_tableview_header_hideButton" = "สินทรัพย์ที่ซ่อนอยู่ของสกุลเงินที่เป็น 0";
+"k_MyassetViewController_tableview_list_cell_middle_avali" = "พร้อมใช้งาน";
+"k_MyassetViewController_tableview_list_cell_middle_label" = "รวม";
+"k_MyassetViewController_tableview_list_cell_right_label" = "แช่แข็ง";
+"k_MyassetViewController_tableview_list_cell_right_label1" = "ล็อค";
+//账户--- 财务日志
+"k_FinsetViewController_title" = "เข้าสู่ระบบ";
+"k_FinsetViewController_type" = "ประเภท";
+"k_FinsetViewController_type1" = "แสดงให้เห็นว่า";
+"k_FinsetViewController_type2" = "การเปลี่ยนแปลงของเงิน";
+"k_FinsetViewController_type2_1" = "แสดงให้เห็นว่า";
+"k_FinsetViewController_type2_2" = "การเปลี่ยนแปลงปริมาณ：";
+"k_FinsetViewController_type2_3" = "ประเภทการชำระเงิน：";
+"k_FinsetViewController_type2_4" = "สถานะ：";
+"k_FinsetViewController_type2_5" = "เวลาปิด：";
+"k_FinsetViewController_type3" = "ค่าใช้จ่าย / รายได้";
+"k_FinsetViewController_type4" = "หนึ่งคน";
+"k_FinsetViewController_type5" = "เวลาปิด";
+
+//C2C-
+"k_PAYViewController_typec" = "บัตรของธนาคาร";
+"k_PAYViewController_typea" = "จ่ายสมบัติ";
+"k_PAYViewController_typew" = "ตัวอักษรขนาดเล็ก";
+"k_PAYViewController_typed" = "วิธีการชําระเงินใหม่";
+//pop view
+"k_popview_1" = "วิธีการชําระเงิน";
+"k_popview_2" = "วิธีการชําระเงินใหม่";
+"k_popview_3" = "เมื่อเร็วๆนี้บันทึกการแลกเปลี่ยน";
+"k_popview_4" = "การอธิบาย";
+"k_popview_list_cat4" = "ชนิดที่ชาร์จ：CNY";
+"k_popview_list_cat5" = "สาขา : ประกาศ";
+"k_popview_list_cat6" = "เอาบัตรของธนาคาร";
+//添加微信银行卡
+"k_popview_list_uploadDes" = "อัพโหลดของคอลเลกชันของบาร์โค้ดสองมิติ";
+"k_popview_list_countname" = "ชื่อ";
+"k_popview_list_aliycounter" = "บัญชีจ่ายสมบัติ";
+"k_popview_list_counter" = "รหัสผ่านการทำธุรกรรม";
+"k_popview_list_counter_placehoder" = "กรุณาใส่หมายเลขบัญชี";
+"k_popview_list_counter_pwd_placehoder" = "กรุณาระบุรหัสผ่านการค้า";
+"k_popview_list_counter_emptyData" = "กรุณาเพิ่มการชําระเงิน";
+"k_popview_list_counter_confirmOrder" = "เพื่อยืนยันการสั่งซื้อ";
+"k_popview_input_branchbank_confirm_wailttopay" = "ต้องจ่าย";
+"k_popview_input_branchbank_confirm_wailtips" = "ซื้อช่วง";
+"k_popview_input_branchbank_confirm_wailtips_sell" = "ขายช่วง";
+
+
+"k_popview_list_countname" = "ชื่อบัญชี";
+"k_popview_list_placehoder" = "หมายเหตุ : สามารถเพิ่มชื่อบัญชีของฉัน";
+"k_popview_list_qr" = "คอลเลกชันรหัสสองมิติ";
+"k_popview_list_sureto_add" = "การกำหนดเพิ่ม";
+"k_popview_list_sureto_tips" = "กรุณาป้อนชื่อบัญชีผู้ใช้";
+"k_popview_list_sureto_commit" = "โปรดอัปโหลดหนังสือไมโครคอลเลกชันรหัส";
+//添加银行卡
+"k_bank_popview_list_countname" = "ชื่อบัญชี";
+"k_bank_popview_list_countname_place" = "หมายเหตุ : สามารถเพิ่มชื่อผมมีบัตรของธนาคาร";
+"k_bank_popview_list_countname_kaihu" = "บัญชีธนาคาร";
+"k_bank_popview_list_countname_kaihu_place" = "หยวนเงินสดเท่านั้นที่สนับสนุนรายชื่อธนาคาร";
+"k_bank_popview_list_szd" = ". . . . . . .";
+"k_bank_popview_list_khzh" = "บัญชีสาขา";
+"k_bank_popview_list_yhk" = "บัตรของธนาคาร";
+"k_bank_popview_list_countname_repeat" = "ซ้ำหมายเลข";
+"k_bank_add_01" = "กรุณาป้อนชื่อบัญชี";
+"k_bank_add_02" = "กรุณาเลือกบัญชีธนาคาร";
+"k_bank_add_03" = "โปรดเลือกที่อยู่";
+"k_bank_add_04" = "กรุณากรอกข้อมูลลงในธุรกิจสาขา";
+"k_bank_add_05" = "กรุณากรอกหมายเลขบัตรเครดิต";
+"k_bank_add_06" = "กรุณากรอกหมายเลขบัตรเครดิตเพื่อยืนยัน";
+
+"k_popview_select_paymode" = "เลือกวิธีการชำระเงิน";
+"k_popview_select_paybank" = "บัตรของธนาคาร";
+"k_popview_select_payalipay" = "จ่ายสมบัติ";
+"k_popview_select_paywechat" = "ตัวอักษรขนาดเล็ก";
+"k_popview_select_paywechat_mode" = "วิธีการรวบรวม";
+"k_popview_select_paywechat_add" = "เพิ่ม";
+"k_popview_select_paywechat_finish" = "เสร็จสมบูรณ์";
+"k_popview_select_paywechat_addwechat" = "เพิ่มตัวอักษรขนาดเล็ก";
+"k_popview_select_paywechat_addalipay" = "เพิ่มการจ่ายสมบัติ";
+"k_popview_select_paywechat_editwechat" = "แก้ไขตัวอักษรขนาดเล็ก";
+"k_popview_select_paywechat_editalipay" = "แก้ไขการจ่ายสมบัติ";
+"k_popview_select_paywechat_rececode" = "เก็บรหัส";
+"k_popview_select_paywechat_name_placehoder" = "กรุณาป้อนชื่อ";
+"k_popview_select_paywechat_bankname_placehoder" = "กรุณาป้อนชื่อบัตรของธนาคาร";
+"k_popview_select_paywechat_kaihubankname_placehoder" = "กรุณาใส่ที่อยู่ธนาคาร";
+"k_popview_select_paywechat_kaihubankcarnumber_placehoder" = "โปรดระบุหมายเลขบัตรเครดิต";
+"k_popview_select_paywechat_2kaihubankcarnumber_placehoder" = "กรุณาใส่หมายเลขบัตรเครดิต";
+
+
+"k_popview_select_paywechat_accounter_placehoder" = "กรุณาใส่หมายเลขบัญชี";
+"k_popview_select_paywechat_pwd_placehoder" = "กรุณาระบุรหัสผ่านการค้า";
+"k_popview_select_paywechat_edit_action" = "การแก้ไข";
+"k_popview_select_paywechat_edit_unbind" = "การรวม";
+"k_popview_select_paywechat_edit_cancel" = "การยกเลิก";
+"k_popview_select_paywechat_edit_sure" = "แน่ใจว่า";
+"k_popview_input_branchbank_confirm_noadd" = "คุณยังไม่ได้เพิ่มวิธีการชำระเงินวิธีการชำระเงินเพิ่ม？";
+"k_popview_select_paywechat_edit_scuess" = "งานที่ประสบความสําเร็จ";
+"k_popview_select_paywechat_accounter" = "จดหมายไมโครบัญชี";
+"k_popview_select_paywechat_rece_accoun" = "รวบรวมบัญชี";
+"k_popview_select_paywechat_add_bank" = "เพิ่มบัตรของธนาคาร";
+"k_popview_select_paywechat_edit_bank" = "แก้ไขบัตรของธนาคาร";
+"k_popview_select_paywechat_pop_select" = "กรุณาเลือกธนาคาร";
+"k_popview_select_paywechat_address_select" = "เลือกที่อยู่";
+"k_popview_select_paywechat_confirm_notsame" = "สองธนาคารหมายเลขบัตรไม่ระบุสาเหตุหนึ่ง";
+"k_popview_input_name" = "ชื่อ";
+"k_popview_input_bank" = "บัญชีธนาคาร";
+"k_popview_input_branchbank" = "บัญชีสาขา";
+"k_popview_input_branchbank_carnumber" = "หมายเลขบัตรเครดิต";
+"k_popview_input_branchbank_confirm_carnumber" = "การยืนยันหมายเลขบัตร";
+"k_popview_input_branchbank_confirm_carnumber" = "การเรียกเก็บเงิน";
+
+"k_popview_input_branchbank_confirm_Tips01" = "1 กดแจ้งชำระเงินให้ผู้ขายนี้";
+"k_popview_input_branchbank_confirm_Tips02" = "2 ผู้ขายสำหรับการตรวจสอบการชําระเงินของธุรกิจที่สามารถมั่นใจได้ว่า .";
+"k_popview_input_branchbank_confirm_Tips03" = "3.เวลาโอนเงินกรุณาต้องกรอกหมายเหตุเนื้อหา";
+"k_popview_input_branchbank_confirm_Tips04" = "4.ผู้ขายได้รับการชำระเงินได้รับการยืนยันโดยอัตโนมัติเมื่อชาร์จ KOK เช่นเกินชั่วโมงไม่ได้รับเหรียญ 24 โปรดให้ความคิดเห็นของลูกค้าบริการการแก้ไข ;";
+"k_popview_input_branchbank_confirm_Tips05" = "5.ในวันเปิดตัวปากกาสามารถให้มากที่สุดของ 10 ใบสั่งขาย .";
+
+//交易
+"k_TradeViewController_title" = "การซื้อขาย";
+"k_TradeViewController_seg01" = "การซื้อ";
+"k_TradeViewController_seg02" = "ขาย";
+"k_TradeViewController_seg03" = "การยกเลิกการจอง";
+"k_TradeViewController_seg04" = "บันทึกประวัติศาสตร์";
+"k_YTBuyAndSellDetailTableViewController_total_prouct" = "รวม:";
+"k_YTBuyAndSellDetailTableViewController_integral_amount" = "ปริมาณ:";
+"k_YTBuyAndSellDetailTableViewController_integral_freezing" = "แช่แข็ง:";
+"k_YTBuyAndSellDetailTableViewController_latest_deal" = "รายการใหม่ล่าสุด";
+"Insufficient balance" = "ความสมดุลไม่เพียงพอ";
+"k_TradeViewController_Limit price" = "ราคา จำกัด:";
+"k_TradeViewController_Stop price" = "หยุดราคา:";
+"k_TradeViewController_Deal time" = "เวลาซื้อขาย:";
+
+//当前委托
+"HBCurrentEntrustViewController.AlertTitle" = "แก้";
+"HBCurrentEntrustViewController.AlertMessage" = "ยกเลิกค่าคอมมิชชัน?";
+
+//错误提示信息
+"k_YTBuyAndSellDetailTableViewController_buyPriceCannotBeEmpty" = "ราคาซื้อจะว่างเปล่า";
+"k_YTBuyAndSellDetailTableViewController_sellPriceCannotBeEmpty" = "ขายราคาไม่ต้องว่าง";
+"k_YTBuyAndSellDetailTableViewController_TheNumberOfBuyingCannotBeEmpty" = "ปริมาณซื้อจะว่างเปล่า";
+"k_YTBuyAndSellDetailTableViewController_TheNumberOfSellingCannotBeEmpty" = "ขายจะว่างเปล่า";
+"k_YTBuyAndSellDetailTableViewController_TransactionCannotBeEmpty" = "รหัสผ่านการทำธุรกรรมจะว่างเปล่า";
+
+
+
+"sell" = "ขาย";
+"buy" = "ซื้อ";
+"sell_2" = "ขาย";
+"buy_2" = "การซื้อ";
+"limit_price" = "จำกัด ";
+"market_price" = "ราคาตลาด ";
+
+"Buy_price" = "ราคาซื้อ";
+"Sell_price" = "ขายราคา";
+"Price" = "ราคา";
+"Entrust" = "ปริมาณของลูกค้า";
+"Number" = "จํานวน";
+"Trade_code" = "รหัสผ่านการทำธุรกรรม";
+"Buy_immediately" = "ซื้อทันที";
+"Sell_immediately" = "ขายได้ทันที";
+
+"Time" = "เวลา";
+"Type" = "ประเภท";
+"Trade_price" = "ราคา";
+"Trade_volume" = "การหมุนเวียน";
+"Deal" = "การหมุนเวียน";
+"Total" = "ทั้งหมด";
+"Intro" = "บรรยาย";
+
+"Entrustment_type" = "ประเภทตัวแทน：";
+"Entrust_price" = "ราคาของลูกค้า：";
+"Quantity_entrusted" = "จำนวนที่ได้รับมอบหมาย：";
+
+
+"Quotation" = "ตลาด";
+
+"Option" = "ที่เลือก";
+
+//账户-- 帮助中心
+"k_HBAssetDetailiewController_kok" = "ฉัน KOK";
+"k_HBAssetDetailiewController_kokcy" = "ฉัน KOKcy";
+"k_HBHelpCenteriewController_title" = "ศูนย์ช่วยเหลือ";
+"k_HBHelpCenteriewController_normal" = "คำถามที่พบบ่อย";
+"k_HBHelpCenteriewController_about" = "สำหรับเรา";
+"k_HBHelpCenteriewController_notice" = "ข้อมูลประกาศ";
+"k_HBHelpCenteriewController_version" = "รุ่น";
+"Subscription" = "การสมัครสมาชิก";
+//常见问题
+"k_HBcommonQuestioniewController_titile" = "เงินสดในบัญชีไม่ได้ทำอะไร？";
+//账户
+"HBAccountTableViewController_isexpire" = "คลิกเข้าสู่ระบบ";
+//基本信息
+"k_contactViewController_empty" = "ไม่มีการตั้งค่า";
+"HBMemberViewController_info" = "ข้อมูลพื้นฐาน";
+"HBMemberViewController_authdes" = "การตรวจสอบ";
+//        verify_state -1未认证 0未通过 1:已认证 2: 审核中
+"HBMemberViewController_authstat0" = "ที่ไม่ได้รับอนุญาต";
+"HBMemberViewController_authstat1" = "ไม่ต้องผ่าน";
+"HBMemberViewController_authstat2" = "ที่ได้รับการรับรอง";
+"HBMemberViewController_authstat3" = "ในการตรวจสอบ";
+"HBMemberViewController_name" = "ชื่อ";
+"HBMemberViewController_setting" = "จัดตั้งขึ้น";
+"HBMemberViewController_set_nickname" = "ตั้งชื่อเล่น";
+"HBMemberViewController_nickname" = "ชื่อเล่น";
+"HBMemberViewController_acctounter" = "เลขที่บัญชี";
+"HBMemberViewController_country" = "ประเทศและภูมิภาค";
+"HBMemberViewController_carid" = "หมายเลขของใบรับรอง :";
+"HBMemberViewController_time" = "เวลาที่ผ่านการรับรอง :";
+"HBMemberViewController_loginOut" = "เป็นทางออกที่ปลอดภัยจาก";
+"HBMemberViewController_authfailure" = "การตรวจสอบสิทธิ์ล้มเหลว";
+"HBMemberViewController_authscuess" = "ความสําเร็จในการรับรอง";
+//我的资产
+"HBAsetViewController_header" = "ทรัพย์สินของฉัน";
+"HBAsetViewController_s1" = "บัญชีสินทรัพย์";
+"HBAsetViewController_s2" = "เข้าสู่ระบบ";
+//返傭獎勵
+"HBRewardViewController_header" = "รางวัลนี้";
+"HBRewardViewController_s1" = "ผมขอแนะนำ";
+"HBRewardViewController_s2" = "ธุรกิจเหมืองแร่";
+"HBRewardViewController_s3" = "เชิญขุด";
+"HBRewardViewController_s3_1_1" = "รางวัลทีมทั้งหมด";
+"HBRewardViewController_s3_1" = "การให้รางวัลเป็นทีม";
+"HBRewardViewController_s3_0" = "ปริมาณการซื้อขายรวม";
+"HBRewardViewController_s3_1_0" = "จำนวนการทำเหมืองแร่ที่เชิญ";
+"HBRewardViewController_s4" = "ฉันเชิญรหัสสองมิติ";
+
+//密码校验和提示信息
+"modifyLoginPassword_ori" = "โปรดป้อนรหัสผ่านเข้าสู่ระบบเดิมของคุณ";
+"modifyLoginPassword_new" = "โปรดตั้งรหัสผ่านสำหรับเข้าสู่ระบบใหม่";
+"modifyLoginPassword_connew" = "โปรดป้อนรหัสผ่านสำหรับเข้าสู่ระบบใหม่";
+"modifyLoginPassword_scuess" = "ปรับเปลี่ยนเรียบร้อยแล้ว";
+"modifyPassword_ori" = "โปรดป้อนรหัสผ่านเดิม";
+"modifyPassword_new" = "โปรดป้อนรหัสผ่านใหม่";
+"modifyPassword_connew" = "โปรดป้อนรหัสผ่านการยืนยัน";
+"modifyPassword_same" = "รหัสผ่านใหม่และรหัสผ่านการยืนยันจะไม่เกิดขึ้น";
+"modifyPassword_wailt" = "รหัสผ่านธุรกรรมที่แก้ไขแล้วได้รับการส่งและอยู่ระหว่างการตรวจสอบ";
+"bindemail_tip" = "โปรดป้อนที่อยู่อีเมลของคุณ";
+"bindemail_tip1" = "โปรดป้อนรหัสยืนยันอีเมล";
+"bindemail_scuess" = "ผูกกล่องจดหมายได้สำเร็จ";
+"bindemail_send_1" = "ส่งรหัสยืนยัน";
+"bindemail_send_2" = "จะได้รับมัน";
+
+//
+"fun_wailt_developer" = "คอยติดตาม";
+"photo_lib_photoLib" = "เลือกจากอัลบั้ม";
+"photo_lib_camara" = "ถ่ายรูป";
+//新的登录页面
+"HBLoginTableViewController_hi" = "สวัสดี,";
+"HBLoginTableViewController_des" = "ประเทศจีนเงินเข้าสู่ระบบ";
+"HBLoginTableViewController_phone_placehoder" = "หมายเลขโทรศัพท์มือถือ";
+"HBLoginTableViewController_password_placehoder" = "รหัสผ่าน";
+"HBLoginTableViewController_password_login" = "เข้าสู่ระบบ";
+"HBLoginTableViewController_password_forgetpwd" = "ลืมรหัสผ่าน";
+"HBLoginTableViewController_password_regisDes" = "จีนเหรียญยังไม่มีบัญชี？";
+"HBLoginTableViewController_password_regis" = "การลงทะเบียน";
+//忘记密码
+"HBForgetPasswordTableViewController_forgetDes" = "ลืมรหัสผ่าน";
+"HBForgetPasswordTableViewController_forgetPhone_placehoder" = "โปรดระบุหมายเลขโทรศัพท์มือถือของคุณ";
+"HBForgetPasswordTableViewController_forgetEmail_placehoder" = "โปรดระบุหมายเลขโทรศัพท์มือถือของคุณ";
+"HBForgetPasswordTableViewController_valcode_placehoder" = "กรุณาป้อนรหัสยืนยัน";
+"HBForgetPasswordTableViewController_valcode_get" = "รับรหัสยืนยัน";
+"HBForgetPasswordTableViewController_findPwd" = "กู้คืนรหัสผ่าน";
+//重置密码
+"HBResetPasswordTableViewController_resetDes" = "รีเซ็ตรหัสผ่านของ";
+"HBResetPasswordTableViewController_ori_placehoder" = "กรุณาป้อนรหัสผ่านเข้าสู่ระบบใหม่";
+"HBResetPasswordTableViewController_new_placehoder" = "กรุณาใส่รหัสผ่านเข้าสู่ระบบใหม่";
+"HBResetPasswordTableViewController_commit" = "ส่ง";
+// 注册
+"HBRegisterTableViewController_registerdes" = "มีเหรียญจีนบัญชี？";
+"HBRegisterTableViewController_read" = "ได้อ่านและยอมรับข้อตกลง";
+"HBRegisterTableViewController_agree" = "จีน \"เหรียญตรา \" ข้อตกลงการลงทะเบียนสินทรัพย์ดิจิตอล";
+
+"HBRegisterTableViewController_invitecode" = "โปรดระบุรหัสเชิญ ( เพราะว่า )";
+"HBRegisterTableViewController_1tradepwd" = "กรุณาระบุรหัสผ่านการค้า";
+"HBRegisterTableViewController_2tradepwd" = "โปรดป้อนรหัสผ่านการทำธุรกรรม";
+"HBRegisterTableViewController_1loginpwd" = "กรุณาป้อนรหัสผ่านเข้าสู่ระบบ";
+"HBRegisterTableViewController_2loginpwd" = "กรุณาใส่รหัสผ่านเข้าสู่ระบบ";
+"HBRegisterTableViewController_valcode" = "กรุณาป้อนรหัสยืนยัน";
+"HBRegisterTableViewController_getvalcode" = "รับรหัสยืนยัน";
+"HBRegisterTableViewController_defaultCountry" = "จีน";
+"HBRegisterTableViewController_defaultdes" = "ลงทะเบียนสนับสนุน SMS ระหว่างประเทศ";
+"Phone" = "โทรศัพท์มือถือ";
+"eMail" = "ตู้จดหมาย";
+"HBRegisterTableViewController_encouraging" = "ลงทะเบียนเพื่อส่ง 1000KOKcy ส่งคำเชิญ";
+
+//K线图
+"Intro" = "บรรยาย";
+"Issue date" = "เวลาออก";
+"Total circulation" = "ปัจจุบันรวม";
+"Total turnover" = "ปัจจุบันรวม";
+"Website" = "เว็บไซต์อย่างเป็นทางการ";
+"Raise price" = "รวมราคาทั้งหมด";
+"White paper" = "กระดาษสีขาว";
+"Block query" = "ค้นหาบล็อกนี้";
+
+
+//OTC
+"OTC_Max" = "สูงสุด";
+"OTC_Min" = "น้อยที่สุด";
+"OTC_Seller" = "ผู้ขาย";
+"OTC_Buyer" = "ผู้ซื้อ";
+"OTC_main_buy" = "การซื้อ";
+"OTC_main_sell" = "ขาย";
+"OTC_main_postad" = "ประกาศโฆษณา";
+"OTC_main_myad" = "โฆษณาของฉัน";
+"OTC_main_order" = "คำสั่งซื้อขาย";
+"OTC_main_payway" = "วิธีการรวบรวม";
+"OTC_main_hide" = "ซ่อน";
+"OTC_qr_savefail" = "ภาพการรักษาที่ล้มเหลว";
+"OTC_qr_savesuccess" = "ภาพที่ได้รับการบันทึกไว้ในระบบอัลบั้ม";
+"OTC_qr_savetophone" = "วิธีการรวบรวม";
+"OTC_profile_dealcount" = "จำนวนรายการ";
+"OTC_profile_finishrate" = "อัตราการเติมเต็ม";
+"OTC_profile_avatime" = "ค่าเฉลี่ยการปล่อย ( นาที )";
+"OTC_profile_identi" = "การตรวจสอบชื่อจริง";
+"OTC_profile_phoneiden" = "การตรวจสอบโทรศัพท์มือถือ";
+"OTC_buyDetail_buydetail" = "รายละเอียดการซื้อ";
+"OTC_buyDetail_chat" = "แชท";
+"OTC_buyDetail_canceldeal" = "ในการยกเลิกการทำธุรกรรม";
+"OTC_buyDetail_topay" = "ไปจ่าย";
+"OTC_buyDetail_paydelay" = "การสั่งซื้อการชำระเงินการหมดเวลา";
+"OTC_buy" = "การซื้อ";
+"OTC_sell" = "ขาย";
+"OTC_copySuccess" = "คัดลอกความสำเร็จ";
+"OTC_copySuccess_copy" = "คัดลอก";
+"OTC_buyDetail_choosepayway" = "เลือกวิธีการชำระเงิน";
+"OTC_buyDetail_reachmaxcount" = "ยกเลิกการสั่งซื้อได้ถึงสูงสุดวันนี้เวลา";
+"OTC_buyDetail_orderhasbeencancel" = "ใบสั่งที่ถูกยกเลิก";
+"OTC_buyDetail_maxcounttips" = "จำนวนวันที่จะถึงการยกเลิกของคุณออนไลน์คุณจะไม่สามารถซื้อในวันนี้เพื่อยืนยันการยกเลิก";
+"OTC_buyDetail_notyetpay" = "ฉันยืนยันยังไม่ได้จ่ายเงินให้แก่กันและกัน";
+"OTC_buyDetail_notyetpay2" = "ฉันยืนยันว่าฉันไม่ได้ชำระเงินให้กับอีกฝ่ายและฉันจะรับผิดชอบหากมีการสูญเสียเงินโดยสมัครใจ";
+"OTC_left" = "เหลือ";
+"OTC_minute" = "คะแนน";
+"OTC_second" = "วินาที";
+"OTC_ordersum" = "จำนวนการสั่งซื้อ";
+"OTC_sinleprice" = "ราคาต่อหน่วย";
+"OTC_ordernumber" = "หมายเลขการสั่งซื้อ";
+"OTC_payreference" = "หมายเลขอ้างอิงการชำระเงิน";
+"OTC_ordertime" = "วันที่สั่งซื้อ";
+"OTC_seller" = "ขายบ้าน";
+"OTC_notPay" = "โดยไม่ต้องชําระเงิน";
+"OTC_buy_hasPaied" = "ได้เสร็จสิ้นการชำระเงิน";
+"OTC_buyconfirm_tips" = "ฉันได้รู้ที่จำเป็นในการประสบความสำเร็จหลังจากคลิกที่ปุ่มด้านล่าง บัตรเดียว ( ที่เป็นอันตรายจะถูกแช่แข็ง)";
+"OTC_buyconfirm_payconfirm" = "การยืนยันการชําระเงิน";
+"OTC_buyconfirm_paytimeisover" = "มีกำหนดเวลาการชำระเงิน";
+"OTC_buyconfirm_plseasein" = "กรุณา";
+"OTC_buyconfirm_payup" = "มากกว่าวิธีการชําระเงินภายในคอลเลกชัน";
+"OTC_buyconfirm_paytips" = "โปรดตรวจสอบให้แน่ใจว่าคุณมีการชำระเงินให้กับผู้ซื้อ คลิกที่เป็นอันตรายจะแช่แข็งบัญชีโดยตรง！";
+"OTC_toallow" = "ที่จะปล่อย";
+"OTC_buylist_noorder" = "ไม่มีใบสั่งซื้อ";
+"OTC_buylist_inputmoney" = "โปรดระบุมูลค่าการซื้อขาย";
+"OTC_buylist_inputvolume" = "โปรดระบุปริมาณการซื้อ";
+"OTC_buylist_moneytoobig" = "คุณตั้งค่าจํานวนมากในการตั้งค่าการค้าที่ใหญ่ที่สุดของอีกฝ่าย";
+"OTC_buylist_volumesmall" = "ปริมาณการซื้อต้องไม่น้อยกว่า 0.0001";
+"OTC_buylist_codeerror" = "รหัสในการตรวจสอบข้อผิดพลาด";
+"OTC_post_next" = "ขั้นตอนต่อไป";
+"OTC_post_postad" = "ประกาศโฆษณา";
+"OTC_post_priceshouldbigthan0" = "ราคาต้องมากกว่า 0";
+"OTC_post_volumeshouldbigthan0" = "มีจํานวนเงินที่ต้องมากกว่า 0";
+"OTC_post_inputremark" = "กรุณาใส่ข้อความของสินทรัพย์";
+"OTC_post_pricesmall" = "ราคาไม่ต่ำกว่าราคาที่จำกัด";
+"OTC_post_pricebig" = "ราคาไม่เกินราคาการซื้อขาย";
+"OTC_post_sumbig" = "ปริมาณการซื้อขายไม่สูงสุดกับการตั้งค่าของธุรกรรม";
+"OTC_post_sumshouldbigthan0" = "ปริมาณการซื้อขายสูงสุดจะต้องมากกว่า 0";
+"OTC_post_postleft" = "ปล่อยที่เหลือ";
+"OTC_post_own" = "ที่มีจำหน่าย";
+"OTC_post_upperprice" = "กำหนดราคา";
+"OTC_post_lowerprice" = "ราคาวงเงิน";
+"OTC_post_waitresult" = "ผลการตรวจสอบ";
+"OTC_post_postsuccess" = "ประกาศความสำเร็จ";
+"OTC_post_tips1" = "เราก็คลิกที่ลูกค้าของคุณในเวลาเพื่อให้คุณที่หนึ่งความคิดเห็น";
+"OTC_post_tips2" = "ได้ยื่นใบสมัครรอแพลตฟอร์มการประมวลผล";
+"OTC_post_wait" = "รอการประมวลผล";
+"OTC_post_postbuyad" = "ประกาศซื้อโฆษณา";
+"OTC_post_postsellad" = "ประกาศขายโฆษณา";
+"OTC_post_confirmthemesg" = "กรุณาระบุข้อมูลต่อไปนี้";
+"OTC_post_haverad" = "ได้ตรวจสอบและอ่าน";
+"OTC_post_userpro" = "《ข้อตกลงของผู้ใช้》";
+"OTC_post_postad" = "ประกาศโฆษณา";
+"OTC_post_back" = "กลับไปที่";
+"OTC_post_setpayway" = "ก่อนการตั้งค่าหรือเปิดเงิน";
+"OTC_post_directpayfee" = "หักค่าใช้จ่ายได้ทันที";
+"OTC_post_Settlement_deduction" = "การตั้งถิ่นฐานหัก";
+"OTC_post_setpayway1" = "การตั้งค่าการชำระเงิน";
+"OTC_post_setgetway" = "การตั้งค่าเงิน";
+"OTC_post_atleaset1payway" = "กรุณาตั้งค่าอย่างน้อยหนึ่งชนิดของการชําระเงินและเปิด";
+"OTC_post_currency" = "สกุลเงิน:";
+"OTC_post_limitprice" = "จำกัด:";
+"OTC_post_volume" = "ปริมาณ";
+"OTC_post_sum" = "ปริมาณการซื้อขาย:";
+"OTC_post_maxsum" = "ปริมาณการซื้อขายสูงสุด:";
+"OTC_post_minsum" = "ปริมาณการซื้อขายที่ถูกที่สุด:";
+"OTC_post_feerate" = "อัตราค่าธรรมเนียม:";
+"OTC_post_fee" = "ค่าลงทะเบียน :";
+"OTC_post_payway" = "ซึ่งวิธี :";
+"OTC_post_realvolume" = "ปริมาณการขายจริง:";
+"OTC_post_realvolume_buy" = "ปริมาณการสั่งซื้อจริง:";
+"OTC_post_ihaveknow" = "ผมได้ทราบ";
+"OTC_post_posttips" = "1. หลังจากที่โฆษณาถูกเผยแพร่แล้วสกุลเงิน **** ของคุณจะถูกระงับ\n2. หากโฆษณาถูกยกเลิกภายใน 5 ชั่วโมงจากการเปิดตัวระบบจะเรียกเก็บค่าธรรมเนียมการจัดการ XXX%\n3. หากโฆษณาถูกยกเลิกหลังจาก 5 ชั่วโมงระบบจะไม่คิดค่าธรรมเนียม\n4. หลังจากโฆษณาถูกเพิกถอนสินทรัพย์ที่ไม่สำเร็จที่เหลือจะถูกส่งกลับไปยังบัญชีของคุณ";
+"OTC_post_posttips_buy" = "หลังจากโพสต์โฆษณากรุณาตรวจสอบคำสั่งการทำธุรกรรมเพื่อให้การทำธุรกรรมเสร็จสิ้นตรงเวลาเพื่อหลีกเลี่ยงผลกระทบต่อชื่อเสียง หากโฆษณาถูกเพิกถอนสามครั้งในวันนั้นสิทธิ์ในการซื้อโฆษณาจะถูก จำกัด ในวันเดียวกัน";
+"OTC_post_attention" = "หมายเหตุ";
+"OTC_post_pleaseacceptpro" = "โปรดยอมรับข้อตกลงของผู้ใช้";
+"OTC_order_norecord" = "ยังไม่มีการบันทึก";
+"OTC_order_orderdetail" = "รายละเอียดสินค้า";
+"OTC_order_paysuccess" = "การชำระเงินที่ประสบความสำเร็จ";
+"OTC_order_afterminutetoappeal" = "นาทีเพื่อที่จะร้องเรียน";
+"OTC_order_otcwillgetfee" = "*OTCในการซื้อและขายรายการจะคิดค่าบริการ";
+"OTC_order__fee" = "ค่าธรรมเนียมสำหรับ";
+"OTC_order_nochoose" = "ยังไม่มีการเลือก";
+"OTC_order_ordercancel" = "ใบสั่งที่ถูกยกเลิกและไม่สามารถดูข้อมูลการสั่งซื้อ";
+"OTC_order_orderpaid" = "มีการสั่งซื้อการชำระเงิน";
+"OTC_order_ordernotpay" = "สั่งซื้อสินค้าโดยไม่ต้องชําระเงิน";
+"OTC_order_orderdone" = "สั่งเสร็จ";
+"OTC_order_orderappleal" = "สั่งในฎีกา";
+"OTC_order_topay" = "ไปจ่ายเงินที่";
+"OTC_order_cancelorder" = "ยกเลิกการสั่งซื้อ";
+"OTC_order_discharged" = "ปล่อย";
+"OTC_order_appleal" = "ร้องเรียน";
+"OTC_order_seller" = "ด้านการขาย";
+"OTC_order_buyer" = "ผู้ซื้อ";
+"OTC_order_currency" = "สกุลเงิน";
+"OTC_order_dealvolume" = "ปริมาณการซื้อขาย";
+"OTC_order_price" = "ราคาต่อหน่วย";
+"OTC_order_payment" = "วิธีการชำระเงิน";
+"OTC_order_contact" = "ติดต่อกัน";
+"OTC_order_Actual_arrival" = "การมาถึงจริง";
+"OTC_order_Actual_deduct" = "การหักจริง";
+"OTC_order_I_have_paid" = "ฉันได้รับเงิน";
+
+"OTC_order_deal_total_money" = "จำนวนการทำธุรกรรมทั้งหมด";
+"OTC_order_deal_fiat_price" = "สกุลเงินถูกกฎหมาย";
+"OTC_order_deal_number_of_buy" = "ปริมาณการสั่งซื้อ";
+"OTC_fee" = "ค่าธรรมเนียม";
+"OTC_order_realcost" = "หักจริง";
+"OTC_order_youneedtowait" = "นอกจากนี้คุณยังต้องรอ";
+"OTC_order_all" = "ทั้งหมด";
+"OTC_order_notpay" = "โดยไม่ต้องชําระเงิน";
+"OTC_order_todischarge" = "ที่จะปล่อย";
+"OTC_order_cancel" = "ถูกยกเลิก";
+"OTC_order_done" = "ที่เสร็จสมบูรณ์";
+"OTC_order_applealing" = "ในฎีกา";
+"OTC_order_paid" = "ได้จ่ายเงิน";
+
+"OTC_appleal" = "ร้องเรียน";
+"OTC_order_applealtips1" = "จะหยุดส่งทรัพย์สินตามข้อร้องเรียนผู้ตรวจการแผ่นดินจะเกี่ยวข้องในธุรกรรมนี้ร้องเรียนจนจบ เป็นแพลตฟอร์มการดำเนินงานปกติของข้อร้องเรียนที่เป็นอันตรายต่อการกระทำที่ร้ายแรงจะแช่แข็งบัญชี。";
+"OTC_order_applealtips2" = "จะหยุดส่งทรัพย์สินตามข้อร้องเรียนผู้ตรวจการแผ่นดินจะเกี่ยวข้องในธุรกรรมนี้ร้องเรียนจนจบ เป็นแพลตฟอร์มการดำเนินงานปกติของข้อร้องเรียนที่เป็นอันตรายต่อการกระทำที่ร้ายแรงจะแช่แข็งบัญชี。";
+"OTC_order_applealtype" = "ร้องเรียนประเภท";
+"OTC_order_othernotdischarge" = "อีกฝ่ายไม่ปล่อย";
+"OTC_order_othernotpay" = "อีกฝ่ายไม่จ่าย";
+"OTC_order_othercheat" = "กันว่ามีการฉ้อโกง";
+"OTC_order_other" = "อื่นๆ";
+"OTC_order_inputapplealreason" = "กรุณากรอกข้อร้องเรียนของเหตุผล(ภายใน 100 คำ)";
+"OTC_order_confirmappleal" = "การอุทธรณ์";
+"OTC_order_reasontoolong" = "เหตุผลที่ไม่ควรเกิน 100 คำอุทธรณ์";
+"OTC_order_commitsuccess" = "คุณร้องเรียนได้ยื่นแล้วโปรดรอสักครู่";
+"OTC_ad_cancel_warning" = "ยืนยันการยกเลิกการโฆษณาหรือไม่";
+"OTC_ad_canceltips1" = "1. การเลิกทำโฆษณาจะเปลี่ยนเป็นสถานะเสร็จสมบูรณ์โดยตรง\n2. หากโฆษณาถูกยกเลิกภายใน 5 ชั่วโมงจากการเปิดตัวระบบจะเรียกเก็บค่าธรรมเนียมการจัดการ XXX%\n3. หากโฆษณาถูกยกเลิกหลังจาก 5 ชั่วโมงระบบจะไม่คิดค่าธรรมเนียม\n4. หลังจากโฆษณาถูกเพิกถอนสินทรัพย์ที่ไม่สำเร็จที่เหลือจะถูกส่งกลับไปยังบัญชีของคุณ\nคุณแน่ใจว่าจะยกเลิกหรือไม่";
+"OTC_ad_currentad" = "การโฆษณาในวันนี้";
+"OTC_ad_history" = "โฆษณาประวัติศาสตร์";
+"OTC_ad_addetail" = "รายละเอียดโฆษณา";
+"OTC_ad_newmsg" = "ข่าวใหม่";
+
+"OTC_view_havecashdeposit" = "ธุรกิจที่ได้มีการจ่ายมัดจำ 1BTC";
+"OTC_view_buyall" = "ซื้อทั้งหมด";
+"OTC_view_sellall" = "ขายทั้งหมด";
+
+"OTC_view_needpayin15min" = "คำสั่งนี้คุณจะต้องจ่าย 15 นาที";
+"OTC_view_sellerremark" = "คำพูด";
+"OTC_view_placeorder" = "สั่งซื้อสินค้า";
+"OTC_view_needpayin15min1" = "คำสั่งนี้ต้องการให้คุณอยู่ที่นี่";
+"OTC_view_needpayin15min2" = "นาทีจ่าย";
+"OTC_view_limtesum" = "โควต้า";
+"OTC_view_maxsell" = "ที่ใหญ่ที่สุดสำหรับการขาย";
+"OTC_view_maxbuy" = "ที่ใหญ่ที่สุดสามารถซื้อ";
+"OTC_view_dealrate" = "อัตราการหมุนเวียน";
+"OTC_view_dealing" = "ในการซื้อขาย";
+"OTC_view_selfcancel" = "ใช้ความคิดริเริ่มที่จะยกเลิก";
+"OTC_view_sellover" = "มีการขาย";
+"OTC_view_adnumber" = "โฆษณาเลขที่";
+"OTC_view_cancelAd" = "ยกเลิกโฆษณา";
+
+"OTC_view_exchangevolume" = "จำนวนของการแลกเปลี่ยน";
+"OTC_view_sum" = "จํานวนเงิน";
+"OTC_view_exvolume" = "มีจํานวนเงิน";
+"OTC_view_exsum" = "ได้อัตราแลกเปลี่ยนเงินตราต่างประเทศ";
+"OTC_view_leftvolume" = "จำนวนที่เหลือ";
+"OTC_view_leftsum" = "จำนวนเงินที่เหลือ";
+"OTC_view_necessary" = "ที่จําเป็น(ภายใน 100 คำ)";
+"OTC_Within 100 words" = "ภายใน 100 คำ";
+"OTC_view_moneyremark" = "ข้อความของสินทรัพย์：";
+"OTC_view_limitelowsum" = "ปริมาณการซื้อขายขั้นต่ำ";
+"OTC_view_limitehighsum" = "จำกัดปริมาณการซื้อขายสูงสุด";
+
+"Confirm" = "แน่ใจว่า";
+"Cancel" = "การยกเลิก";
+"Dis_Chats" = "แชท";
+"OTC_buy_skr" = "ผู้รับเงิน";
+"OTC_post_highsumlessthanlowsum" = "จำนวนธุรกรรมสูงสุดต้องไม่น้อยกว่าจำนวนเงินขั้นต่ำของธุรกรรม";
+
+"noRecord" = "ยังไม่มีการบันทึก";
+"OTC_pro_registertime" = "เวลาลงทะเบียน";
+"OTC_pro_time" = "ครั้ง";
+"OTC_pro_30" = "30 วันเดียว";
+"OTC_pro_sum" = "ประกอบเดี่ยว";
+"OTC_pro_success" = "ในความโปรดปรานของ";
+"OTC_pro_avati" = "ส่งโดยเฉลี่ย";
+"OTC_pro_email" = "ตรวจสอบกล่องจดหมาย";
+"OTC_pro_sellonline" = "ขายออนไลน์";
+"OTC_pro_buyonline" = "ซื้อออนไลน์";
+"OTC_pro_minute" = "นาที";
+"OTC_pro_main" = "พ่อค้าหน้าส่วนตัว";
+"OTC_post_maxshouldsmallthansum" = "ปริมาณการซื้อขายสูงสุดไม่เกินมูลค่าการซื้อขาย";
+"OTC_empty_tips" = "คลิกอีกครั้ง";
+"OTC_payway_enteraccount" = "กรุณาใส่หมายเลขบัญชี";
+"oOTC_payway_choosepic" = "กรุณาเลือกรหัสสองมิติ";
+
+"OTC.myADCell.number" = "ปริมาณ";
+"OTC.myADCell.buy_number" = "ปริมาณ";
+"OTC.myADCell.AD_No" = "จำนวน:";
+"OTC.myADCell.price" = "ราคาต่อหน่วย";
+"OTC.myADCell.tradeMoney" = "จำนวนการทำธุรกรรม";
+"OTC.myADCell.time" = "เวลาปล่อย";
+"OTC.myADCell.showDetail" = "ดูรายละเอียด ";
+"OTC.myADCell.sell" = "ขายด่วน";
+"OTC.myADCell.buy" = "ซื้อ";
+"OTC.myADCell.limit" = "โควต้า";
+"OTC.myADCell.soldMoney" = "ยอดขาย";
+"OTC.myADCell.soldNumber" = "ปริมาณที่ขาย";
+"OTC.myADCell.boughtMoney" = "จำนวนเงินที่ซื้อ";
+"OTC.myADCell.boughtNumber" = "ปริมาณการสั่งซื้อ";
+"OTC.myADCell.remindMoney" = "จำนวนที่เหลืออยู่";
+"OTC.myADCell.remindNumber" = "ปริมาณที่เหลืออยู่";
+"OTC.myADCell.cancelAD" = "แก้";
+
+"OTC.HBOTCOrderDetailAlertView.confirmPass" = "ยืนยันการเปิดตัว";
+"OTC.HBOTCOrderDetailAlertView.tips" = "ฉันยืนยันว่าฉันได้เข้าสู่บัญชีการเรียกเก็บเงินของฉันและยืนยันว่าการชำระเงินนั้นถูกต้อง";
+"OTC.TPOTCPostDetailController.title" = "ข้อมูลการยืนยัน";
+"OTC.HBOTCPostDetailGotoSetupPayWayView.tips" = "คุณยังไม่ได้เพิ่มวิธีการชำระเงิน?";
+"OTC.HBOTCPostDetailGotoSetupPayWayView.add" = "ไปเพิ่ม";
+"TPOTCPayWayBankController.tips" = "* ขณะนี้รองรับเฉพาะบัตรเดบิตอย่าเพิ่มบัตรธนาคารประเภทอื่นเช่นบัตรเครดิต!";
+"OTC.HBOTCTradeInfoDetailTableViewController.buyAlertMessage" = "หากคุณได้ชำระเงินให้แก่ผู้ขายแล้วโปรดตรวจสอบให้แน่ใจว่าได้คลิกปุ่ม \"ฉันได้ชำระเงินแล้ว\" ที่มุมล่างขวามิฉะนั้นอาจมีการสูญเสียเงิน";
+"OTC.HBOTCTradeInfoDetailTableViewController.sellAlertMessage" = "โปรดเข้าสู่บัญชีการรวบรวมเพื่อยืนยันรายละเอียดบัญชีเพื่อหลีกเลี่ยงความเสียหายของทรัพย์สินที่เกิดจากการคลิกที่ไม่ถูกต้อง";
+"OTC.HBOTCTradeInfoDetailTableViewController.buyTips" = "1. การโอนเงินของคุณจะตรงไปยังบัญชีของผู้ขายสินทรัพย์ดิจิตอลที่ขายโดยผู้ขายในระหว่างการทำธุรกรรมจะได้รับการคุ้มครองโดยแพลตฟอร์ม \ n2 โปรดชำระเงินให้เสร็จภายในเวลาที่กำหนดและอย่าลืมคลิก \"ฉันได้ชำระเงิน\" หลังจากผู้ขายยืนยันการชำระเงินระบบจะโอนสินทรัพย์ดิจิทัลไปยังบัญชีของคุณ \ n3. หากผู้ซื้อยกเลิกคำสั่งซื้อ 3 ครั้งในวันเดียวกันมันจะถูก จำกัด ให้ฟังก์ชั่นการซื้อของวันนั้น";
+"OTC.HBOTCTradeInfoDetailTableViewController.sellTips" = "1. สินทรัพย์ดิจิทัลที่คุณขายถูกแช่แข็งโดยแพลตฟอร์มการโฮสต์ โปรดยืนยันการชำระเงินของอีกฝ่ายและคลิก \"ปล่อย\" เพื่อชำระสินทรัพย์ดิจิทัล \ n2 โปรดอย่าเชื่อด้วยเหตุผลใดก็ตามที่จะกระตุ้นให้เงินออกและยืนยันการรับเงินก่อนที่จะปล่อยสินทรัพย์ดิจิตอลเพื่อหลีกเลี่ยงการสูญเสีย \ n3 หลังจากได้รับ SMS โปรดเข้าสู่ระบบธนาคารออนไลน์หรือโทรศัพท์มือถือเพื่อดูข้อมูลบัญชี";
+"OTC.HBOTCTradeInfoDetailTableViewController.confirm_payment" = "ยืนยันการชำระเงิน";
+"OTC.HBOTCTradeInfoDetailTableViewController.Bank_card_No" = "หมายเลขบัตร";
+"OTC.HBOTCTradeInfoDetailTableViewController.Pay_account_No" = "เลขที่บัญชี";
+"OTC.HBOTCTradeInfoDetailTableViewController.Bank_Info" = "ข้อมูลธนาคาร";
+"OTC.HBOTCTradeInfoDetailTableViewController.Receip_QR_code" = "รับรหัส QR";
+"OTC.HBOTCTradeInfoDetailTableViewController.Switch" = "สวิตซ์";
+//资产
+"Assert_detail_exchange" = "จะเปลี่ยนไป";
+"Assert_detail_dealtime" = "ชั่วโมงการซื้อขาย";
+"Assert_detail_release" = "ปล่อย";
+"Assert_detail_release_action_button_title" = "ตรวจสอบการเปิดตัว";
+"Assert_detail_presetation_release_menu" = "ปล่อยตัวฟรี";
+"Assert_detail_presetation_release" = "ปล่อยตัวฟรี";
+"Assert_detail_presetation_balance" = "สมดุล";
+"Assert_detail_releaserecord" = "ในการบันทึก";
+"Assert_detail_releaserule" = "กฎการอนุมัติ: การเผยแพร่รายวันจะเผยแพร่ตามนโยบายและจะต้องมีการเผยแพร่ด้วยตนเองมิฉะนั้นจะล็อกตำแหน่งต่อ เมื่อยอดคงเหลือล็อคน้อยกว่า 0.001 จะไม่สามารถนำออกได้";
+"Assert_detail_currencyname" = "ชื่อของสินทรัพย์";
+"Assert_detail_releaseaction" = "ปล่อยการกระทำ";
+"Assert_detail_lockvolume" = "จำนวนล็อค";
+"Assert_detail_releaseVolume" = "ปริมาณการปล่อย";
+"Assert_detail_releasetips" = "วันนี้ได้รับการปล่อยตัวในวันพรุ่งนี้เสร็จเรียบร้อยแล้วกรุณามาอีก";
+"Assert_detail_releaseSuccess" = "ปล่อยความสําเร็จ";
+"Assert_detail_changeintoid" = "เข้า ID";
+"Assert_detail_name" = "ชื่อผู้ใช้";
+"Assert_detail_exchangedetail" = "รายละเอียดที่เปลี่ยนไป";
+"Assert_detail_100" = "โปรดระบุ 100 เลขจำนวนเต็ม";
+"Assert_detail_enteruserID" = "กรุณาใส่รหัสเปิด";
+"Assert_detail_sureexchange" = "ตรวจสอบออก";
+"Assert_detail_to" = "ให้";
+"Assert_detail_noidentify" = "ผู้ใช้นี้ยังได้รับการรับรองชื่อจริง";
+"Assert_detail_charge" = "เติมเหรียญ";
+"Assert_detail_tibi" = "เสนอเหรียญ";
+
+
+
+"Trade_Done" = "มันได้รับการซื้อขาย";
+"Part_Done" = "ข้อตกลงบางส่วน";
+"Pending_order" = "คำสั่งซื้อที่รอดำเนินการ";
+"Trade_price2" = "ราคา";
+"ConsumptionOfCard" = "การบริโภค";
+"Trade_Details" = "รายละเอียดธุรกรรม";
+"Canceled" = "ยกเลิก";
+"Copied" = "คัดลอก";
+"Sorry" = "ขอโทษ";
+
+"Has_been_suspended_in_take" = "ระงับเหรียญ";
+"Has_been_suspended_in_recharge" = "ระงับเหรียญ";
+"Has_been_suspended_in_release" = "ระงับการปลดปล่อย";
+"Has_been_suspended_in_exchange" = "ระงับการโอนย้าย";
+"Has_been_suspended_in_release_award" = "ระงับการปลดปล่อย";
+
+"Exchange" = "แลกเปลี่ยน";
+"To_Lock" = "ล็อกล็อค";
+"To_Lock_Records" = "บันทึกการล็อก";
+"Exchange_Records" = "บันทึกการไถ่ถอน";
+
+//HBToLockTableViewController
+"Asset_name_" = "ชื่อของสินทรัพย์:";
+"Available_Number" = "ปริมาณที่มี:";
+"Transfer_Number" = "ปริมาณการโอน:";
+"Transaction_password_" = "หัสผ่านการทำธุรกรรม:";
+"Turn_lock_operation" = "เปิดใช้งานการล็อก";
+"HBToLockTableViewController_Tips" = "ล็อคคำอธิบายเกี่ยวกับตำแหน่ง: ถ่ายโอน KOK ที่มีอยู่ไปยังตำแหน่งที่ล็อคไว้แพลตฟอร์มจะให้เหมือนกันรางวัล KOK เท่ากัน";
+"Turn_lock_records" = "บันทึก";
+"Enter_the_Transfer_Number" = "ป้อนหมายเลขโอน";
+"Enter_the_Transaction_password_" = "ป้อนรหัสผ่านของธุรกรรม";
+"Number_of_locks" = "จำนวนล็อค";
+"Locked_successfully" = "ล็อกเรียบร้อยแล้ว";
+"Presented_successfully" = "ความสำเร็จของของขวัญ";
+"Confirm_transfer" = "ยืนยันการโอน";
+"Operation guide" = "คู่มือการใช้งาน";
+"HBToLockTableViewController_msg1" = "จำนวนการโอนต้องไม่น้อยกว่า 100";
+
+//认购
+"Subscription price" = "ราคาจองซื้อ";
+"Minimum quantity" = "ปริมาณขั้นต่ำ";
+"Subscription Goal" = "เป้าหมาย";
+"Subscription Progress" = "ความคืบหน้า";
+"Subscription Number of people" = "จำนวนคน";
+"Subscription Subscribe" = "ซื้อ";
+"Subscription End" = "ปลาย";
+"Subscription Cancel" = "ยกเลิก";
+"Subscription Coming soon" = "คอยติดตาม";
+"Subscription Records" = "บันทึก";
+
+
+//认购记录
+"Subscription Records title" = "บันทึกการจองซื้อ";
+"Subscription Number" = "ปริมาณ";
+"Subscription Payment" = "จ่ายเงิน";
+"Subscription Time" = "เวลา";
+"Subscription Number of locks" = "จำนวนล็อค";
+"Subscription release" = "ปล่อย";
+"Subscription release records" = "ปล่อยระเบียน";
+
+//释放记录
+"Relase records" = "ปล่อยระเบียน";
+"Relase Number" = "ปริมาณ";
+"Relase Status" = "รัฐ";
+"Relase Time" = "เวลา";
+
+//項目詳情
+"Subscription detail" = "รายละเอียดโครงการ";
+"Subscription detail period" = "ระยะเวลาการจองซื้อ";
+"Subscription detail start time" = "เวลาเริ่มต้น";
+"Subscription detail end time" = "เวลาสิ้นสุด";
+"Subscription detail Project Introduction" = "การแนะนำโครงการ";
+"Subscription detail Info" = "ข้อมูลพื้นฐาน";
+"Subscription detail release time" = "เวลาวางจำหน่าย:";
+"Subscription detail total" = "การออกทั้งหมด:";
+"Subscription detail website" = "เว็บไซต์:";
+"Subscription detail whitepapger" = "กระดาษสีขาว:";
+
+//认购菜单
+"Subscription menu price_" = "ราคา:";
+"Subscription menu balance" = "ยอดคงเหลือในบัญชี:";
+"Subscription menu topUp" = "เติมเงิน";
+"Subscription menu text field placeholder" = "โปรดป้อนจำนวนการสมัครสมาชิก";
+"Subscription menu all" = "สมบูรณ์";
+"Subscription menu payment" = "การชำระเงิน:";
+"Subscription menu tips" = "หลังจากที่ได้สมัครสมาชิกแล้วโปรดตรวจสอบรายละเอียดจากประวัติการสมัครสมาชิก";
+"Subscription menu subscribe" = "ซื้อ";
+"Subscription menu cancel" = "ยกเลิก";
+"Subscription menu number must not be less than" = "จำนวนการสมัครรับข้อมูลต้องไม่น้อยกว่า";
+
+//實名認證
+"Identify Verify title" = "การรับรองชื่อจริง";
+"Identify Verify submit" = "ส่งความเห็น";
+//審核中
+"Verifying" = "ระหว่างการตรวจสอบ";
+"Verifying tips" = "โปรดอดใจรอเราจะตรวจสอบและแสดงความคิดเห็นผลการค้นหาภายใน 1-2 วันทำการ";
+//审核及审核成功信息
+"Identify Verify verifiedMsg" = "ข้อมูลประจำตัวของคุณได้รับการรับรองแล้ว";
+"Identify Verify name" = "ชื่อเต็ม";
+"Identify Verify cardTypeName" = "ชนิด";
+"Identify Verify numberOfCard" = "จำนวน";
+"Identify Verify frontOfCard" = "ภาพหน้าผาก";
+"Identify Verify backOfCard" = "เอกสารกลับมา";
+"Identify Verify holdeByHand" = "ภาพมือถือ";
+"Identify Verify cardtype placehoder" = "โปรดเลือกประเภทรหัส";
+"Identify Verify ID" = "บัตรประชาชน";
+"Identify Verify Passport" = "หนังสือเดินทาง";
+"Identify Verify Driver Licence" = "ใบขับขี่";
+"Identify Verify Other" = "อื่น ๆ";
+"Identify Verify name placehoder" = "โปรดใส่ชื่อของคุณ";
+"Identify Verify number placehoder" = "โปรดป้อนหมายเลขประจำตัวประชาชน";
+
+//审核失败
+"Identify Verify failure" = "ความล้มเหลว";
+"Identify Verify tips" = "หากการตรวจสอบสิทธิ์ล้มเหลวโปรดตรวจสอบรายการต่อไปนี้:\n1. ชื่อและใบรับรองไม่ตรงกันโปรดยืนยันการรับรองอีกครั้ง\n2. รูปถ่ายของใบรับรองไม่ชัดเจนโปรดอัพโหลดรูปถ่ายที่ชัดเจนของบัตรประชาชน\n3. ประเภทของเอกสารไม่เป็นไปตามข้อกำหนดโปรดใช้บัตรประจำตัวประชาชนหนังสือเดินทางใบอนุญาตขับขี่และเอกสารอื่น ๆ โปรดอัพโหลดรูปถ่ายของใบรับรองมาตรฐาน";
+"Identify Verify try again" = "รับรองอีกครั้ง";
+
+
+//持币生息
+"Money Interest title" = "ถือเงิน";
+"Money Interest advantage" = "ลักษณะ";
+"Money Interest feature" = "แนะนำโดยย่อ";
+"Money Interest Join time" = "เข้าร่วมเวลา";
+"Money Interest Management period" = "เส้นตาย";
+"Money Interest End Time" = "เวลาสิ้นสุด";
+"Money Interest Currency" = "โอนเงิน";
+"Money Interest Months" = "เดือน";
+"Money Interest Transfer button title" = "เข้าไป";
+"Money Interest Expected annualized income" = "คาดรายได้ต่อปี";
+"Money Interest Not less than" = "ไม่น้อยกว่า";
+"Money Interest Not greater than" = "ไม่เกิน";
+
+//持币生息转入菜单
+"Money Interest Menu title" = "โอนเงินมัดจำ";
+"Money Interest Menu All" = "สมบูรณ์";
+"Money Interest Menu Expected annualized income" = "คาดรายได้ต่อปี:";
+"Money Interest Menu Balance" = "ยอดคงเหลือในบัญชี:";
+"Money Interest Menu Currency" = "โอนเงิน:";
+"Money Interest Menu Management period" = "เส้นตาย:";
+"Money Interest Menu Transfer button title" = "เข้าไป:";
+"Money Interest Menu text field placeholder" = "โปรดป้อนจำนวนการสมัครสมาชิก";
+
+//持币生息转入菜单
+"Money Interest Deposit title" = "บันทึกเงินฝาก";
+"Money Interest Deposit Operation direction" = "ทิศทางการทำงาน:";
+"Money Interest Deposit Number" = "ปริมาณ:";
+"Money Interest Deposit Expire date" = "เวลาหมดอายุ:";
+"Money Interest Deposit Operation direction out" = "โอนออก";
+"Money Interest Deposit Operation direction in" = "เข้าไป";
+
+//定存記錄
+"Money Interest Records title" = "วิถีแห่งการตั้งถิ่นฐาน";
+"Money Interest Dividend title" = "บันทึกเงินปันผล";
+"Money Interest Records select currency" = "การเลือกสกุลเงิน";
+"Money Interest Records time" = "เวลา";
+"Money Interest Records Currency" = "เงินตรา";
+"Money Interest Records number" = "จำนวน";
+"Money Interest Dividend time" = "เวลา";
+"Money Interest Dividend number" = "จำนวน";
+"Product introduction" = "แนะนำผลิตภัณฑ์";
+
+//行情 排序
+"HBQuotationListHeaderView_name" = "ชื่อ";
+"HBQuotationListHeaderView_Latest price" = "ราคาล่าสุด";
+"HBQuotationListHeaderView_24h change" = "Ups และดาวน์";
+
+//客服
+"Customer Service" = "บริการลูกค้า";
+
+//找回交易密碼
+"Find transaction password" = "เรียกรหัสผ่านของธุรกรรม";
+"Safety verification" = "การตรวจสอบความปลอดภัย";
+"Forgot the original transaction password" = "ลืมรหัสผ่านของการทำธุรกรรมเดิม";
+"Please set a new transaction password" = "โปรดตั้งรหัสผ่านการทำธุรกรรมใหม่";
+"New password_6-digit number" = "รหัสผ่านใหม่ 6 หลัก";
+"Confirm password_6-digit number" = "ยืนยันรหัสผ่านหมายเลข 6 หลัก";
+"Find transaction password submit" = "เสนอ";
+
+//贈送領取
+"Receive award" = "การสะสมของขวัญ";
+"Receive award number" = "ปริมาณ";
+"Receive award type" = "ชนิด";
+"Receive award time" = "เวลา";
+"Receive award receive" = "ได้รับ";
+"Receive award received" = "ได้รับแล้ว";
+"Receive award unverified tips" = "โปรดตรวจสอบประวัติใบเสร็จหลังจากการรับรองชื่อจริง";
+
+//計價方式
+"HBSelectCurrencyTypeTableViewController.title" = "วิธีการกำหนดราคา";
+"HBSelectCurrencyTypeTableViewController.Renminbi" = "Renminbi";
+"HBSelectCurrencyTypeTableViewController.Usd" = "ค่าเงินดอลลาร์สหรัฐ";
+
+//TPOTCBuyListCellDelegate
+"TPOTCBuyListCellDelegate.tips" = "ผู้ซื้อสนับสนุนการชำระเงินให้คุณผ่านทาง xxx คุณต้องเพิ่มและเปิดใช้งานวิธีการชำระเงิน";
+"TPOTCBuyListCellDelegate.add" = "เพิ่ม";
+
+
+
+//
+"HBTokenWithdrawViewController_select" = "เลือกสกุลเงินที่";
+"HBTokenWithdrawViewController_address" = "เสนอเหรียญที่อยู่";
+"HBTokenWithdrawViewController_address_placehoder" = "พิมพ์หรือกดยาววางที่อยู่";
+"HBTokenWithdrawViewController_address_note" = "หมายเหตุ ( ก็ได้ )";
+"HBTokenWithdrawViewController_address_normal" = "เพิ่มที่อยู่สำหรับใช้ทั่วไป";
+"HBTokenWithdrawViewController_counter" = "เพิ่มจำนวนเหรียญ";
+"HBTokenWithdrawViewController_placehoder_counter" = "โปรดระบุจำนวนเงินเพิ่ม";
+"k_MyassetDetailViewController_tableview_all" = "ทั้งหมด";
+"HBTokenWithdrawViewController_placehoder_min" = "ที่เล็กที่สุดที่สามารถเพิ่ม";
+"HBTokenWithdrawViewController_placehoder_max" = "ที่ใหญ่ที่สุดที่สามารถเพิ่ม";
+"HBTokenWithdrawViewController_placehoder_shouxu" = "ค่าลงทะเบียน :";
+"HBTokenWithdrawViewController_placehoder_actual" = "ไปยังบัญชีที่แท้จริง :";
+"HBTokenWithdrawViewController_placehoder_notice" = "คําแนะนําการใช้ :\n\n•โปรดทราบเมื่อพูดถึงเหรียญเล็กที่สุด , ถือเหรียญจำกัด\n\n•ใส่เหรียญทำเทียมในการตรวจสอบกรุณารอ  จํานวนจริงในบัญชีเพื่อรับบัญชีกฎแพลตฟอร์มที่เป็นมาตรฐาน。\n•ให้แน่ใจว่าได้ตรวจสอบว่าเครื่องคอมพิวเตอร์และเบราว์เซอร์ที่ปลอดภัยเพื่อป้องกันข้อมูลที่บิดเบือนหรือรั่วไหล。";
+"HBTokenWithdrawViewController_placehoder_chongbi" = "แสดงให้เห็นว่ามีเหรียญ：\n\n•อย่าให้ที่อยู่ข้างบนไม่เติมเงิน BTC สินทรัพย์หรือทรัพย์สินจะไม่กลับไป\n\n•จะต้องได้รับการยืนยันว่ามีเหรียญบล็อกประสบความสําเร็จในการบันทึกแล้วคุณสามารถไปดูรายละเอียดการบรรจุเหรียญ\n\n•ให้แน่ใจว่าได้ตรวจสอบว่าเครื่องคอมพิวเตอร์และเบราว์เซอร์ที่ปลอดภัยเพื่อป้องกันข้อมูลที่บิดเบือนหรือรั่วไหล";
+
+"HBTokenWithdrawViewController_saveqrcode" = "บันทึกรหัสสองมิติ";
+"HBTokenWithdrawViewController_copy" = "คัดลอกที่อยู่";
+"HBTokenWithdrawViewController_token_reve" = "ในการตรวจสอบ";
+"HBTokenWithdrawViewController_token_scuess" = "พูดถึงความสำเร็จของเหรียญ";
+"HBTokenWithdrawViewController_token_chongbi" = "เหรียญมีประสบความสําเร็จ";
+"HBTokenWithdrawViewController_token_resolve" = "ยกเลิก";
+
+"HBTokenWithdrawViewController_token_type" = "ประเภท：";
+"HBTokenWithdrawViewController_token_number" = "จํานวน：";
+"HBTokenWithdrawViewController_token_sstatus" = "สถานะ：";
+"HBTokenWithdrawViewController_token_address" = "ที่อยู่：";
+"HBTokenWithdrawViewController_token_txid" = "TXID：";
+"HBTokenWithdrawViewController_token_time" = "เวลา：";
+"HBTokenWithdrawViewController_token_detail" = "บันทึกรายละเอียดเพิ่มเติม";
+"HBTokenWithdrawViewController_address" = "เสนอเหรียญที่อยู่";
+"HBTokenWithdrawViewController_add_address" = "เพิ่มที่อยู่";
+"HBTokenWithdrawViewController_edit_address" = "แก้ไขที่อยู่";
+"HBTokenWithdrawViewController_singleaddress" = "ที่อยู่";
+"HBTokenWithdrawViewController_huabi" = "เหรียญจีน";
+"HBTokenWithdrawViewController_changyongdizhi" = "ที่อยู่ที่ใช้";
+"HBTokenWithdrawViewController_edit" = "การแก้ไข";
+"HBTokenWithdrawViewController_del" = "ลบ";
+"HBTokenWithdrawViewController_cancel_scuess" = "ความสําเร็จของการยกเลิก";
+"HBTokenWithdrawViewController_address_note_bixu" = "หมายเหตุ ( ที่จําเป็น )";
+"HBTokenWithdrawViewController_address_chong_jilu" = "เติมเหรียญบันทึก";
+"HBTokenWithdrawViewController_address_ti_jilu" = "เสนอเหรียญบันทึก";
+"HBHomeViewController_address_saveimg_scuess" = "บันทึกภาพที่ประสบความสําเร็จ";
+"HBHomeViewController_address_saveimg_fail" = "บันทึกภาพที่ล้มเหลว";
+"HBHomeViewController_address_alert_title" = "การซื้อขายสกุลเงิน";
+"HBHomeViewController_address_alert_detail" = "สามารถซื้อสินทรัพย์ดิจิตอล";
+"HBHomeViewController_address_alert_miaodong" = "วินาทีKOK";
+"HBHomeViewController_address_alert_kefu" = "กาออนไลน์";
+"HBHomeViewController_address_alert_name" = "ชื่อ";
+"HBHomeViewController_address_alert_new" = "ราคาล่าสุด";
+"HBHomeViewController_address_alert_nd" = "อัตราเงินเฟ้อ";
+"HBHomeViewController_address_alert_cny" = "24Hการหมุนเวียน(CNY)";
+"HBHomeViewController_address_alert_hsl" = "24Hอัตราแลกเปลี่ยน";
+
+
+//商城
+"HBShopViewController_Title" = "ห้างสรรพสินค้า";
+"HBShopViewController_Default_Content" = "HBDAex Mall ตกตะลึง";
+"HBShopViewController_Coming_Soon" = "คอยติดตาม";
+"HBShopViewController_Search_Goods" = "ค้นหาสินค้า";
+"HBShopViewController_Order_management" = "การจัดการคำสั่ง";
+"HBShopViewController_shopping cart" = "ตะกร้าสินค้า";
+"HBShopViewController_Shipping address" = "ที่อยู่สำหรับจัดส่ง";
+"HBShopViewController_Merchant" = "ธุรกิจ";
+"HBShopViewController_Expenses record" = "บันทึกการบริโภค";
+"HBShopViewController_Support" = "สนับสนุน";

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="KGk-i7-Jjw" customClass="IndexNoticeTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="30"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="29.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="index_notice" highlightedImage="index_notice" translatesAutoresizingMaskIntoConstraints="NO" id="TBn-g4-cfh">
+                        <rect key="frame" x="15" y="6" width="17" height="15"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="15" id="LUg-f7-nqp"/>
+                            <constraint firstAttribute="width" constant="17" id="VxF-sp-rDY"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FLn-ha-sHL">
+                        <rect key="frame" x="38" y="6" width="271" height="16"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="16" id="0FN-vq-ZQv"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="FLn-ha-sHL" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="77M-KQ-C2m"/>
+                    <constraint firstItem="FLn-ha-sHL" firstAttribute="leading" secondItem="TBn-g4-cfh" secondAttribute="trailing" constant="6" id="bax-aw-qrx"/>
+                    <constraint firstItem="TBn-g4-cfh" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="15" id="evN-0K-nKe"/>
+                    <constraint firstAttribute="trailing" secondItem="FLn-ha-sHL" secondAttribute="trailing" constant="11" id="gll-WN-eSo"/>
+                    <constraint firstItem="TBn-g4-cfh" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" constant="-1.25" id="med-Pa-0bV"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="aW0-zy-SZf"/>
+            <connections>
+                <outlet property="contentLabel" destination="FLn-ha-sHL" id="P2n-BG-gAZ"/>
+                <outlet property="img" destination="TBn-g4-cfh" id="mHG-uH-74b"/>
+            </connections>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="index_notice" width="16" height="15"/>
+    </resources>
+</document>
